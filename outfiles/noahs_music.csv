@@ -1,0 +1,382 @@
+	id	title	all_artists	popularity	release_date	genre	danceability	energy	key	loudness	mode	acousticness	instrumentalness	liveness	valence	tempo	duration_ms	time_signature
+0	2KB8rqbA52HPAKBcutVp51	Nostalgi	Kapteinen	43	2023-06-23	{'norwegian pop rap', 'rogaland musikk'}	0.86	0.684	8	-5.593	0	0.0205	0.00266	0.0702	0.966	126.977	157087	4
+1	3JtEochUrOXXcOBJ696kZb	Danse ligavell	Kapteinen	30	2021-01-15	{'norwegian pop rap', 'rogaland musikk'}	0.601	0.754	1	-7.655	1	0.00323	0.0	0.0683	0.603	184.11	192750	4
+2	5XCjqm9GXkQtn2wia6O4c6	Bioshock Infinite - After You've Gone - Main Theme - Clean Sound	Geek Music	34	2019-04-05	{'theme'}	0.533	0.153	3	-13.275	1	0.953	2.95e-05	0.0949	0.387	84.118	175363	4
+3	7LcfRTgAVTs5pQGEQgUEzN	"Moves Like Jagger - Studio Recording From ""The Voice"" Performance"	Christina Aguilera	74	2010	{'dance pop', 'pop'}	0.722	0.758	11	-4.477	0	0.0111	0.0	0.308	0.62	128.047	201160	4
+4	4h9wh7iOZ0GGn8QVp4RAOB	I Ain't Worried	OneRepublic	93	2022-05-13	{'piano rock', 'pop'}	0.704	0.797	0	-5.927	1	0.0826	0.000745	0.0546	0.825	139.994	148486	4
+5	38YgZVHPWOWsKrsCXz6JyP	Come On Get Higher	Matt Nathanson	71	2007-01-01	{'acoustic pop', 'neo mellow'}	0.672	0.623	9	-5.699	1	0.241	0.0	0.0848	0.617	92.018	215173	4
+6	0WSQkPcQlvwiBpvmOVpu7t	If I'm on the Late Side	Faces	45	1973	{'country rock', 'glam rock', 'classic rock', 'british blues', 'blues rock', 'roots rock', 'singer-songwriter', 'folk rock', 'psychedelic rock', 'protopunk'}	0.748	0.451	4	-10.601	1	0.517	0.00315	0.0766	0.7	109.672	159053	4
+7	2zYzyRzz6pRmhPzyfMEC8s	Highway to Hell	AC/DC	87	1979-07-27	{'australian rock', 'hard rock', 'rock'}	0.574	0.913	6	-4.793	0	0.061	0.00158	0.156	0.423	115.728	208400	4
+8	7fLTytvnvxy653VWxflTRf	Stay with Me	Faces	65	1971	{'country rock', 'glam rock', 'classic rock', 'british blues', 'blues rock', 'roots rock', 'singer-songwriter', 'folk rock', 'psychedelic rock', 'protopunk'}	0.458	0.869	9	-8.381	1	0.0969	0.0596	0.357	0.813	91.39	279360	4
+9	2gFXQQ7dDY4lquHpUNeDTM	Debris	Faces	50	1971	{'country rock', 'glam rock', 'classic rock', 'british blues', 'blues rock', 'roots rock', 'singer-songwriter', 'folk rock', 'psychedelic rock', 'protopunk'}	0.571	0.628	5	-9.922	1	0.574	0.0123	0.0823	0.798	73.738	276427	4
+10	2cX2coZS1PYBfPs8wgbdWE	More Than A Woman	Bee Gees	75	2020-12-11	{'soft rock', 'disco', 'mellow gold'}	0.601	0.703	7	-6.24	1	0.175	8.4e-05	0.571	0.673	106.164	196213	4
+11	7vFv0yFGMJW3qVXbAd9BK9	Your Body Is a Wonderland	John Mayer	76	2001-08-16	{'singer-songwriter', 'neo mellow'}	0.647	0.729	5	-6.251	1	0.0206	0.0489	0.134	0.687	94.01	249627	4
+12	0q21FNwES2bbtcduB6kjEU	Dancing in the Moonlight	King Harvest	77	1973-01-01	{'soft rock'}	0.657	0.435	10	-15.707	1	0.739	0.0	0.167	0.771	135.975	181133	4
+13	08LimEnw9tyt5aWOfLqffE	Round and Round	Geowulf	24	2019-10-25	{'modern dream pop'}	0.495	0.693	11	-7.453	0	0.000937	0.0183	0.107	0.715	109.984	249573	4
+14	3l9h9PUumj2eePGWjkxFR2	Frihet	Kapteinen	15	2023-01-27	{'norwegian pop rap', 'rogaland musikk'}	0.747	0.677	5	-6.657	1	0.0183	1.13e-06	0.167	0.646	109.992	180885	4
+15	4E6cwWJWZw2zWf7VFbH7wf	Love Song	Sara Bareilles	75	2007-07-03	{'post-teen pop', 'neo mellow', 'lilith', 'pop rock', 'acoustic pop'}	0.583	0.786	2	-3.142	0	0.0208	0.0	0.188	0.573	123.055	258827	4
+16	1TPQUbLZ5oF4yVYwXkIR2F	Hjerta i Stavanger	Kapteinen	32	2023-01-27	{'norwegian pop rap', 'rogaland musikk'}	0.458	0.686	6	-7.097	1	0.00115	0.0	0.113	0.81	155.958	228164	4
+17	0JOD85cRNVI7qbLz8NBaQP	Labyrinth of Eden	Joe Hisaishi	39	2002-03-06	{'japanese classical', 'orchestral soundtrack', 'anime', 'japanese soundtrack', 'anime score'}	0.458	0.0875	0	-23.444	1	0.995	0.884	0.112	0.111	122.274	213773	3
+18	5ixjZIEnQUAoVuCxaZPYQV	Superlim	Kapteinen	33	2022-10-28	{'norwegian pop rap', 'rogaland musikk'}	0.697	0.394	6	-8.636	1	0.442	3.09e-06	0.117	0.307	92.106	142716	4
+19	2Bwxq0b6yTeQEmDjJ7odRC	Spøkelser	Kapteinen	24	2023-01-06	{'norwegian pop rap', 'rogaland musikk'}	0.752	0.768	1	-5.571	0	0.0175	0.0	0.0335	0.728	158.01	162153	4
+20	3gdewACMIVMEWVbyb8O9sY	Rocket Man (I Think It's Going To Be A Long, Long Time)	Elton John	83	1972-05-19	{'glam rock', 'mellow gold', 'rock', 'piano rock'}	0.601	0.532	10	-9.119	1	0.432	6.25e-06	0.0925	0.341	136.571	281613	4
+21	4Lun4dCF7S41uPvughSIM0	Føle meg bedre	Kapteinen	34	2022-05-06	{'norwegian pop rap', 'rogaland musikk'}	0.728	0.709	5	-10.038	1	0.0542	0.000331	0.0852	0.61	101.01	184900	4
+22	4udQdukrhegqWhqdprQtbx	Summer Night	RIOPY	37	2019-09-27	{'neo-classical'}	0.451	0.113	4	-24.914	1	0.978	0.825	0.095	0.0807	80.017	310240	4
+23	0feI2qZLlaapheeJeznYwZ	Paper Bag	O F F	53	2022-12-16	{'trap beats', 'lo-fi brasileiro'}	0.834	0.456	7	-10.803	1	0.959	0.937	0.114	0.429	90.012	154984	4
+24	6ReTCbOAUbnKKVBY0ckJMS	Manhattan	Blossom Dearie	50	1958-01-01	{'vocal jazz'}	0.413	0.0342	8	-26.111	1	0.952	0.000314	0.127	0.177	102.662	259707	4
+25	6DxP5I8SdtYtFPe7TvqHif	I Want You Tonight	Geowulf	28	2019-10-25	{'modern dream pop'}	0.544	0.68	11	-6.378	0	0.000362	0.000436	0.14	0.608	125.019	235800	4
+26	6UnCGAEmrbGIOSmGRZQ1M2	Light On	Maggie Rogers	70	2019-01-18	{'indie pop'}	0.657	0.569	2	-6.287	1	0.201	1.38e-05	0.126	0.399	102.054	233880	4
+27	4HfLQJtVT1KiX1eVedDyTm	Alaska	Maggie Rogers	72	2019-01-18	{'indie pop'}	0.847	0.386	9	-10.668	0	0.411	0.00176	0.108	0.178	104.001	188000	4
+28	0OGo0CHKYXBzb9A9KdtQLz	Tout Doucement	Blossom Dearie	53	1957-04-01	{'vocal jazz'}	0.488	0.156	8	-17.617	1	0.89	0.0	0.14	0.379	96.576	143760	4
+29	2TVxnKdb3tqe1nhQWwwZCO	Tiny Dancer	Elton John	79	1971-11-05	{'glam rock', 'mellow gold', 'rock', 'piano rock'}	0.414	0.428	0	-11.097	1	0.382	0.000243	0.148	0.282	145.075	377093	4
+30	4bgfMOKbX5q7XHRECffBl5	And I Love You So	Don McLean	50	1992-01-01	{'soft rock', 'heartland rock', 'folk', 'classic rock', 'mellow gold', 'singer-songwriter', 'folk rock'}	0.31	0.187	11	-15.96	1	0.703	0.203	0.206	0.127	90.977	257693	4
+31	3XHc3zwCmos6IAvbQVxdAz	Work in Progress	Geowulf	19	2018-02-16	{'modern dream pop'}	0.516	0.722	9	-5.639	0	0.00101	4.72e-06	0.0751	0.522	125.966	252147	4
+32	2x1LQq8lsUzAA2wNj8yjC9	Pick Up the Pieces	Average White Band	59	1974	{'p funk', 'funk', 'disco', 'quiet storm', 'soul'}	0.768	0.853	10	-5.915	0	0.0548	0.13	0.0188	0.889	107.234	239908	4
+33	7vY1aTvz9p5UzP7i514MWX	My Resignation	Geowulf	18	2019-10-25	{'modern dream pop'}	0.545	0.706	2	-6.563	1	0.024	0.00269	0.244	0.212	116.041	290813	4
+34	3bGmob8nw4PPfOQTwIirIS	Drown	Geowulf	0	2022-04-01	{'modern dream pop'}	0.529	0.471	2	-11.701	1	0.0408	0.000448	0.139	0.338	84.084	244627	4
+35	5co7SRip6NdL2iaytMDTY4	È la vita	Marco Armani	0	2017-11-03	{'classic italian pop'}	0.375	0.632	7	-8.741	1	0.376	0.0	0.155	0.541	188.093	251782	4
+36	74JdR9aXE6I74oS1BVRsvb	O-o-h Child	The Five Stairsteps	68	2001-11-06	{'classic soul', 'motown', 'chicago soul'}	0.488	0.754	5	-7.95	0	0.00154	2.42e-05	0.678	0.664	88.368	197160	4
+37	0NtyuUILV22rjcc7JiSFfA	Glad and Sorry	Faces	52	1973	{'country rock', 'glam rock', 'classic rock', 'british blues', 'blues rock', 'roots rock', 'singer-songwriter', 'folk rock', 'psychedelic rock', 'protopunk'}	0.572	0.484	4	-9.444	1	0.567	0.299	0.12	0.823	167.333	186827	4
+38	50nfwKoDiSYg8zOCREWAm5	Shivers	Ed Sheeran	87	2021-10-29	{'singer-songwriter pop', 'uk pop', 'pop'}	0.788	0.859	2	-2.724	1	0.281	0.0	0.0424	0.822	141.02	207853	4
+39	3EtIraJEHVSbBvLw5msioH	Northern Sky	Nick Drake	62	1970-03-06	{'singer-songwriter', 'melancholia', 'folk', 'british folk'}	0.53	0.264	5	-18.16	0	0.552	0.694	0.133	0.489	90.048	224013	4
+40	5co4auGB54orUOkHsDnwUY	Sunrise	RIOPY	30	2018-02-02	{'neo-classical'}	0.144	0.424	5	-15.346	1	0.829	0.896	0.148	0.139	87.063	173093	4
+41	5Hn2dUqSBV79DHbMuHI11h	La Vie	RIOPY	36	2018-02-02	{'neo-classical'}	0.225	0.163	7	-19.778	1	0.968	0.961	0.114	0.284	74.413	260307	4
+42	5XEwkz6o2JWAQL9xmtJC3X	Changing Times	RIOPY	43	2021-06-04	{'neo-classical'}	0.423	0.418	2	-11.002	0	0.978	0.954	0.117	0.207	180.098	78000	4
+43	0bAyAgDVR87QnXBucT1G8g	Abstinenser	Kapteinen	42	2020-07-03	{'norwegian pop rap', 'rogaland musikk'}	0.845	0.493	10	-8.73	1	0.137	0.0	0.0739	0.843	129.97	165750	4
+44	5QUeSXjTMHbq1fW5da2waF	Place To Be	Nick Drake	63	1972-02-25	{'singer-songwriter', 'melancholia', 'folk', 'british folk'}	0.547	0.38	5	-9.521	1	0.865	0.152	0.107	0.395	83.579	160926	4
+45	4KROoGIaPaR1pBHPnR3bwC	Pink Moon	Nick Drake	71	1972-02-25	{'singer-songwriter', 'melancholia', 'folk', 'british folk'}	0.642	0.427	3	-8.471	1	0.871	0.0904	0.124	0.404	82.344	124001	4
+46	1fDsrQ23eTAVFElUMaf38X	American Pie	Don McLean	80	1971	{'soft rock', 'heartland rock', 'folk', 'classic rock', 'mellow gold', 'singer-songwriter', 'folk rock'}	0.531	0.481	4	-11.709	0	0.699	0.0	0.0842	0.491	138.45	516893	4
+47	5PBcNzOndRqvRHcV7kUxl7	It's Alright	The Big Push	48	2019-03-29	set()	0.869	0.349	4	-7.421	1	0.624	0.0	0.128	0.725	114.105	205658	4
+48	1Y9CNCm8icZUaMtQV29NpC	Lonely Leslie	Thomas Preber	44	2021-10-01	{'background piano'}	0.289	0.0982	9	-23.597	0	0.995	0.936	0.0918	0.106	84.064	159242	4
+49	2fzRBJ6xbrHGyRCBR2fE9n	Love My Way	The Psychedelic Furs	0	2017-11-03	{'new romantic', 'new wave pop', 'new wave', 'post-punk'}	0.674	0.831	0	-7.282	1	0.0221	9.9e-05	0.107	0.606	126.075	213173	4
+50	5qFRPfX8KnMsnlbNrjXxHR	Life of the Party	Sofia Mills	0	2021-11-19	set()	0.56	0.327	7	-8.815	1	0.419	6.87e-06	0.0831	0.202	78.004	256093	4
+51	5E3P9e1hvjyIOlFyqNB5eD	Rich Girl	Daryl Hall & John Oates	69	2005-04-25	{'soft rock', 'heartland rock', 'classic rock', 'album rock', 'mellow gold', 'singer-songwriter', 'yacht rock', 'rock'}	0.598	0.643	5	-6.303	1	0.5	0.0	0.0435	0.823	167.971	144333	4
+52	2I9zHCCeKJRKMgJ6UJFN9W	Coffee Breath	Sofia Mills	0	2018-03-08	set()	0.866	0.211	11	-12.676	0	0.974	0.0	0.0987	0.198	101.295	163902	4
+53	65r94rVdiMwqXyQFEr3tqT	Resonance	Home	71	2014-07-01	set()	0.566	0.74	8	-8.614	1	0.0352	0.849	0.221	0.419	170.098	212881	5
+54	2GjGgIfg5FqMJ0KQW8HVzV	Lady Lady Lady	Giorgio Moroder & Joe Esposito	0	2017-11-03	set()	0.503	0.528	4	-10.074	0	0.407	0.00217	0.272	0.398	83.578	255453	4
+55	2MWOqewf5j0qf2b6S5J6cS	Marry Me	Train	69	2010-12-01	{'dance pop', 'pop rock', 'neo mellow', 'pop'}	0.461	0.267	0	-8.514	1	0.834	2.03e-05	0.107	0.481	87.918	205453	4
+56	4oy98QoABnGKpvapDkI525	Turning Tables	Adele	66	2011-01-24	{'pop soul', 'uk pop', 'pop', 'british soul'}	0.353	0.446	0	-6.044	0	0.95	1.35e-05	0.132	0.211	155.476	250000	4
+57	2hKdd3qO7cWr2Jo0Bcs0MA	Drops of Jupiter (Tell Me)	Train	81	2001-03-27	{'dance pop', 'pop rock', 'neo mellow', 'pop'}	0.481	0.638	0	-5.862	1	0.153	0.0	0.154	0.497	79.064	259933	4
+58	1eBhVFhD268KUfyCszShFC	All American Girl	Train	31	2003-06-03	{'dance pop', 'pop rock', 'neo mellow', 'pop'}	0.436	0.859	2	-3.421	1	0.0099	0.0	0.331	0.613	186.201	197627	4
+59	3tjwjBfPO1pyjhnrI0J5Nq	Head First	Home	55	2016-02-26	set()	0.681	0.743	5	-9.897	0	0.000348	0.809	0.0958	0.426	133.997	213133	4
+60	56pHllZT7QOacB0bP56ofx	Chasing Pavements	Adele	72	2008-01-28	{'pop soul', 'uk pop', 'pop', 'british soul'}	0.616	0.47	5	-6.092	0	0.291	0.0	0.111	0.325	80.03	210507	4
+61	4fIWvT19w9PR0VVBuPYpWA	Haven't Met You Yet	Michael Bublé	72	2009-10-06	{'jazz pop', 'lounge', 'canadian pop', 'adult standards'}	0.615	0.733	8	-4.808	1	0.152	0.0	0.109	0.796	122.58	244587	4
+62	4M9lfUgDeLHu1fL2ZxZSlu	Empire	Of Monsters and Men	55	2015-06-05	{'folk-pop', 'modern rock', 'metropopolis', 'stomp and holler'}	0.504	0.692	5	-6.32	0	0.000422	0.000761	0.0919	0.544	118.96	260413	4
+63	2GCFcbxm61rSA8gzsDk6NJ	Hammer To Fall	Queen	48	1984-02-27	{'glam rock', 'classic rock', 'rock'}	0.41	0.675	9	-9.033	1	0.164	0.000396	0.103	0.566	128.495	266600	4
+64	2dukVKfWRxfMnpZbLq7hEI	Building Bright	RIOPY	19	2021-06-04	{'neo-classical'}	0.57	0.444	3	-15.462	1	0.964	0.885	0.0975	0.469	119.993	156704	4
+65	2VEsmoek0sol9MnJFyoG9e	Burnin' Up	Jonas Brothers	73	2008-08-12	{'boy band', 'pop'}	0.667	0.954	2	-3.462	1	0.0296	0.0	0.331	0.807	114.03	175093	4
+66	5MTQbjkMmE6WsDQ8JlyEVo	Play My Music	Jonas Brothers	55	2008-01-01	{'boy band', 'pop'}	0.471	0.875	2	-3.499	1	0.000652	0.0	0.239	0.759	177.98	197507	4
+67	5r8cnleYmzVjuLzVRQXqbW	Put Your Head on My Shoulder	Michael Bublé	44	2003	{'jazz pop', 'lounge', 'canadian pop', 'adult standards'}	0.25	0.253	2	-13.568	1	0.78	0.000849	0.14	0.103	119.399	266867	4
+68	2SjTIj7uS9Mi5vS6Ra5bOL	Washed Away	RIOPY	11	2012-05-01	{'neo-classical'}	0.357	0.0581	5	-21.675	1	0.99	0.931	0.0953	0.0762	66.243	153943	4
+69	1GVXbkQGidWl3obKyq51b2	Drive	RIOPY	47	2018-02-02	{'neo-classical'}	0.298	0.48	8	-13.357	1	0.649	0.785	0.0964	0.417	94.209	305053	4
+70	601KiLiZtBJRTXBrTjeieP	Ode to Viceroy	Mac DeMarco	0	2012-10-16	{'edmonton indie', 'lo-fi indie', 'pov: indie'}	0.514	0.632	2	-6.305	1	0.208	0.0132	0.115	0.31	94.569	233818	4
+71	1JaA8uKEQy74uvouAQ8gBC	Magnetic North	Alestorm	0	2014-08-05	{'british power metal', 'pirate', 'comic metal', 'power metal', 'scottish metal'}	0.529	0.921	6	-4.454	0	0.000836	4.03e-06	0.103	0.495	122.0	226840	4
+72	12IFfvwwQxi6brymsYvFJL	Satie: 3 Gymnopédies: No. 1, Lent et douloureux	Alexandre Tharaud	30	2020-10-23	{'early modern classical', 'french classical piano', 'early avant garde', 'impressionism', 'post-romantic era', 'classical', 'classical piano'}	0.589	0.00643	4	-32.69	0	0.995	0.942	0.0866	0.47	133.427	230147	4
+73	4opgRBGGDePBULgTfwu0Xn	Flo	RIOPY	36	2019-09-27	{'neo-classical'}	0.5	0.0516	8	-24.682	1	0.986	0.901	0.136	0.0848	80.008	232893	4
+74	2QSrwZ7iVknZgkfi4aD6cn	Saltwater	Geowulf	59	2018-02-16	{'modern dream pop'}	0.552	0.828	2	-5.811	1	0.0006	0.363	0.115	0.709	107.031	247280	4
+75	3hwu7jZD2TjvWCeHzNlgSE	River Lea	Adele	58	2015-11-20	{'pop soul', 'uk pop', 'pop', 'british soul'}	0.384	0.585	1	-5.588	1	0.0591	1.77e-06	0.116	0.252	82.378	225427	4
+76	3NSXye5pZhOBpnJYKhwXi5	Open Me Up	Geowulf	0	2021-11-05	{'modern dream pop'}	0.608	0.448	9	-11.197	1	0.00808	0.0126	0.103	0.523	105.991	222120	4
+77	3yUcJwYu7fXAfqMj9krY6l	Thank You	Dido	76	1999	{'dance pop', 'neo mellow', 'europop', 'lilith', 'pop rock'}	0.725	0.583	1	-9.942	0	0.3	0.000238	0.0665	0.762	79.984	218360	4
+78	7iyd0aOJ2J54hENgLeGxCk	Stardust	Willie Nelson	46	1978-04-01	{'country rock', 'classic country pop', 'outlaw country', 'singer-songwriter', 'classic texas country', 'nashville sound', 'country'}	0.549	0.267	9	-12.382	0	0.881	0.0209	0.137	0.0993	144.546	230933	4
+79	7gA5OQWsvAY7HhazroFuwI	Save Me, San Francisco	Train	55	2010-12-01	{'dance pop', 'pop rock', 'neo mellow', 'pop'}	0.639	0.938	2	-2.729	1	0.0531	0.0	0.617	0.886	112.012	249427	4
+80	7FwBtcecmlpc1sLySPXeGE	Dancing In the Dark	Bruce Springsteen	82	1984-06-04	{'heartland rock', 'mellow gold', 'singer-songwriter', 'permanent wave', 'rock'}	0.527	0.942	1	-5.64	0	0.0115	0.0	0.188	0.495	148.723	241307	4
+81	5FgPwJ7Nh2FVmIXviKl2VF	Make You Feel My Love	Adele	75	2008-01-28	{'pop soul', 'uk pop', 'pop', 'british soul'}	0.317	0.172	10	-10.636	1	0.907	0.000383	0.105	0.0963	65.18	212040	3
+82	4zXa17K83Pp6N2yXdVc2sv	You're The Best	"Joe ""Bean"" Esposito"	64	1984	set()	0.571	0.863	4	-7.661	0	0.257	0.0	0.532	0.782	94.299	179667	4
+83	05TOt5Vz4StdjMpEdFPlvB	All I Ask	Adele	72	2015-11-20	{'pop soul', 'uk pop', 'pop', 'british soul'}	0.591	0.28	4	-5.494	1	0.889	0.0	0.124	0.348	141.916	271800	4
+84	2G5J8DMmlUiPTEltrOWYd1	Sweet dream	RIOPY	0	2021-07-02	{'neo-classical'}	0.289	0.0937	1	-20.273	1	0.986	0.866	0.0885	0.168	87.279	197573	4
+85	75JFxkI2RXiU7L9VXzMkle	The Scientist	Coldplay	87	2002-08-08	{'permanent wave', 'pop'}	0.557	0.442	5	-7.224	1	0.731	1.46e-05	0.11	0.213	146.277	309600	4
+86	1aayZc3JciIs2GhZcSlCrw	We're Finally Landing	Home	63	2014-12-28	set()	0.481	0.546	2	-13.266	1	0.052	0.0263	0.454	0.072	180.047	272039	4
+87	1bhpub6BolgKXDD7iMkYTZ	Wolves Without Teeth	Of Monsters and Men	56	2015-06-05	{'folk-pop', 'modern rock', 'metropopolis', 'stomp and holler'}	0.362	0.72	11	-6.169	0	0.00108	0.000417	0.332	0.436	135.637	232973	5
+88	7GgWAITsYJaRM3r50rfh5w	When We Were Young	Adele	76	2015-11-20	{'pop soul', 'uk pop', 'pop', 'british soul'}	0.376	0.595	3	-5.936	1	0.303	0.0	0.095	0.265	144.361	290900	4
+89	5lwQGZYF4BXOzFtXc5zk8q	"Head Over Heels - Dave Bascombe 7"" N.Mix"	Dave Bascombe	73	1985-02-25	{'new wave', 'new romantic', 'permanent wave', 'synthpop', 'sophisti-pop', 'new wave pop', 'rock'}	0.623	0.739	7	-8.116	1	0.338	1.88e-05	0.109	0.642	95.007	257316	4
+90	2QfiRTz5Yc8DdShCxG1tB2	Johnny B. Goode	Chuck Berry	79	1959-07-01	{'classic rock', 'blues rock', 'rockabilly', 'rock-and-roll', 'soul', 'blues', 'rock'}	0.534	0.803	10	-9.129	1	0.741	6.07e-05	0.307	0.969	167.983	161560	4
+91	5HF5PRNJ8KGtbzNPPc93tG	King And Lionheart	Of Monsters and Men	53	2012-01-01	{'folk-pop', 'modern rock', 'metropopolis', 'stomp and holler'}	0.52	0.655	3	-6.516	1	0.104	0.00347	0.124	0.289	126.593	273853	4
+92	60ZGteAEtPCnGE6zevgUcd	Mountain Sound	Of Monsters and Men	67	2012-01-01	{'folk-pop', 'modern rock', 'metropopolis', 'stomp and holler'}	0.379	0.879	1	-4.336	0	0.0421	0.00449	0.146	0.37	102.021	211453	4
+93	54OBgO0Xwu20Jak9TMXbR7	Wellerman - Sea Shanty	Nathan Evans	76	2021-01-21	set()	0.675	0.359	3	-5.157	1	0.614	0.0	0.137	0.792	191.903	155333	4
+94	1hjW0eqVruLkpT4EOj3rBG	No Grave But The Sea	Alestorm	0	2017-05-26	{'british power metal', 'pirate', 'comic metal', 'power metal', 'scottish metal'}	0.549	0.974	10	-3.757	0	3.91e-05	2.3e-05	0.112	0.717	140.073	209787	4
+95	7N3PAbqfTjSEU1edb2tY8j	Jump - 2015 Remaster	Van Halen	82	1984-01-04	{'classic rock', 'hard rock', 'album rock', 'rock'}	0.572	0.835	0	-6.219	1	0.171	0.000377	0.0702	0.795	129.981	241600	4
+96	0dfAHJmRg7JtCbitsageQG	Rinaldo, HWV 7: Lascia ch'io pianga (Arr. for Piano)	Martin Stadtfeld	52	2019-11-08	{'early music', 'german baroque', 'english baroque', 'baroque', 'classical', 'german classical piano', 'classical piano'}	0.253	0.0272	5	-31.271	1	0.993	0.916	0.0979	0.125	68.211	268000	4
+97	2oaK4JLVnmRGIO9ytBE1bt	Dark Necessities	Red Hot Chili Peppers	75	2016-06-17	{'funk rock', 'alternative rock', 'funk metal', 'permanent wave', 'rock'}	0.7	0.742	5	-6.777	0	0.0722	0.0199	0.11	0.197	91.959	302000	4
+98	2aibwv5hGXSgw7Yru8IYTO	Snow (Hey Oh)	Red Hot Chili Peppers	81	2006-05-09	{'funk rock', 'alternative rock', 'funk metal', 'permanent wave', 'rock'}	0.427	0.9	11	-3.674	1	0.116	1.75e-05	0.119	0.599	104.655	334667	4
+99	6bruC2yqRBjAczjLkJoD0l	Echidna's Parade	Alan Gogoll	36	2019-04-02	{'tassie indie'}	0.501	0.169	2	-16.59	1	0.936	0.937	0.111	0.344	108.735	265601	4
+100	4U45aEWtQhrm8A5mxPaFZ7	Vienna	Billy Joel	81	1977	{'soft rock', 'heartland rock', 'classic rock', 'album rock', 'mellow gold', 'singer-songwriter', 'piano rock', 'rock'}	0.532	0.495	10	-6.662	1	0.659	0.0	0.0754	0.308	124.936	214240	4
+101	0Im4n5Ty21axN6iADQQVIm	Also sprach Zarathustra, Op. 30: Prelude (Sunrise)	Chicago Symphony Orchestra	0	2014-06-02	{'avant-garde', 'early modern classical', 'classical performance', 'orchestra', 'post-romantic era', 'classical', 'contemporary classical', 'serialism', 'german romanticism', 'acousmatic', 'orchestral performance', 'american orchestra'}	0.128	0.0669	0	-18.651	1	0.258	0.753	0.106	0.0886	88.846	121933	4
+102	0qdQUeKVyevrbKhAo0ibxS	My Sweet Lord - Remastered 2014	George Harrison	19	1970-11-27	{'soft rock', 'beatlesque', 'classic rock', 'album rock', 'mellow gold', 'singer-songwriter', 'folk rock', 'rock'}	0.537	0.701	1	-8.913	0	0.0972	0.0	0.0832	0.583	120.919	281227	4
+103	2oFgZSzpbXscqwZQyoFIzW	The Peacocks	Tony Reedus	29	2004-09-21	{'jazz trio'}	0.386	0.148	0	-18.921	0	0.949	0.792	0.0665	0.128	94.88	567920	4
+104	1fnKHY9FBFexqlx69unvhd	What Are You Doing New Years Eve	The Jeff Steinberg Orchestra	36	2003-01-01	set()	0.295	0.195	10	-13.589	1	0.784	0.847	0.149	0.213	105.324	297679	4
+105	3KT0SEsaO5RuzQv1pIKDEx	Plus Je T'embrasse	Blossom Dearie	47	1958-01-01	{'vocal jazz'}	0.621	0.108	0	-17.413	0	0.917	0.0	0.106	0.448	136.947	151533	4
+106	4fUU9WKxEgJXyrZJsUA2iP	Can't You See	The Marshall Tucker Band	72	1973	{'soft rock', 'country rock', 'classic rock', 'album rock', 'mellow gold', 'blues rock', 'singer-songwriter', 'hard rock', 'southern rock'}	0.406	0.713	7	-5.49	1	0.276	0.00354	0.112	0.577	164.444	365093	4
+107	1G391cbiT3v3Cywg8T7DM1	Scar Tissue	Red Hot Chili Peppers	83	1999-06-08	{'funk rock', 'alternative rock', 'funk metal', 'permanent wave', 'rock'}	0.595	0.717	0	-4.803	1	0.0779	0.00274	0.108	0.547	88.969	215907	4
+108	2hnMS47jN0etwvFPzYk11f	Santeria	Sublime	82	1996-07-30	{'rap rock', 'ska mexicano', 'reggae fusion', 'ska punk'}	0.682	0.765	1	-5.021	0	0.0268	3.42e-05	0.188	0.567	90.807	182747	4
+109	1Qa0Y05al633fG8f9Peytc	Maybe I’m Amazed - 2011 Remaster	Paul McCartney	68	1970-04-17	{'classic rock', 'mellow gold', 'beatlesque', 'rock'}	0.471	0.494	7	-10.407	1	0.387	0.0944	0.617	0.373	79.255	229827	4
+110	2BY7ALEWdloFHgQZG6VMLA	Brandy (You're a Fine Girl)	Looking Glass	79	1972	{'sunshine pop'}	0.716	0.625	1	-11.369	0	0.396	1.97e-05	0.134	0.826	125.276	186827	4
+111	0LAcM6I7ijW4VVW0aytl1t	One (Remastered)	Metallica	72	1988-09-07	{'thrash metal', 'old school thrash', 'hard rock', 'metal', 'rock'}	0.438	0.687	7	-9.15	1	0.000668	0.0801	0.42	0.426	103.01	446146	3
+112	48yZwqAxCZk0t2ssDw2hzH	Rule The World - Radio Edit	Take That	40	2007-01-01	{'boy band', 'europop', 'talent show'}	0.357	0.774	2	-4.226	1	0.0376	0.0	0.348	0.348	164.054	237760	4
+113	5NdxiycRi3nP2v7RJoAJIT	Your Hand In Mine	Explosions In The Sky	0	2003-11-04	{'post-rock', 'melancholia', 'instrumental post-rock', 'cinematic post-rock', 'american post-rock'}	0.279	0.472	4	-16.42	1	0.103	0.874	0.063	0.135	115.13	496573	3
+114	4je9hv9suQQXUeTtSYLssD	Memories	Sappheiros	34	2015-09-17	set()	0.548	0.456	8	-11.414	0	0.896	0.888	0.0989	0.0944	140.006	315455	4
+115	365TSrFPqM66giaxJuafR3	Shine A Little Light	The Black Keys	59	2019-06-28	{'alternative rock', 'modern rock', 'modern blues rock', 'blues rock', 'garage rock', 'indietronica', 'punk blues', 'indie rock', 'rock', 'roots rock'}	0.44	0.719	8	-6.645	0	0.0217	5.09e-06	0.0663	0.523	111.398	196777	4
+116	7vVtCG0LmChEV6NaIwALOh	People Need A Melody	The Head And The Heart	45	2019-05-03	{'folk-pop', 'stomp and holler', 'seattle indie'}	0.586	0.54	0	-5.761	1	0.192	0.0	0.127	0.162	82.156	252302	4
+117	2EWpa5XnAuSn0sIkSSIhYk	Wish I Knew You	The Revivalists	69	2015-07-15	{'modern alternative rock'}	0.649	0.718	0	-6.593	0	0.142	0.0713	0.124	0.718	101.034	274093	4
+118	1IcwyDAAdo5mYIC5ujB9sz	I Am Not in Love Anymore	Liza Anne	32	2014-02-04	{'indie folk'}	0.541	0.619	4	-7.247	0	0.261	1.24e-05	0.112	0.381	87.828	278958	4
+119	7i4djTQpiLyENLfjkIgFho	Crinan Wood	Alexi Murdoch	28	2011-03-08	{'indie folk', 'acoustic pop', 'british singer-songwriter'}	0.439	0.152	3	-18.313	1	0.989	0.633	0.0668	0.109	136.646	523080	4
+120	2mtYt7WxFKIi2sCc3xntOj	Wait	Alexi Murdoch	30	2006-06-06	{'indie folk', 'acoustic pop', 'british singer-songwriter'}	0.469	0.286	6	-9.454	1	0.78	0.0103	0.197	0.164	116.368	357307	4
+121	1m7ei97uPOsZXCqiXuZhZF	Ill With Want	The Avett Brothers	36	2009-01-01	{'north carolina indie', 'indie folk', 'stomp and holler', 'new americana', 'progressive bluegrass', 'north carolina roots'}	0.425	0.409	7	-6.526	1	0.74	0.00139	0.227	0.289	138.398	244987	4
+122	0ySxC028CNDtK2G7zuaUcn	The Once And Future Carpenter	The Avett Brothers	43	2012-01-01	{'north carolina indie', 'indie folk', 'stomp and holler', 'new americana', 'progressive bluegrass', 'north carolina roots'}	0.552	0.615	4	-8.604	1	0.183	0.00487	0.302	0.436	142.585	292200	4
+123	6H3kDe7CGoWYBabAeVWGiD	Gimme Shelter	The Rolling Stones	78	1969-12-05	{'classic rock', 'album rock', 'rock', 'british invasion'}	0.634	0.63	1	-8.277	0	0.447	0.039	0.17	0.489	118.628	270773	4
+124	1iDcKYNvo6gglrOG6lvnHL	Sympathy For The Devil	The Rolling Stones	0	1968-12-06	{'classic rock', 'album rock', 'rock', 'british invasion'}	0.668	0.672	9	-10.79	1	0.581	1.09e-06	0.0403	0.613	115.767	377747	4
+125	4LKieNzKrd4nk25Mq8dkfu	There Must Be Discipline	Jocko Willink	0	2019-01-25	{'welsh hip hop', 'motivation', 'hard motivation'}	0.485	0.943	10	-4.363	0	4.98e-05	0.566	0.45	0.164	139.973	281143	4
+126	3qrEG6rQ9Qm72MNWeUKKiU	Wham Bam Shang-A-Lang	Silver	70	1976	set()	0.65	0.759	1	-4.932	1	0.353	0.0	0.155	0.943	121.454	212840	4
+127	2hE5Lm5XOHR4t3xlhIFauP	Fooled Around And Fell In Love	Elvin Bishop	64	1975-01-01	{'southern rock', 'country rock'}	0.633	0.621	10	-11.494	1	0.042	0.0172	0.186	0.593	113.325	276000	3
+128	1cXc92MX9kFjMrrDsvdf9w	Wang Dang Doodle	Koko Taylor	53	1987-01-01	{'blues', 'chicago blues', 'electric blues', 'traditional blues'}	0.648	0.544	1	-8.963	1	0.343	2.93e-06	0.087	0.619	153.063	182827	4
+129	7IgYUzuv1g95q1WsexzCwQ	Bathroom Mirror / You're Coming Right?	Justin Hurwitz	38	2016-12-09	{'hollywood', 'movie tunes'}	0.714	0.427	1	-15.378	0	0.31	0.868	0.314	0.54	127.651	82813	4
+130	0gMYjcuAwOcCBGruZqj14t	Illusory Motion	Elder	36	2019-07-12	{'progressive doom', 'post-metal', 'sludge metal', 'stoner rock', 'stoner metal', 'modern hard rock', 'boston metal'}	0.311	0.619	3	-9.076	1	0.0377	0.894	0.109	0.241	79.92	593387	4
+131	09cd8ns02cqsEEkKRMOWOt	Im Morgengrauen	Elder	28	2019-07-12	{'progressive doom', 'post-metal', 'sludge metal', 'stoner rock', 'stoner metal', 'modern hard rock', 'boston metal'}	0.42	0.606	2	-9.531	1	0.0825	0.937	0.111	0.0398	109.933	324533	4
+132	5ihS6UUlyQAfmp48eSkxuQ	Landslide	Fleetwood Mac	80	1975-07-11	{'soft rock', 'classic rock', 'album rock', 'yacht rock', 'rock'}	0.414	0.161	7	-22.32	0	0.883	0.000223	0.117	0.423	159.375	199493	4
+133	05XfD1AQfsViO7yaaLcxZM	Get to Me	Train	40	2003-06-03	{'dance pop', 'pop rock', 'neo mellow', 'pop'}	0.55	0.83	5	-6.333	1	0.00137	1.02e-06	0.143	0.583	172.022	245440	4
+134	3h0NvxPV2wiENW2ieih9DL	When I Look to the Sky	Train	48	2003-06-03	{'dance pop', 'pop rock', 'neo mellow', 'pop'}	0.506	0.663	0	-3.972	1	0.086	0.0	0.118	0.498	80.299	244640	4
+135	1ptf0DYhMQKwJzEF7D3asc	III	Elder	31	2011-09-06	{'progressive doom', 'post-metal', 'sludge metal', 'stoner rock', 'stoner metal', 'modern hard rock', 'boston metal'}	0.456	0.76	0	-5.978	0	0.00173	0.961	0.118	0.226	133.952	523398	3
+136	2pzPIvmSIZY9iArMiNgmWB	How to Be Me	CHINCHILLA	0	2019-12-25	{'brighton indie'}	0.456	0.207	1	-9.711	0	0.9	0.0	0.122	0.325	179.559	228000	3
+137	0s1aSsYlLIEiy16LjFWbdp	Dirty Work	Steely Dan	2	1972-01-01	{'soft rock', 'country rock', 'classic rock', 'album rock', 'mellow gold', 'yacht rock', 'folk rock', 'rock'}	0.631	0.354	1	-11.112	1	0.795	0.000107	0.0879	0.522	73.007	188693	4
+138	6s0NHplywwr1IjnQpUpWJk	Bad To The Bone	George Thorogood & The Destroyers	72	1982-01-01	{'heartland rock', 'country rock', 'classic rock', 'album rock', 'mellow gold', 'blues rock', 'hard rock', 'rock'}	0.459	0.727	0	-11.777	1	0.00614	0.0652	0.384	0.955	149.231	292173	1
+139	5m8gFV8hXan4DmvzUEAczI	Organs	Of Monsters and Men	36	2015-06-09	{'folk-pop', 'modern rock', 'metropopolis', 'stomp and holler'}	0.463	0.123	7	-12.562	0	0.928	1.44e-06	0.136	0.259	136.618	271560	4
+140	24eQ0KNvk3JVnmfvTOhCdF	Ahay	Of Monsters and Men	45	2019-07-26	{'folk-pop', 'modern rock', 'metropopolis', 'stomp and holler'}	0.533	0.697	8	-7.655	1	0.0123	0.000333	0.0999	0.396	168.153	176187	4
+141	2AqCyqDUkb4090o1jnbL0N	Róróró	Of Monsters and Men	45	2019-07-26	{'folk-pop', 'modern rock', 'metropopolis', 'stomp and holler'}	0.64	0.691	6	-6.062	0	0.0185	0.00103	0.0914	0.603	95.002	261333	4
+142	4igIYHF3B5VBxEafHauVo3	Fat Bottomed Girls - Remastered 2011	Queen	69	1978-11-10	{'glam rock', 'classic rock', 'rock'}	0.337	0.684	2	-7.674	1	0.0319	6.57e-06	0.342	0.404	88.772	255600	4
+143	5vpfRHcdjR9RBkXUziWoJV	Sloom	Of Monsters and Men	37	2012-01-01	{'folk-pop', 'modern rock', 'metropopolis', 'stomp and holler'}	0.479	0.411	1	-8.833	1	0.557	0.000528	0.0797	0.316	89.782	283947	4
+144	3AF6JW5zzVmSkQWIKMVYqh	Stuck In Gravity	Of Monsters and Men	41	2019-07-26	{'folk-pop', 'modern rock', 'metropopolis', 'stomp and holler'}	0.495	0.546	11	-8.878	1	0.0182	5.26e-06	0.067	0.205	90.067	264227	4
+145	3Lfsq0q1GQLRxi7V4hqzLp	What Goes Up	Watsky	0	2019-01-11	{'abstract hip hop', 'comic', 'indie pop rap', 'nerdcore'}	0.651	0.564	2	-8.011	1	0.0268	0.0	0.187	0.208	85.901	162400	4
+146	1Y2Jh9e3iRjsOGNswyWVzY	Massenet: Thaïs, Act 2: Méditation	Prague Philharmonia	33	2017-01-13	{'french opera', 'french romanticism', 'opera', 'post-romantic era', 'orchestra', 'classical', 'symfonicky orchestr', 'american classical piano'}	0.337	0.0124	4	-29.369	0	0.993	0.874	0.081	0.0485	96.742	317773	3
+147	1w1vmGM5nzNsQviR9dC4Sc	Ukiyo	RIOPY	45	2019-09-27	{'neo-classical'}	0.439	0.0561	9	-23.791	0	0.99	0.909	0.0695	0.105	159.984	235107	4
+148	5RPiBNQVmuEm7YlVVotrLa	Your Time Is Gonna Come - Remaster	Led Zeppelin	52	1969-01-12	{'classic rock', 'hard rock', 'album rock', 'rock'}	0.328	0.575	7	-10.437	1	0.351	0.000556	0.688	0.249	149.645	274694	4
+149	4JtvyWkWQTPVcroZf8JJkp	Heart of Courage	Two Steps from Hell	68	2010-05-03	{'orchestral soundtrack', 'epicore'}	0.403	0.591	1	-8.126	1	0.511	0.896	0.108	0.192	135.047	117395	4
+150	4THoSHxiabL1rd59iVWu2T	Cold Coffee	Ed Sheeran	52	2014-06-23	{'singer-songwriter pop', 'uk pop', 'pop'}	0.544	0.529	6	-6.753	1	0.453	0.0	0.131	0.403	92.936	254227	4
+151	0SaopEgTo6O5dJoFXBbulL	Friends Will Be Friends - Remastered 2011	Queen	47	1986-06-02	{'glam rock', 'classic rock', 'rock'}	0.442	0.532	4	-7.721	0	0.0377	1.43e-05	0.336	0.352	75.034	246907	3
+152	5hYmQRY9XV2ZctgvIAbqBA	New York	RIOPY	0	2017-07-14	{'neo-classical'}	0.21	0.21	4	-17.916	1	0.96	0.885	0.11	0.0395	165.257	210760	4
+153	3Mc9PmuAGNevSiKMZsGKtA	You've Got A Friend In Me	Joshua Redman	34	2011-01-01	{'straight-ahead jazz', 'jazz', 'contemporary jazz', 'jazz saxophone', 'contemporary post-bop'}	0.702	0.192	0	-11.689	0	0.822	0.702	0.142	0.368	129.06	235333	4
+154	16EyUKbpib1iHyV3qa0HYH	Doing All Right - BBC Session / February 5th 1973, Langham 1 Studio	Queen	18	2016-10-21	{'glam rock', 'classic rock', 'rock'}	0.37	0.303	9	-12.881	1	0.392	6.68e-05	0.0928	0.346	94.245	251840	4
+155	49cwPSsc6btfr0uPrxtDWZ	Summer Waltz	Clarence Öfwerman	27	2018-08-22	{'focus'}	0.59	0.0913	4	-19.751	0	0.995	0.962	0.128	0.429	78.09	222061	4
+156	5phLXp2XdLBwLuftxbGe2T	On an Evening in Roma (Sott'er Celo de Roma)	Michael Bublé	0	2016-09-23	{'jazz pop', 'lounge', 'canadian pop', 'adult standards'}	0.431	0.334	6	-7.645	1	0.684	2.89e-06	0.119	0.658	137.021	162520	4
+157	4BP3uh0hFLFRb5cjsgLqDh	Fortunate Son	Creedence Clearwater Revival	86	1969-11-02	{'swamp rock', 'country rock', 'classic rock', 'southern rock', 'rock'}	0.64	0.663	0	-7.516	1	0.201	0.00806	0.152	0.663	132.77	140773	4
+158	5DnT9a5IM3eMjKgXTWVJvi	Have You Ever Seen The Rain	Creedence Clearwater Revival	67	1970-12-07	{'swamp rock', 'country rock', 'classic rock', 'southern rock', 'rock'}	0.743	0.47	0	-13.154	1	0.0936	3.15e-05	0.186	0.89	116.122	160333	4
+159	1rbieHTuGFWstwVk9o7Fgr	Banana Man	Tally Hall	59	2005-10-24	{'pov: indie', 'ann arbor indie'}	0.541	0.59	2	-8.602	1	0.397	2.6e-05	0.145	0.132	113.158	249800	4
+160	6hcJNCMr2QYYz7EjN31TlM	So This Is Love	Selah Sue	39	2017-11-10	{'belgian pop', 'neo soul'}	0.666	0.27	8	-8.529	1	0.6	0.000114	0.0886	0.44	96.857	200427	4
+161	4o6BgsqLIBViaGVbx5rbRk	You Make My Dreams (Come True)	Daryl Hall & John Oates	82	1980	{'soft rock', 'heartland rock', 'classic rock', 'album rock', 'mellow gold', 'singer-songwriter', 'yacht rock', 'rock'}	0.751	0.501	5	-12.151	1	0.234	0.112	0.0467	0.902	167.057	190627	4
+162	0aNyZsNQZykSvoiwrjhBFB	Hemet Pine Singer	Will Stratton	23	2012-11-13	set()	0.358	0.232	6	-13.803	0	0.956	0.896	0.106	0.0742	121.937	229853	4
+163	3HTh7uGks6NLz92ktXjXQZ	Only Mortal	Peter Dahlgren	14	2017-02-16	set()	0.375	0.266	9	-11.642	0	0.936	0.801	0.0751	0.0389	148.368	279533	4
+164	6FfdbDMgOWLVg8Ay3m2WGR	If I Didn't Care	The Ink Spots	0	2009	{'vocal harmony group', 'lounge'}	0.441	0.132	11	-16.601	0	0.993	0.00102	0.135	0.323	88.151	186400	4
+165	1NV6sCADgcLSW7DG7zSWlq	Ten Years Gone - 1990 Remaster	Led Zeppelin	0	1975-02-24	{'classic rock', 'hard rock', 'album rock', 'rock'}	0.544	0.4	2	-12.504	1	0.526	0.0378	0.0716	0.264	76.982	391400	4
+166	779yzSKfuVgQhwS5Kuj247	Dead Roots Stirring	Elder	36	2011-09-06	{'progressive doom', 'post-metal', 'sludge metal', 'stoner rock', 'stoner metal', 'modern hard rock', 'boston metal'}	0.25	0.859	7	-7.013	1	1.54e-05	0.664	0.26	0.449	119.922	719917	4
+167	0aBBIonGDbOcEyntUARrUV	Gemini	Elder	43	2011-09-06	{'progressive doom', 'post-metal', 'sludge metal', 'stoner rock', 'stoner metal', 'modern hard rock', 'boston metal'}	0.183	0.876	2	-5.52	0	4.51e-05	0.0162	0.209	0.222	126.214	580238	4
+168	6mvPYBSid1qSSERWmTHA8E	Ser Proletius Returns	Gloryhammer	0	2015-09-25	{'british power metal', 'symphonic metal', 'comic metal', 'fantasy metal', 'power metal', 'scottish metal'}	0.177	0.274	10	-11.959	1	0.703	0.857	0.118	0.117	122.697	298173	3
+169	0GRBFjza23Im7Xb16c9AaK	No Quarter - Remaster	Led Zeppelin	59	1973-03-28	{'classic rock', 'hard rock', 'album rock', 'rock'}	0.33	0.342	11	-14.09	1	0.734	0.671	0.129	0.0795	142.95	422518	4
+170	5GtoqO7XBHAtfOLi4H6ENn	Apocalypse 1992	Gloryhammer	0	2015-09-25	{'british power metal', 'symphonic metal', 'comic metal', 'fantasy metal', 'power metal', 'scottish metal'}	0.503	0.977	1	-5.858	1	1.86e-05	0.0744	0.116	0.12	100.026	578982	4
+171	5q1vASyFU0R7NohmEORVMJ	Universe On Fire	Gloryhammer	0	2015-09-25	{'british power metal', 'symphonic metal', 'comic metal', 'fantasy metal', 'power metal', 'scottish metal'}	0.341	0.928	2	-5.2	1	3.36e-05	4.33e-06	0.109	0.353	174.859	246493	4
+172	7nLCXYFjvl19unUcvXZJ4K	Rise Of The Chaos Wizards	Gloryhammer	0	2015-09-25	{'british power metal', 'symphonic metal', 'comic metal', 'fantasy metal', 'power metal', 'scottish metal'}	0.363	0.958	2	-4.447	1	3.95e-06	0.296	0.163	0.132	179.976	237160	4
+173	3Wunwn44wcWRNB4zb03AvA	Since I've Been Loving You - Remaster	Led Zeppelin	48	2007	{'classic rock', 'hard rock', 'album rock', 'rock'}	0.388	0.356	5	-11.187	0	0.00216	0.0762	0.139	0.338	118.199	444800	3
+174	1Oui96x92JVAzK4nsoKavW	River Free	Boil The Ocean	0	2017-05-05	{'chill beats'}	0.177	0.0405	6	-22.472	1	0.986	0.683	0.105	0.0399	66.363	173226	4
+175	7EFCvwwCeXn5WGcMvqlQvo	Mass (Re-Imagined)	Phoria	35	2018-03-16	{'brighton indie'}	0.186	0.122	7	-19.87	0	0.918	0.914	0.102	0.0349	77.164	212524	4
+176	5KXdflxoxCcE9m5F2QoAUY	Over the Hills and Far Away - 1990 Remaster	Led Zeppelin	0	1973-03-28	{'classic rock', 'hard rock', 'album rock', 'rock'}	0.412	0.54	7	-13.897	1	0.0582	0.0717	0.0849	0.299	96.783	289360	4
+177	1emJEaD89zDqqY2QdgWiqW	Don’t Stop	Jon Batiste	34	2018-09-28	{'new orleans jazz'}	0.382	0.172	6	-12.637	0	0.95	0.000137	0.117	0.155	77.734	229880	4
+178	0Y2SrByf4G3kbq2nBEHQRn	Spirit in the Sky	Norman Greenbaum	0	1996	{'classic rock'}	0.601	0.643	2	-5.828	1	0.112	0.00209	0.088	0.552	128.262	239600	4
+179	5qGNpxkebY7iqN6i46dDma	Stick to Your Guns	Julia Nunes	36	2016-08-19	{'abstract hip hop', 'nerdcore', 'indie pop rap', 'nyc pop', 'comic'}	0.462	0.384	5	-13.429	1	0.756	0.00016	0.0858	0.1	77.815	244960	4
+180	4ILOGFnSMDzbtn0zXMCFwW	Try Your Wings	Blossom Dearie	39	1997-01-01	{'vocal jazz'}	0.555	0.0287	5	-22.592	1	0.984	0.000146	0.18	0.294	120.47	203733	4
+181	0PH9BOy0zeIuxiDuaUYl4P	How Little We Know	Susannah McCorkle	0	1996-01-01	{'vocal jazz', 'contemporary vocal jazz'}	0.597	0.224	1	-12.736	1	0.872	0.0	0.0918	0.406	122.084	220560	4
+182	3FZlf7gRTZNyH8NUmwYp41	To the End of the World	Alestorm	0	2017-05-26	{'british power metal', 'pirate', 'comic metal', 'power metal', 'scottish metal'}	0.488	0.985	11	-3.576	1	2.92e-06	0.000421	0.0385	0.244	112.506	403120	3
+183	5jLqVCGlKNYrLqCA1Qy4FV	Babylon	David Gray	3	1998-11-02	{'permanent wave', 'neo mellow'}	0.737	0.543	8	-10.403	1	0.0598	0.01	0.103	0.256	112.016	265667	4
+184	5qRJZGqWHMpKRxk8rmAVto	Gloomy Sunday	Branford Marsalis	35	2004-01-01	{'jazz saxophone', 'new orleans jazz', 'jazz', 'contemporary post-bop'}	0.421	0.0967	7	-16.441	0	0.91	0.415	0.218	0.183	77.401	763467	4
+185	6ybViy2qrO9sIi41EgRJgx	Don't Know Why	Norah Jones	5	2002-02-26	{'jazz pop', 'vocal jazz', 'contemporary vocal jazz'}	0.732	0.198	5	-11.775	1	0.883	1.1e-05	0.0659	0.618	88.174	186147	4
+186	3B4q6KbHbGV51HO3GznBFF	What I Got	Sublime	77	1996-07-30	{'rap rock', 'ska mexicano', 'reggae fusion', 'ska punk'}	0.804	0.696	7	-7.47	1	0.00877	0.000985	0.314	0.657	95.721	170907	4
+187	19slC7k8bsPOAKDjHYLU2W	Father And Son	Yusuf / Cat Stevens	1	1970-11-23	{'folk', 'classic rock', 'mellow gold', 'british folk', 'singer-songwriter', 'folk rock'}	0.499	0.33	7	-11.467	1	0.589	4.21e-05	0.102	0.395	135.993	221000	4
+188	1xD8LOLKZTBWp7SXQrUANX	Cool Cat	Queen	52	1982-05-03	{'glam rock', 'classic rock', 'rock'}	0.822	0.335	1	-12.71	0	0.325	0.000957	0.201	0.9	73.77	209027	4
+189	55fg1bDXyNUsY2KaSMNFpA	Open Your Eyes	Snow Patrol	0	2006-01-01	{'neo mellow', 'modern rock', 'permanent wave', 'pop rock', 'irish rock'}	0.518	0.798	7	-6.386	1	0.000762	0.000863	0.101	0.046	130.972	341267	4
+190	6XK6Zw6JkFsHXzAcMWNiIr	Send Me On My Way	Rusted Root	72	1994-01-01	{'jam band', 'pittsburgh rock'}	0.5	0.704	0	-8.797	1	0.125	1.79e-05	0.138	0.722	119.463	263360	4
+191	4CoSCPlKNrWli7E5kFtbcl	Little Lies - 2017 Remaster	Fleetwood Mac	76	1987-04-13	{'soft rock', 'classic rock', 'album rock', 'yacht rock', 'rock'}	0.64	0.649	2	-10.345	1	0.216	8.3e-05	0.0551	0.865	124.825	221053	4
+192	6U4VqEHy4n5VeiH4pQPL24	You're Welcome	Dwayne Johnson	75	2016-11-18	{'meme'}	0.788	0.745	5	-7.072	1	0.29	0.0	0.0373	0.672	135.278	163893	4
+193	4lJ6YVXQ0jUk5ILu0PSrA4	Ooh La La	Faces	73	1973	{'country rock', 'glam rock', 'classic rock', 'british blues', 'blues rock', 'roots rock', 'singer-songwriter', 'folk rock', 'psychedelic rock', 'protopunk'}	0.601	0.574	2	-8.166	1	0.579	1.14e-05	0.216	0.8	147.964	214080	4
+194	34x6hEJgGAOQvmlMql5Ige	"Danger Zone - From ""Top Gun"" Original Soundtrack"	Kenny Loggins	78	1997-03-25	{'soft rock', 'heartland rock', 'classic rock', 'album rock', 'mellow gold', 'singer-songwriter', 'yacht rock', 'new wave pop'}	0.544	0.897	3	-6.056	0	0.241	0.0	0.13	0.647	157.17	215133	4
+195	6crfO56bDm0RjpctUuGs5X	I'm In The Mood For Love	Julie London	61	1955-12-01	{'torch song', 'vocal jazz'}	0.58	0.0545	9	-14.594	0	0.963	0.000265	0.0967	0.177	123.341	149827	4
+196	7yMSBYlmVEZYZS6V1SLrth	3 Nocturnes, Op. 9: II. Andante	Brigitte Engerer	40	2010-02-09	{'french classical piano', 'classical piano', 'classical', 'polish classical', 'early romantic era'}	0.388	0.0163	10	-26.561	1	0.989	0.918	0.177	0.104	94.445	274040	3
+197	6hvFXQ9Kmsabx520Xlu5rK	Spread Your Wings - Remastered 2011	Queen	46	1977-10-28	{'glam rock', 'classic rock', 'rock'}	0.393	0.658	9	-6.474	1	0.281	2.4e-05	0.0642	0.458	174.867	274227	4
+198	4OJFkrRQqol4FsPesF8eu4	Saturday in the Park - 2002 Remaster	Chicago	68	1972-07-10	{'soft rock', 'classic rock', 'album rock', 'mellow gold', 'yacht rock', 'rock'}	0.67	0.763	7	-6.864	1	0.155	0.0	0.0799	0.61	114.398	235667	4
+199	3JOVTQ5h8HGFnDdp4VT3MP	Mad World	Michael Andrews	70	2001-01-01	{'neo mellow'}	0.344	0.0585	3	-17.212	1	0.976	0.000362	0.103	0.323	174.149	189507	4
+200	7Hx2EA4wGaxtsiZCVVLV1i	Deacon Blues	Steely Dan	0	1977-01-01	{'soft rock', 'country rock', 'classic rock', 'album rock', 'mellow gold', 'yacht rock', 'folk rock', 'rock'}	0.75	0.58	0	-12.475	1	0.437	0.000472	0.105	0.614	115.871	456640	4
+201	4hTBjrz9ijmTmfmWZhaQ8Q	Walk the Plank	Alestorm	0	2014-08-05	{'british power metal', 'pirate', 'comic metal', 'power metal', 'scottish metal'}	0.501	0.943	8	-4.303	1	1.42e-05	0.183	0.371	0.418	105.035	246667	4
+202	2dgex0FiYtsHguA8D5WScn	Fucked with an Anchor	Alestorm	0	2017-05-26	{'british power metal', 'pirate', 'comic metal', 'power metal', 'scottish metal'}	0.537	0.971	10	-3.926	0	0.000505	0.0	0.117	0.472	76.964	207493	4
+203	35cnc4XqirI3CzVMIaQQWP	Mexico	Alestorm	0	2017-05-26	{'british power metal', 'pirate', 'comic metal', 'power metal', 'scottish metal'}	0.573	0.962	1	-3.779	1	6.63e-05	1.08e-06	0.32	0.862	128.009	190333	4
+204	4mQHhaQgsJ8fQ9LtS3916H	Hangover (Taio Cruz Cover)	Alestorm	0	2014-08-05	{'british power metal', 'pirate', 'comic metal', 'power metal', 'scottish metal'}	0.634	0.915	6	-4.642	1	0.00413	0.0	0.295	0.751	134.985	221227	4
+205	6BFxwgQOv5RZvQngoaQ1ur	Human	Of Monsters and Men	41	2015-06-09	{'folk-pop', 'modern rock', 'metropopolis', 'stomp and holler'}	0.521	0.732	4	-5.408	0	0.000783	0.57	0.159	0.185	125.99	237813	4
+206	0tuE3l1TPJ9tKG4w63kgtf	Don't Be Nice	Watsky	41	2016-08-19	{'abstract hip hop', 'comic', 'indie pop rap', 'nerdcore'}	0.568	0.764	8	-6.5	1	0.25	0.0171	0.116	0.251	122.752	198067	4
+207	2vGniq27SpGmajGsASzNf2	Tiny Glowing Screens, Pt. 3	Watsky	33	2016-08-19	{'abstract hip hop', 'comic', 'indie pop rap', 'nerdcore'}	0.45	0.943	7	-4.438	0	0.349	0.0	0.202	0.21	83.407	232613	4
+208	5GWCndQ8ykzf6rYRvwrFcj	Anyone Who Knows What Love Is (Will Understand)	Irma Thomas	58	1966-01-01	{'classic soul', 'new orleans blues', 'louisiana blues', 'southern soul', 'new orleans soul'}	0.595	0.279	2	-12.794	1	0.838	0.00605	0.0841	0.212	92.345	176080	3
+209	0shGCs5AkhwJIgUb0SSz2B	The Way You Look Tonight	Frank Sinatra	55	2015-04-21	{'easy listening', 'lounge', 'adult standards'}	0.589	0.369	5	-8.678	0	0.855	0.0	0.352	0.529	132.954	201200	4
+210	3I09LQbHS3NSU46Ly3tPpR	Feeling Good	Michael Bublé	68	2005-02-07	{'jazz pop', 'lounge', 'canadian pop', 'adult standards'}	0.535	0.548	1	-6.51	1	0.533	1.48e-06	0.123	0.477	115.144	237333	3
+211	5b7OgznPJJr1vHNYGyvxau	Fly Me To The Moon (In Other Words)	Count Basie	74	1962-12-10	{'swing', 'adult standards', 'vocal jazz', 'harlem renaissance', 'jazz', 'easy listening', 'lounge', 'jazz piano', 'big band'}	0.668	0.26	7	-14.256	1	0.453	0.0	0.0621	0.368	119.416	147000	4
+212	2EIaO5knwUA3F2qnf9LV3S	Beyond the Sea	Bobby Darin	57	2004-11-23	{'vocal jazz', 'adult standards', 'easy listening', 'rock-and-roll', 'lounge'}	0.521	0.516	2	-7.456	0	0.723	0.0	0.257	0.569	136.483	172480	4
+213	0vFOzaXqZHahrZp6enQwQb	Money	Pink Floyd	74	1973-03-01	{'symphonic rock', 'classic rock', 'album rock', 'art rock', 'psychedelic rock', 'rock', 'progressive rock'}	0.468	0.536	11	-10.422	0	0.024	0.00199	0.269	0.785	126.256	382834	1
+214	3CNqo3gYrfexdrtjFmC9he	Where Is The Love?	Black Eyed Peas	4	2003	{'dance pop', 'pop rap', 'pop'}	0.834	0.696	5	-3.224	1	0.11	0.0	0.13	0.804	94.09	272533	4
+215	7hQJA50XrCWABAu5v6QZ4i	Don't Stop Me Now - Remastered 2011	Queen	76	1978-11-10	{'glam rock', 'classic rock', 'rock'}	0.563	0.865	5	-5.277	1	0.0472	0.000191	0.77	0.601	156.271	209413	4
+216	2wroDH1nE0lZFjRyI6lIR6	Black Water	Of Monsters and Men	48	2015-06-05	{'folk-pop', 'modern rock', 'metropopolis', 'stomp and holler'}	0.471	0.592	0	-7.746	1	0.002	0.314	0.0671	0.193	114.975	253293	4
+217	4RvWPyQ5RL0ao9LPZeSouE	Everybody Wants To Rule The World	Tears For Fears	90	1985-02-25	{'new wave', 'new romantic', 'permanent wave', 'synthpop', 'sophisti-pop', 'new wave pop', 'rock'}	0.645	0.795	7	-12.095	1	0.347	0.00389	0.104	0.535	112.067	251489	4
+218	7IWkJwX9C0J7tHurTD7ViL	When We Were Young	Adele	2	2016-06-24	{'pop soul', 'uk pop', 'pop', 'british soul'}	0.381	0.594	3	-5.97	1	0.348	0.0	0.0925	0.273	143.86	290907	4
+219	73EaA3mjNHgsIiFrm2hZzV	Love You True	Lydia Luce	5	2015-10-08	{'indie folk', 'new americana'}	0.502	0.289	2	-11.07	1	0.839	0.000196	0.123	0.351	78.495	233845	4
+220	250RLekaiL1q9qZer975Eg	If We Were Vampires	Jason Isbell and the 400 Unit	66	2017-06-16	{'new americana', 'folk', 'roots rock', 'alternative country'}	0.629	0.208	5	-16.225	1	0.824	3.7e-06	0.107	0.685	96.609	215564	4
+221	7GqWnsKhMtEW0nzki5o0d8	Killer Queen - Remastered 2011	Queen	72	1974-11-08	{'glam rock', 'classic rock', 'rock'}	0.535	0.65	10	-6.328	1	0.379	0.0	0.14	0.61	117.188	179600	4
+222	6VObnIkLVruX4UVyxWhlqm	Skyfall	Adele	82	2012-10-04	{'pop soul', 'uk pop', 'pop', 'british soul'}	0.346	0.552	0	-6.864	0	0.417	0.0	0.114	0.0789	75.881	286480	4
+223	7hVhRCDV100Jq26NGR7adw	Good Times Roll	The Cars	66	1978-06-06	{'soft rock', 'new wave', 'new romantic', 'power pop', 'classic rock', 'album rock', 'mellow gold', 'singer-songwriter', 'hard rock', 'permanent wave', 'synthpop', 'new wave pop', 'rock'}	0.607	0.662	4	-9.456	1	0.0951	8.27e-05	0.125	0.629	107.643	225853	4
+224	2WzjSLQwAyDwXqa5A2VCQ6	Let's Go - 2016 Remaster	The Cars	31	2017-07-28	{'soft rock', 'new wave', 'new romantic', 'power pop', 'classic rock', 'album rock', 'mellow gold', 'singer-songwriter', 'hard rock', 'permanent wave', 'synthpop', 'new wave pop', 'rock'}	0.66	0.882	2	-6.405	1	0.0167	0.028	0.0965	0.914	131.353	213093	4
+225	1SRkKyJ2JjMZgyDWC30zKv	My Best Friend's Girl	The Cars	67	1978-06-06	{'soft rock', 'new wave', 'new romantic', 'power pop', 'classic rock', 'album rock', 'mellow gold', 'singer-songwriter', 'hard rock', 'permanent wave', 'synthpop', 'new wave pop', 'rock'}	0.799	0.608	5	-8.193	1	0.0811	0.0137	0.102	0.963	121.915	223253	4
+226	4alHo6RGd0D3OUbTPExTHN	Just What I Needed	The Cars	77	1978-06-06	{'soft rock', 'new wave', 'new romantic', 'power pop', 'classic rock', 'album rock', 'mellow gold', 'singer-songwriter', 'hard rock', 'permanent wave', 'synthpop', 'new wave pop', 'rock'}	0.619	0.579	4	-9.307	1	0.0152	6.4e-05	0.0858	0.69	127.224	225627	4
+227	0hKF8N8aflF1uDzEEnPr2j	Life Is A Highway	Tom Cochrane	64	1992	{'classic canadian rock', 'canadian singer-songwriter', 'mellow gold'}	0.683	0.751	5	-10.184	1	0.0681	8.36e-06	0.248	0.841	103.036	266560	4
+228	2lFFiNm0XtgJ6wkdncTB4k	Drive - 2017 Remaster	The Cars	74	1984	{'soft rock', 'new wave', 'new romantic', 'power pop', 'classic rock', 'album rock', 'mellow gold', 'singer-songwriter', 'hard rock', 'permanent wave', 'synthpop', 'new wave pop', 'rock'}	0.261	0.703	6	-7.871	1	0.115	0.00078	0.102	0.405	83.495	234332	4
+229	1GCbc1vpkZA2zhjsSFhmHT	Fuck You	Lily Allen	59	2009-01-26	{'dance pop', 'electropop'}	0.775	0.904	1	-4.08	0	0.0271	0.000303	0.06	0.84	130.009	219893	4
+230	1I7zHEdDx8Ny5RxzYPqsU2	Reelin' In The Years	Steely Dan	7	1972-01-01	{'soft rock', 'country rock', 'classic rock', 'album rock', 'mellow gold', 'yacht rock', 'folk rock', 'rock'}	0.523	0.758	2	-9.81	1	0.133	0.0	0.0952	0.766	135.437	277267	4
+231	4OMu5a8sFpcRCPCcsoEaov	Babe I'm Gonna Leave You - 1990 Remaster	Led Zeppelin	63	1969-01-12	{'classic rock', 'hard rock', 'album rock', 'rock'}	0.404	0.435	4	-12.045	0	0.246	0.00074	0.156	0.156	136.058	401067	4
+232	6golelYKuy85o3u0cxIxFK	The Wire	HAIM	63	2013-09-30	{'indietronica', 'metropopolis'}	0.547	0.635	2	-5.569	1	0.0127	5.01e-06	0.0585	0.525	113.678	245293	4
+233	3JLrri1xSCui3bzITDJbkk	The Rain Song - Remaster	Led Zeppelin	61	1973-03-28	{'classic rock', 'hard rock', 'album rock', 'rock'}	0.336	0.318	0	-11.412	1	0.317	0.0716	0.111	0.24	79.66	459094	4
+234	3QmesrvdbPjwf7i40nht1D	Everlong - Acoustic Version	Foo Fighters	70	2009-11-03	{'modern rock', 'alternative rock', 'alternative metal', 'permanent wave', 'post-grunge', 'rock'}	0.643	0.344	2	-11.342	1	0.909	0.0112	0.106	0.547	144.171	250907	4
+235	2WfaOiMkCvy7F5fcp2zZ8L	Take on Me	a-ha	89	1985-06-01	{'new wave', 'new romantic', 'permanent wave', 'synthpop', 'new wave pop'}	0.573	0.902	6	-7.638	0	0.018	0.00125	0.0928	0.876	84.412	225280	4
+236	7GVUmCP00eSsqc4tzj1sDD	Come and Get Your Love - Single Version	Redbone	80	1973-11-01	{'native american', 'native american contemporary'}	0.731	0.804	11	-7.621	0	0.172	0.00028	0.0685	0.957	107.383	205933	4
+237	2RlgNHKcydI9sayD2Df2xp	Mr. Blue Sky	Electric Light Orchestra	82	1977	{'soft rock', 'symphonic rock', 'beatlesque', 'glam rock', 'classic rock', 'album rock', 'mellow gold', 'art rock', 'rock'}	0.388	0.338	10	-10.054	1	0.652	3.73e-06	0.248	0.478	177.765	303373	4
+238	53eJFr4Mfbw5PXJ01K6cFw	Daughter - Remastered	Pearl Jam	71	1993-10-19	{'alternative rock', 'classic rock', 'alternative metal', 'permanent wave', 'grunge', 'rock'}	0.615	0.702	7	-9.686	1	0.00746	0.00431	0.0608	0.734	96.987	234333	4
+239	6AKSrodq9kU9hmTLEeWFFr	Crush	Dave Matthews Band	54	1998-04-28	{'jam band', 'pop rock', 'neo mellow'}	0.564	0.745	0	-6.933	1	0.262	2.78e-05	0.108	0.672	94.044	488734	4
+240	1qHXpsRP2gwteJCPUrc9wA	You & Me	Dave Matthews Band	0	2009-06-02	{'jam band', 'pop rock', 'neo mellow'}	0.652	0.627	7	-7.313	1	0.436	8.11e-06	0.0674	0.315	137.867	340533	3
+241	2nklcPJ3YhYJfC2ibStXz9	#41	Dave Matthews Band	57	1996-04-30	{'jam band', 'pop rock', 'neo mellow'}	0.577	0.726	4	-8.011	0	0.00199	0.0386	0.158	0.764	107.416	399800	4
+242	1HL3yEnYq8LEyFQ3QegA5V	Crash into Me	Dave Matthews Band	68	1996-04-30	{'jam band', 'pop rock', 'neo mellow'}	0.541	0.677	4	-10.764	1	0.122	0.0191	0.0938	0.555	101.1	316467	4
+243	6p6TjiJHc1kJQt5dXzkdrs	I Don't Dance	Disney	62	2007-01-01	"{'movie tunes', ""children's music""}"	0.804	0.88	9	-5.061	0	0.00317	0.0	0.226	0.682	104.111	217240	4
+244	0SYRVn2YF7HBscQEmlkpTI	Roxanne - Remastered 2003	The Police	0	1978-11-02	{'classic rock', 'permanent wave', 'album rock', 'rock'}	0.608	0.746	0	-8.851	1	0.026	2.39e-06	0.043	0.745	134.03	191947	4
+245	3d9DChrdc6BOeFsbrZ3Is0	Under the Bridge	Red Hot Chili Peppers	84	1991-09-24	{'funk rock', 'alternative rock', 'funk metal', 'permanent wave', 'rock'}	0.559	0.345	4	-13.496	1	0.0576	0.000105	0.141	0.458	84.581	264307	4
+246	7azKk54xoNtNRv2g7KjGYD	La mer - Beyond the Sea	Stéphane Grappelli	24	2005-10-17	{'swing', 'jazz guitar', 'gypsy jazz', 'french jazz', 'jazz', 'jazz violin'}	0.42	0.339	5	-10.402	1	0.968	0.459	0.0992	0.403	93.959	257680	4
+247	5EWPGh7jbTNO2wakv8LjUI	Free Bird	Lynyrd Skynyrd	81	1973-01-01	{'classic rock', 'album rock', 'hard rock', 'southern rock', 'rock'}	0.249	0.834	0	-8.21	1	0.0738	9.48e-05	0.0924	0.338	118.223	547107	4
+248	70LC9mcVfFoITE6PAG5s87	Volver A Comenzar	Café Tacvba	52	2007-01-01	{'latin rock', 'latin pop', 'latin alternative', 'mexican rock', 'rock en espanol'}	0.39	0.628	1	-6.274	0	0.00235	0.00109	0.137	0.434	130.023	463960	4
+249	3Y8Ff1nH44jFywAtpgmleZ	1979 - Remastered 2012	The Smashing Pumpkins	59	1995-12-12	{'alternative rock', 'spacegrunge', 'alternative metal', 'permanent wave', 'grunge', 'rock'}	0.767	0.787	3	-9.897	1	0.0163	0.583	0.0513	0.964	126.879	266200	4
+250	0oBFdZvVdeF0b1zkyrQdqB	Together / Your Hand in Mine (Radio Edit)	Tracey Chattaway	33	2017-01-05	{'focus'}	0.362	0.255	7	-14.254	1	0.839	0.622	0.13	0.114	143.928	296261	3
+251	2Sqv9Ne6ibOZsKxY7o0t6t	All the Pretty Girls - Recorded at Spotify Studios NYC	KALEO	50	2016-10-28	{'modern alternative rock', 'icelandic rock', 'icelandic indie'}	0.471	0.273	1	-10.072	1	0.845	0.0	0.12	0.188	138.683	307173	4
+252	5oQupzGAfibxxCbUMsRHbr	Back Through Time	Alestorm	0	2011-06-14	{'british power metal', 'pirate', 'comic metal', 'power metal', 'scottish metal'}	0.397	0.976	8	-4.643	1	5.29e-05	0.000205	0.0877	0.242	195.11	303267	4
+253	2wvMC5EyaaYQwBfiwwY2xE	Life's Been Good	Joe Walsh	70	1978-06-01	{'soft rock', 'heartland rock', 'country rock', 'classic rock', 'album rock', 'mellow gold', 'blues rock', 'singer-songwriter', 'hard rock', 'southern rock', 'rock'}	0.505	0.476	2	-12.897	1	0.25	0.00915	0.113	0.542	99.31	536227	4
+254	1SQzV8arwSEmshQ2FaMCy1	Cocoon	Jack Johnson	47	2003-01-01	{'neo mellow'}	0.737	0.391	9	-8.735	1	0.417	0.000572	0.133	0.351	76.038	250880	4
+255	422qOiUJZCd7SaEyoPAEnQ	Rodeo Clowns	Jack Johnson	61	2003-01-01	{'neo mellow'}	0.85	0.834	1	-5.771	0	0.205	0.174	0.0837	0.771	90.974	158413	4
+256	7jE5hACenHaqB8nTBrB0uL	Cookie Jar	Jack Johnson	46	2003-01-01	{'neo mellow'}	0.712	0.714	1	-6.099	0	0.334	0.195	0.106	0.739	151.393	176773	4
+257	4c7k0jGOFR1OraHvE3BszV	My Old Man	Mac DeMarco	0	2017-05-05	{'edmonton indie', 'lo-fi indie', 'pov: indie'}	0.658	0.575	1	-11.493	1	0.677	0.253	0.0985	0.832	149.274	221653	4
+258	5Hzto0vLxLb8GfkUtu6ZJK	Drink	Alestorm	0	2014-08-05	{'british power metal', 'pirate', 'comic metal', 'power metal', 'scottish metal'}	0.509	0.855	8	-4.567	1	3.72e-05	5.87e-05	0.0808	0.804	160.051	202587	4
+259	6RFkVsPmrM4pzlDkFswwJl	God's Gonna Cut You Down	Johnny Cash	65	2006-01-01	{'arkansas country', 'rock', 'outlaw country'}	0.617	0.485	5	-8.227	0	0.868	3.44e-05	0.115	0.845	82.228	158573	4
+260	28cnXtME493VX9NOw9cIUh	Hurt	Johnny Cash	76	2002-01-01	{'arkansas country', 'rock', 'outlaw country'}	0.534	0.392	9	-7.636	0	0.649	0.000227	0.0948	0.163	90.379	216533	4
+261	4THBm4cHCMTj3QipoxInIB	Sky Could Undress	Balmorhea	0	2017-07-22	{'compositional ambient', 'post-rock', 'melancholia', 'instrumental post-rock', 'pastoral', 'neoclassical darkwave'}	0.422	0.204	9	-16.071	1	0.861	0.931	0.105	0.0398	146.612	248173	4
+262	1jnnieDkF1hOlRil2Sgv9i	No Other Way	Jack Johnson	52	2005-01-01	{'neo mellow'}	0.854	0.258	5	-12.851	1	0.491	0.01	0.118	0.424	116.19	189587	4
+263	1eKD9sJjMuUdJFX3zhj3RC	Idk Don't Ask	The Six Sevens	12	2017-04-01	set()	0.545	0.781	9	-8.334	1	0.0233	2.14e-06	0.186	0.777	110.073	170155	4
+264	2N4idqj9TT3HnH2OFT9j0v	Still Beating	Mac DeMarco	0	2017-05-05	{'edmonton indie', 'lo-fi indie', 'pov: indie'}	0.709	0.496	1	-10.528	0	0.581	0.195	0.151	0.469	78.477	181587	4
+265	16n5mZoH64zwoKoVpNplGi	Captain Morgan's Revenge	Alestorm	0	2008	{'british power metal', 'pirate', 'comic metal', 'power metal', 'scottish metal'}	0.512	0.97	8	-4.596	1	6.23e-05	1.69e-05	0.267	0.353	99.971	402685	4
+266	7rSERmjAT38lC5QhJ8hnQc	I'm Shipping Up To Boston	Dropkick Murphys	73	2005-07-19	{'boston rock', 'punk', 'boston punk', 'celtic rock', 'celtic punk'}	0.452	0.928	2	-3.133	1	0.000706	0.000637	0.226	0.6	129.188	153600	4
+267	4keAoywVf4jxRvXU7ON0hV	Salad Days	Mac DeMarco	0	2014-04-01	{'edmonton indie', 'lo-fi indie', 'pov: indie'}	0.43	0.771	5	-7.176	1	0.0876	0.0239	0.121	0.772	201.001	145893	4
+268	6YNMblb8KCYybR74rBvULv	The Next Step	Kamasi Washington	0	2015-05-05	{'indie soul', 'jazz', 'contemporary jazz', 'jazz saxophone', 'afrofuturism'}	0.35	0.352	10	-11.428	1	0.415	0.783	0.0773	0.113	113.982	888851	4
+269	0HRxKhMUnbUkNlthfy638e	Isabelle	Kamasi Washington	0	2015-05-05	{'indie soul', 'jazz', 'contemporary jazz', 'jazz saxophone', 'afrofuturism'}	0.326	0.426	9	-12.941	0	0.716	0.889	0.113	0.163	133.461	732539	4
+270	2oMpRIXgSHpmdOMPLGn4c9	Askim	Kamasi Washington	0	2015-05-05	{'indie soul', 'jazz', 'contemporary jazz', 'jazz saxophone', 'afrofuturism'}	0.347	0.576	5	-10.094	0	0.0508	0.786	0.112	0.387	107.196	754641	3
+271	23cs3f5e8dQ3UUOFHHv4D5	Change of the Guard	Kamasi Washington	0	2015-05-05	{'indie soul', 'jazz', 'contemporary jazz', 'jazz saxophone', 'afrofuturism'}	0.29	0.765	9	-8.988	0	0.0828	0.863	0.105	0.366	117.986	735808	4
+272	2m9qCOrGUqNfi5ssNXktKp	Knowledge	Kamasi Washington	0	2017-09-29	{'indie soul', 'jazz', 'contemporary jazz', 'jazz saxophone', 'afrofuturism'}	0.217	0.865	3	-6.719	1	0.643	0.761	0.107	0.365	77.548	231941	4
+273	7KkpZSHhQXcecsB0Hgu4Wd	Desire	Kamasi Washington	0	2017-09-29	{'indie soul', 'jazz', 'contemporary jazz', 'jazz saxophone', 'afrofuturism'}	0.306	0.65	0	-10.073	1	0.553	0.776	0.136	0.374	88.088	276910	4
+274	5k46C7aYLCMI0YnoQdohZf	Integrity	Kamasi Washington	0	2017-09-29	{'indie soul', 'jazz', 'contemporary jazz', 'jazz saxophone', 'afrofuturism'}	0.344	0.921	2	-7.421	1	0.546	0.919	0.236	0.408	103.262	227493	4
+275	41AtPa0RB4WZxbMag1S5Ym	Truth	Kamasi Washington	0	2017-09-29	{'indie soul', 'jazz', 'contemporary jazz', 'jazz saxophone', 'afrofuturism'}	0.309	0.838	2	-8.134	1	0.0851	0.63	0.143	0.391	115.26	810322	4
+276	6BOru56RwBcQli1OWeMb68	Humility	Kamasi Washington	0	2017-09-29	{'indie soul', 'jazz', 'contemporary jazz', 'jazz saxophone', 'afrofuturism'}	0.416	0.913	9	-5.239	1	0.0814	0.851	0.275	0.385	112.766	166165	4
+277	51lPx6ZCSalL2kvSrDUyJc	You're Gonna Live Forever in Me	John Mayer	76	2017-04-14	{'singer-songwriter', 'neo mellow'}	0.542	0.131	7	-14.104	1	0.983	0.00544	0.156	0.319	136.161	190013	4
+278	41Az1BCotlAUt7Ud8k6H2Y	Sunsets For Somebody Else	Jack Johnson	65	2017-09-08	{'neo mellow'}	0.696	0.229	7	-7.911	1	0.828	1.34e-05	0.152	0.603	113.273	210467	4
+279	0xf9XvTqzMSqqN7Vpqybsd	Subplots	Jack Johnson	44	2017-09-08	{'neo mellow'}	0.656	0.37	0	-7.915	1	0.765	0.000638	0.0985	0.346	83.949	269333	4
+280	2DVu4JT6RrsinBgTSk8kWG	Daybreaks	Jack Johnson	42	2017-09-08	{'neo mellow'}	0.776	0.357	0	-8.918	1	0.914	0.00016	0.115	0.715	127.403	240787	4
+281	79nGvSoOQr3WHK3Y96Qt0u	Home	Jack Johnson	41	2013-01-01	{'neo mellow'}	0.621	0.621	2	-8.71	1	0.585	7.8e-05	0.293	0.749	149.996	182000	4
+282	1fBl642IhJOE5U319Gy2Go	Animal	Neon Trees	72	2010-01-01	{'pop rock', 'neo mellow', 'modern rock', 'pov: indie'}	0.482	0.833	5	-5.611	1	0.000346	0.0	0.365	0.74	148.039	212293	4
+283	02JIdsrod3BYucThfUFDUX	Le Festin	Michael Giacchino	66	2007-01-01	{'orchestral soundtrack', 'soundtrack', 'nouvelle chanson francaise', 'chanson'}	0.439	0.303	3	-10.839	1	0.839	0.0	0.071	0.268	139.475	170787	3
+284	13JiZ2CbI93mkc4C9dYmDS	My, My, My	Gerald Albright	0	1990-10-30	{'smooth jazz', 'jazz saxophone', 'smooth saxophone'}	0.608	0.721	0	-7.28	1	0.276	0.704	0.0768	0.716	152.442	307600	4
+285	72Z17vmmeQKAg8bptWvpVG	Space Oddity - 2015 Remaster	David Bowie	73	1969-11-04	{'glam rock', 'classic rock', 'permanent wave', 'art rock', 'rock'}	0.31	0.403	0	-13.664	1	0.0726	9.27e-05	0.139	0.466	134.48	318027	4
+286	4OKf7CcYuw5H2HptkcKxcP	You're My Best Friend - Remastered 2011	Queen	67	1975-11-21	{'glam rock', 'classic rock', 'rock'}	0.518	0.761	0	-7.025	1	0.158	0.00765	0.0715	0.576	118.738	170800	4
+287	1HmzAZUvhQLhLo2z3ocpZI	Radio Ga Ga - Remastered 2011	Queen	64	1984-02-27	{'glam rock', 'classic rock', 'rock'}	0.744	0.502	5	-7.705	1	0.179	0.000172	0.19	0.655	112.345	348227	4
+288	6gXrEUzibufX9xYPk3HD5p	Life in the Fast Lane - 2013 Remaster	Eagles	75	1976-12-08	{'soft rock', 'heartland rock', 'classic rock', 'album rock', 'mellow gold', 'yacht rock', 'rock'}	0.667	0.755	9	-7.246	1	0.0966	6.94e-05	0.0523	0.883	109.535	286220	4
+289	4yugZvBYaoREkJKtbG08Qr	Take It Easy - 2013 Remaster	Eagles	82	1972-06-01	{'soft rock', 'heartland rock', 'classic rock', 'album rock', 'mellow gold', 'yacht rock', 'rock'}	0.575	0.67	7	-10.39	1	0.343	4.95e-06	0.129	0.74	139.191	211578	4
+290	40riOy7x9W7GXjyGp4pjAv	Hotel California - 2013 Remaster	Eagles	86	1976-12-08	{'soft rock', 'heartland rock', 'classic rock', 'album rock', 'mellow gold', 'yacht rock', 'rock'}	0.579	0.508	2	-9.484	1	0.00574	0.000494	0.0575	0.609	147.125	391376	4
+291	3CKCZ9pfwAfoMZlMncA1Nc	Set Fire to the Rain	Adele	2	2011-01-19	{'pop soul', 'uk pop', 'pop', 'british soul'}	0.61	0.683	2	-3.879	0	0.00382	1.79e-06	0.125	0.466	108.003	241693	4
+292	1CkvWZme3pRgbzaxZnTl5X	Rolling in the Deep	Adele	1	2011-01-19	{'pop soul', 'uk pop', 'pop', 'british soul'}	0.729	0.756	8	-5.119	1	0.131	0.0	0.0527	0.522	104.945	228293	4
+293	4gvea7UlDkAvsJBPZAd4oB	The Boys Of Summer	Don Henley	80	1984-11-19	{'soft rock', 'heartland rock', 'classic rock', 'album rock', 'mellow gold', 'singer-songwriter', 'yacht rock'}	0.516	0.549	6	-13.741	1	0.501	0.00572	0.184	0.907	176.941	288733	4
+294	78WVLOP9pN0G3gRLFy1rAa	Piano Man	Billy Joel	64	1973-11-09	{'soft rock', 'heartland rock', 'classic rock', 'album rock', 'mellow gold', 'singer-songwriter', 'piano rock', 'rock'}	0.334	0.477	0	-8.806	1	0.618	4.17e-06	0.312	0.405	179.239	336200	3
+295	37A5wFomo4EVz5tGInAynI	Finish What Ya Started	Van Halen	49	1988-05-24	{'classic rock', 'hard rock', 'album rock', 'rock'}	0.779	0.799	9	-14.766	1	0.55	0.000404	0.0575	0.964	125.148	263133	4
+296	4kflIGfjdZJW4ot2ioixTB	Someone Like You	Adele	4	2011-01-19	{'pop soul', 'uk pop', 'pop', 'british soul'}	0.559	0.33	9	-8.251	1	0.892	0.0	0.0975	0.285	135.109	285040	4
+297	43DeSV93pJPT4lCZaWZ6b1	The Boys Are Back In Town	Thin Lizzy	77	1976	{'classic rock', 'album rock', 'blues rock', 'hard rock', 'metal', 'irish rock', 'rock', 'glam metal'}	0.445	0.706	8	-9.803	1	0.234	0.000252	0.205	0.768	80.823	266720	4
+298	36vTL8WP4ZoD1bbUaW0V3E	Bad Company - 2015 Remaster	Bad Company	64	1974	{'soft rock', 'country rock', 'classic rock', 'album rock', 'mellow gold', 'singer-songwriter', 'hard rock', 'southern rock', 'rock', 'glam metal'}	0.545	0.467	8	-10.862	1	0.491	0.175	0.0805	0.444	113.713	288053	4
+299	5Wp3C9FUUVJjG3OKNBcbNv	Source of Infection	Van Halen	32	1988-05-24	{'classic rock', 'hard rock', 'album rock', 'rock'}	0.294	0.951	1	-13.094	1	0.00494	0.0223	0.149	0.0588	131.524	239533	4
+300	6f0OJfSNe8t5RAhTUtHAbb	Cabo Wabo	Van Halen	42	1988-05-24	{'classic rock', 'hard rock', 'album rock', 'rock'}	0.324	0.7	9	-12.749	1	0.393	1.57e-05	0.121	0.596	86.737	422267	4
+301	4r9hiElqKWMPT4Z3vN2exq	A Lovely Night	Emma Stone	66	2016-12-09	{'hollywood'}	0.364	0.478	7	-8.645	1	0.299	0.0015	0.124	0.493	134.551	236507	4
+302	70RecAVg5QudOXfJs64sM5	Planetarium	Justin Hurwitz	60	2016-12-09	{'hollywood', 'movie tunes'}	0.248	0.142	7	-15.443	1	0.92	0.733	0.548	0.0439	128.841	257280	4
+303	4f6PUDRYJI51UrZy0jDAxD	Herman’s Habit	Justin Hurwitz	58	2016-12-09	{'hollywood', 'movie tunes'}	0.588	0.593	8	-9.448	1	0.0634	0.889	0.214	0.668	123.678	111613	4
+304	4S3DXtdTdgOIezKgu8DR0M	Summer Montage / Madeline	Justin Hurwitz	57	2016-12-09	{'hollywood', 'movie tunes'}	0.596	0.502	7	-6.783	1	0.113	0.797	0.264	0.653	107.719	124640	4
+305	6KCjY5kHvgWaWcAV6BBzxO	The Battle of Evermore - Remaster	Led Zeppelin	54	1971-11-08	{'classic rock', 'hard rock', 'album rock', 'rock'}	0.42	0.662	4	-9.828	0	0.656	0.000423	0.096	0.378	147.949	351678	4
+306	1YVc2NJBwOtAebQiSUbt5T	Going to California - Remaster	Led Zeppelin	55	1971-11-08	{'classic rock', 'hard rock', 'album rock', 'rock'}	0.503	0.265	2	-15.913	1	0.943	0.045	0.0867	0.522	78.044	212161	4
+307	5REiwJZQboaDdAnDf8ljhs	Some Day Soon	Alexi Murdoch	44	2011-03-08	{'indie folk', 'acoustic pop', 'british singer-songwriter'}	0.593	0.554	4	-12.187	1	0.931	0.888	0.0918	0.416	92.861	287800	4
+308	0VZEHM4h252BGh5P0N7MS5	"Overture - From ""Whiplash"""	Justin Hurwitz	0	2014-10-06	{'hollywood', 'movie tunes'}	0.506	0.718	5	-9.841	0	0.117	0.179	0.121	0.684	136.306	199389	3
+309	1y5pLcNPeR9xhZxF7GE55J	Whiplash	Hank Levy	0	2014-10-06	set()	0.591	0.767	5	-4.673	1	0.396	0.586	0.265	0.869	107.577	115289	4
+310	0kVxfGKCZll6kkpk59066V	The Light (Her Hands Were Leaves)	Alexi Murdoch	29	2011-03-08	{'indie folk', 'acoustic pop', 'british singer-songwriter'}	0.449	0.211	5	-16.212	1	0.908	0.774	0.185	0.0527	84.582	290400	4
+311	6Nm7N1FI8wGgteRftjsX53	Song For You	Alexi Murdoch	31	2006-06-06	{'indie folk', 'acoustic pop', 'british singer-songwriter'}	0.603	0.296	4	-14.061	1	0.815	0.173	0.113	0.385	143.887	278107	4
+312	51ChrwmUPDJvedPQnIU8Ls	Dive	Ed Sheeran	75	2017-03-03	{'singer-songwriter pop', 'uk pop', 'pop'}	0.761	0.386	4	-6.158	1	0.355	0.0	0.0953	0.526	134.943	238440	3
+313	22iLGZ7ugHpKq8kn2eCtQG	Posters	Jack Johnson	0	2011-04-12	{'neo mellow'}	0.736	0.41	4	-11.49	1	0.481	0.0278	0.115	0.67	165.141	198120	4
+314	5HDPtsnyb3maFmPL8LLUTG	New Man	Ed Sheeran	65	2017-03-03	{'singer-songwriter pop', 'uk pop', 'pop'}	0.78	0.745	7	-3.97	1	0.0559	0.0	0.0595	0.862	94.026	189280	4
+315	6VtN9E9WbYtjLnJwZO3MER	Play That Funky Music	David Sanborn	18	2006-06-13	{'jazz funk', 'smooth jazz', 'modern big band', 'smooth saxophone', 'jazz orchestra', 'jazz saxophone', 'big band'}	0.76	0.905	0	-4.446	1	0.122	0.8	0.046	0.652	110.977	373280	4
+316	6O1Wq633TG4EGDPbVZW7YU	Hunting Wabbits	Gordon Goodwin's Big Phat Band	28	2003-09-23	{'jazz orchestra', 'big band', 'modern big band'}	0.664	0.537	0	-4.087	0	0.719	0.846	0.0581	0.449	158.207	380867	4
+317	3MmtFohpZUmEzwUQgJvg0I	The Jazz Police	Gordon Goodwin's Big Phat Band	36	2003-09-23	{'jazz orchestra', 'big band', 'modern big band'}	0.551	0.918	5	-0.837	1	0.121	0.578	0.0723	0.557	169.819	319173	4
+318	5BRipbXVxysFmKUdu8tLZK	Count Bubba	Gordon Goodwin's Big Phat Band	32	2001-01-23	{'jazz orchestra', 'big band', 'modern big band'}	0.667	0.528	5	-5.725	0	0.472	0.656	0.138	0.554	91.316	453333	4
+319	3vqlZUIT3rEmLaYKDBfb4Q	Isn't She Lovely	Stevie Wonder	0	1976-09-28	{'motown', 'soul'}	0.485	0.82	1	-6.887	0	0.18	0.00411	0.328	0.817	118.643	394267	4
+320	2l1zQCCLwSa7R7GUgNJnlX	That Wasn't Me	Brandi Carlile	0	2012-04-03	{'modern folk rock', 'folk', 'ectofolk', 'indie folk', 'lilith', 'new americana', 'acoustic pop'}	0.543	0.327	9	-6.813	1	0.785	0.0	0.0888	0.249	135.257	222293	3
+321	2oGtIqSqW7lEPKn5lIIQeS	Lakehouse	Of Monsters and Men	44	2012-01-01	{'folk-pop', 'modern rock', 'metropopolis', 'stomp and holler'}	0.434	0.507	7	-6.627	1	0.0098	0.023	0.0963	0.15	110.066	275187	4
+322	6ThrnYkLPlKar6dUIggR6Q	Be Like You	Ed Sheeran	42	2014-06-23	{'singer-songwriter pop', 'uk pop', 'pop'}	0.671	0.388	11	-6.516	1	0.715	0.0	0.192	0.59	105.869	218373	4
+323	0hHTTR3J3396GyeWFvFBfh	The Next Level	Gerald Albright	12	2002-01-01	{'smooth jazz', 'jazz saxophone', 'smooth saxophone'}	0.724	0.878	5	-5.683	1	0.308	0.87	0.316	0.903	100.005	283173	4
+324	6Ac4NVYYl2U73QiTt11ZKd	Hooked On A Feeling	Björn Skifs	76	1973-04-01	{'classic swedish pop'}	0.547	0.82	8	-6.728	1	0.261	0.0	0.3	0.933	118.208	172867	4
+325	4I7VRMbaqi6GdSkaSxe1he	Fire Alarms	Ed Sheeran	40	2014-06-23	{'singer-songwriter pop', 'uk pop', 'pop'}	0.602	0.286	3	-9.886	1	0.772	0.0	0.162	0.379	102.009	144013	4
+326	4zPDjRgceGrR0Sm54YDTTf	Autumn Nocturne	Lou Donaldson	57	1958	{'hard bop', 'soul jazz', 'bebop', 'jazz saxophone'}	0.539	0.0678	0	-18.039	1	0.967	0.168	0.114	0.263	124.105	294667	4
+327	711WfDztCZpnmJg7Uvwod3	No Hard Feelings	The Avett Brothers	56	2016-06-24	{'north carolina indie', 'indie folk', 'stomp and holler', 'new americana', 'progressive bluegrass', 'north carolina roots'}	0.485	0.319	5	-8.525	1	0.686	2.81e-05	0.117	0.195	142.119	314680	3
+328	5lEp8MBQCQXxNQpKjbrM8d	Shipwrecked	Alestorm	0	2011-06-14	{'british power metal', 'pirate', 'comic metal', 'power metal', 'scottish metal'}	0.574	0.976	5	-4.624	0	5.82e-05	6.16e-05	0.105	0.618	105.034	210573	4
+329	196FnomJI3OvKmLy6PyFWk	My Testimony	Marvin Sapp	46	2012-03-30	{'gospel'}	0.454	0.381	5	-9.132	0	0.685	1.39e-05	0.0988	0.163	109.743	625293	4
+330	7KJ3nYbH2T7nJ0Viwl67bx	September	Gordon Goodwin's Big Phat Band	17	2008-09-30	{'jazz orchestra', 'big band', 'modern big band'}	0.815	0.61	2	-4.902	0	0.407	4.49e-06	0.0377	0.933	128.0	270640	4
+331	0xCA70t1ZA4fa9UOE0lIJm	I'm a Mess	Ed Sheeran	65	2014-06-21	{'singer-songwriter pop', 'uk pop', 'pop'}	0.697	0.377	3	-7.755	1	0.556	0.0	0.0999	0.336	138.754	244573	4
+332	5smXYECnd8cqQrCaEKyvc3	I Stand Accused	Gerald Albright	7	2008-01-01	{'smooth jazz', 'jazz saxophone', 'smooth saxophone'}	0.629	0.516	5	-5.891	1	0.58	0.696	0.122	0.326	125.897	310307	3
+333	7fAsAJyr2vrgEugz9el8d6	Act Your Age	Gordon Goodwin's Big Phat Band	23	2008-09-30	{'jazz orchestra', 'big band', 'modern big band'}	0.837	0.711	0	-5.246	0	0.252	0.607	0.0808	0.883	125.99	348907	4
+334	0iRybLKiytzp6q7gFe1BXx	Wagner: Tannhäuser: Overture	Oslo Philharmonic Orchestra	24	2005-11-25	{'classical performance', 'late romantic era', 'orchestra', 'classical', 'german romanticism', 'german opera', 'nordic orchestra', 'orchestral performance'}	0.139	0.105	4	-16.685	1	0.935	0.916	0.0668	0.0472	86.234	828800	4
+335	2LqV2d9yAVyCMRO7EQWvmi	You've Got A Friend In Me	Tom Scott	0	1999-01-01	{'smooth jazz', 'jazz funk'}	0.565	0.5	9	-8.6	1	0.28	0.743	0.127	0.693	133.107	177693	4
+336	6B6C1OC9RUvrvBECPWtAZo	February Seven	The Avett Brothers	54	2012-01-01	{'north carolina indie', 'indie folk', 'stomp and holler', 'new americana', 'progressive bluegrass', 'north carolina roots'}	0.512	0.465	4	-7.144	1	0.0591	3.08e-05	0.112	0.267	137.892	255013	4
+337	29ik9cmDBUOv4qjhEuFF53	Last Sun	Fjordne	18	2009-12-15	{'compositional ambient'}	0.506	0.362	0	-11.284	1	0.917	0.831	0.122	0.112	74.985	307200	3
+338	3tSZoQUyRQ6fQqOogvZOtX	Enemy	Jack Johnson	41	2008	{'neo mellow'}	0.718	0.26	5	-13.464	1	0.666	0.0102	0.0988	0.434	116.616	228480	4
+339	40vchayv9Vsd9SzRYs4yrE	St. Joseph's	The Avett Brothers	31	2008-07-22	{'north carolina indie', 'indie folk', 'stomp and holler', 'new americana', 'progressive bluegrass', 'north carolina roots'}	0.466	0.11	11	-11.376	1	0.856	0.00585	0.0995	0.22	157.104	202333	4
+340	6rK27cC9hX0e1Chrnxo9Vn	My Romance - Rudy Van Gelder Remaster	Gene Ammons	54	2006-01-01	{'jazz saxophone', 'soul jazz'}	0.519	0.0422	1	-10.778	1	0.966	0.929	0.124	0.397	130.436	252947	3
+341	7Kc85wFZ9UBoGEBCtGrQnK	Minsoldat (My Soldier)	Kristian Leth	0	2013-06-25	{'danish indie', 'swedish jazz', 'danish jazz', 'german jazz', 'jazz saxophone'}	0.461	0.192	5	-12.535	0	0.945	0.844	0.12	0.34	67.011	506320	4
+342	6f6OQJv9qjqyJq9NHin45n	Blue Ballad	Space Jazz Trio	41	2011-09-19	{'jazz saxophone', 'contemporary post-bop'}	0.47	0.156	2	-17.036	1	0.623	0.187	0.104	0.059	118.176	394920	4
+343	4TPDqoA9k7jFtdigCgM2VT	Let's Love	Echosmith	35	2013-10-04	{'indie poptimism', 'viral pop', 'electropop'}	0.513	0.906	0	-4.151	1	0.000205	4.9e-05	0.204	0.556	147.967	182787	4
+344	7y1H8805NI8tN4aQpOpM6v	Inaudible Melodies	Jack Johnson	0	2011-04-12	{'neo mellow'}	0.811	0.289	6	-13.92	1	0.605	0.0288	0.133	0.35	142.97	218973	4
+345	2vyWFovtrd43gdcirx4anV	Bubble Toes	Jack Johnson	0	2011-04-12	{'neo mellow'}	0.605	0.515	7	-11.353	1	0.67	0.03	0.374	0.689	94.123	239413	4
+346	0A2J5TumCpT4aJVvQHNEQW	One	Ed Sheeran	44	2013	{'singer-songwriter pop', 'uk pop', 'pop'}	0.464	0.321	2	-11.12	1	0.877	0.0	0.0789	0.306	93.528	252760	4
+347	7MapZTlRqFfUteNcghsTwf	Keep Your Head Up	Andy Grammer	1	2011-01-01	{'post-teen pop', 'neo mellow'}	0.666	0.78	7	-5.177	1	0.044	0.0	0.128	0.795	90.004	190480	4
+348	3iFICw91huq0cAMmrdl0pO	Orange Sky	Alexi Murdoch	25	2004-03-30	{'indie folk', 'acoustic pop', 'british singer-songwriter'}	0.708	0.246	2	-15.409	1	0.754	0.0316	0.103	0.151	124.921	378000	4
+349	6JXGqMLXr0WhiJ6rtI8S4W	Hammerhead	Jeff Beck	37	2010-03-10	{'jazz fusion', 'symphonic rock', 'album rock', 'british blues', 'classic rock', 'blues rock', 'instrumental rock', 'hard rock', 'electric blues', 'art rock', 'blues', 'progressive rock'}	0.299	0.715	7	-4.575	1	0.00629	0.483	0.233	0.348	112.608	255320	4
+350	1J4YoubtTxLuoKBzRIzHvv	Taylor	Jack Johnson	65	2003-01-01	{'neo mellow'}	0.805	0.729	0	-7.94	1	0.147	0.0422	0.104	0.569	174.189	239280	4
+351	36lV4io8Gc69fDinNaazAg	The Weight of Lies	The Avett Brothers	48	2007-05-15	{'north carolina indie', 'indie folk', 'stomp and holler', 'new americana', 'progressive bluegrass', 'north carolina roots'}	0.591	0.411	9	-7.496	1	0.713	0.0	0.115	0.454	153.616	269680	4
+352	1gcuhZPKmTYvn5VT5EZLR6	Cheek To Cheek	Louis Armstrong	0	1956-01-01	{'swing', 'jazz blues', 'dixieland', 'adult standards', 'vocal jazz', 'new orleans jazz', 'jazz', 'harlem renaissance', 'soul', 'jazz trumpet'}	0.654	0.311	0	-13.314	1	0.595	0.0	0.125	0.677	122.167	353267	4
+353	6pKA3P1JERZutikZtZpoUo	Keelhauled	Alestorm	0	2009-06-02	{'british power metal', 'pirate', 'comic metal', 'power metal', 'scottish metal'}	0.476	0.967	10	-3.255	0	0.000767	0.0	0.297	0.575	110.057	222253	4
+354	4hImrvUZbnx5kUl8MouTnd	Winelight	Gerald Albright	35	2006-07-18	{'smooth jazz', 'jazz saxophone', 'smooth saxophone'}	0.776	0.786	5	-6.976	0	0.208	0.839	0.11	0.669	98.998	352573	4
+355	0T3BWG8ATOzqNhEqWXDA2u	La traviata / Act 1: Libiamo ne'lieti calici (Brindisi) - Remastered 2013	Richard Bonynge	17	2013-01-01	{'canzone napoletana', 'classical tenor', 'classical performance', 'late romantic era', 'italian opera', 'opera', 'orchestra', 'classical', 'classical soprano', 'opera chorus', 'italian tenor', 'italian romanticism', 'operatic pop'}	0.39	0.243	10	-16.106	1	0.966	1.19e-06	0.103	0.211	109.217	172594	1
+356	1NHxzKEcrEJWjcYSS771MD	Ain't No Stoppin'	Gerald Albright	22	2002-01-01	{'smooth jazz', 'jazz saxophone', 'smooth saxophone'}	0.826	0.778	0	-5.408	1	0.153	0.873	0.0589	0.908	104.027	259760	4
+357	1ZxZ0Ggj3vBk5MyY6HmYIe	Walker's Theme	Gerald Albright	19	2004-01-01	{'smooth jazz', 'jazz saxophone', 'smooth saxophone'}	0.859	0.66	8	-5.752	1	0.0331	0.862	0.0659	0.863	107.023	241227	4
+358	4T6HLdP6OcAtqC6tGnQelG	Everything	Michael Bublé	72	2007-04-30	{'jazz pop', 'lounge', 'canadian pop', 'adult standards'}	0.686	0.688	6	-4.981	0	0.39	1.03e-06	0.0924	0.493	123.125	212373	4
+359	69COhVyyVQ1zqgx7PG1J4X	Pythodd	Pat LaBarbera, Clay Jenkins,Joe LaBarbera, Bill Cunliffe, Larry Koonse, Bob Sheppard, Scott Breadman, Kim Richmond, Andy Martin, Bob McChesney, Bob Carr, Wayne Bergeron	0	2005-01-01	{'jazz orchestra'}	0.477	0.395	0	-10.719	1	0.602	0.0428	0.13	0.418	149.74	521587	4
+360	0Vwfd6fxFrL3kCnZSJ9vid	Sloppy Seconds	Watsky	0	2013-01-01	{'abstract hip hop', 'comic', 'indie pop rap', 'nerdcore'}	0.74	0.716	6	-5.796	0	0.207	3.51e-06	0.0926	0.804	117.977	245933	4
+361	3oRLZ8I6wjEhY31iA60eF2	Moral Of The Story	Watsky	0	2013-01-01	{'abstract hip hop', 'comic', 'indie pop rap', 'nerdcore'}	0.708	0.624	3	-5.721	0	0.0704	0.0	0.161	0.502	78.028	240080	4
+362	2LI5vZrnjTHDsxAln9HS1L	Paranoia in B Major	The Avett Brothers	0	2007-05-15	{'north carolina indie', 'indie folk', 'stomp and holler', 'new americana', 'progressive bluegrass', 'north carolina roots'}	0.54	0.556	10	-6.822	1	0.232	7.75e-06	0.143	0.386	123.361	217840	4
+363	5l7Q94k7cRe6c7tW2Lrz2i	Klimbim	Don Ross	26	1999-01-01	{'fingerstyle'}	0.549	0.37	11	-14.635	1	0.746	0.908	0.0977	0.558	125.716	295267	4
+364	4VywXu6umkIQ2OS0m1I79y	Better Together	Jack Johnson	73	2005-01-01	{'neo mellow'}	0.868	0.347	5	-9.529	1	0.308	2e-05	0.11	0.659	110.059	207680	4
+365	1WpA4BqLlTmSM3EleKZUrJ	Arkham City Main Theme	Nick Arundel	0	2011-10-18	{'scorecore', 'video game music'}	0.219	0.535	1	-13.862	1	0.449	0.667	0.0863	0.0788	94.965	167560	4
+366	3kb72STxc2959ZqsTwu52i	Ain't No Rest for the Wicked	Cage The Elephant	4	2009-03-27	{'pov: indie', 'modern rock', 'modern alternative rock', 'punk blues', 'rock'}	0.634	0.849	0	-7.075	1	0.0438	0.0	0.363	0.919	156.004	175493	4
+367	34gCuhDGsG4bRPIf9bb02f	Thinking out Loud	Ed Sheeran	85	2014-06-21	{'singer-songwriter pop', 'uk pop', 'pop'}	0.781	0.445	2	-6.061	1	0.474	0.0	0.184	0.591	78.998	281560	4
+368	5pY3ovFxbvAg7reGZjJQSp	I See Fire	Ed Sheeran	0	2014-06-21	{'singer-songwriter pop', 'uk pop', 'pop'}	0.641	0.176	6	-11.692	1	0.638	5.14e-06	0.252	0.297	76.031	299147	4
+369	5iMxDF2raUj6GDhiC8KwfE	Shame	The Avett Brothers	43	2007-05-15	{'north carolina indie', 'indie folk', 'stomp and holler', 'new americana', 'progressive bluegrass', 'north carolina roots'}	0.516	0.425	8	-5.503	1	0.546	0.0	0.171	0.303	143.155	233853	4
+370	0MGMZ1413F9obd1qt4vkhy	Ten Thousand Words	The Avett Brothers	46	2009-01-01	{'north carolina indie', 'indie folk', 'stomp and holler', 'new americana', 'progressive bluegrass', 'north carolina roots'}	0.479	0.29	7	-12.079	1	0.849	0.000331	0.112	0.374	154.14	336000	4
+371	0h14S2lgy1eZDwWdxdFZU2	Through My Prayers	The Avett Brothers	29	2012-01-01	{'north carolina indie', 'indie folk', 'stomp and holler', 'new americana', 'progressive bluegrass', 'north carolina roots'}	0.383	0.133	3	-14.795	1	0.906	0.0138	0.106	0.163	141.333	250787	3
+372	3MNLGdROFozmA7rRmXkDuG	Never Been Alive	The Avett Brothers	20	2013-01-01	{'north carolina indie', 'indie folk', 'stomp and holler', 'new americana', 'progressive bluegrass', 'north carolina roots'}	0.514	0.374	7	-8.094	1	0.336	5.92e-05	0.142	0.362	106.322	190813	3
+373	78NnAw2qrlMrsedXLWLsYj	Laundry Room	The Avett Brothers	54	2009-01-01	{'north carolina indie', 'indie folk', 'stomp and holler', 'new americana', 'progressive bluegrass', 'north carolina roots'}	0.363	0.498	11	-8.032	1	0.472	0.000197	0.164	0.34	149.239	291360	4
+374	7yqO8vYeyf8ahnLj9vOZ4G	Life	The Avett Brothers	40	2012-01-01	{'north carolina indie', 'indie folk', 'stomp and holler', 'new americana', 'progressive bluegrass', 'north carolina roots'}	0.435	0.235	11	-12.235	1	0.457	0.000155	0.112	0.188	134.588	224133	4
+375	3a2tuvXCHbW5nuUckuHkKT	Little Talks	Of Monsters and Men	57	2012-01-01	{'folk-pop', 'modern rock', 'metropopolis', 'stomp and holler'}	0.445	0.757	1	-5.177	1	0.0206	0.0	0.146	0.421	102.878	266600	4
+376	3qYHt5k0C9xbZf5lwzXsuD	A Fathers First Spring	The Avett Brothers	32	2012-01-01	{'north carolina indie', 'indie folk', 'stomp and holler', 'new americana', 'progressive bluegrass', 'north carolina roots'}	0.375	0.368	11	-10.39	1	0.524	2.49e-06	0.139	0.272	154.275	245947	3
+377	7CEV9VwA8XO9wwxTXgYKvY	I And Love And You	The Avett Brothers	62	2009-01-01	{'north carolina indie', 'indie folk', 'stomp and holler', 'new americana', 'progressive bluegrass', 'north carolina roots'}	0.424	0.264	2	-9.984	1	0.831	7.08e-05	0.0763	0.169	139.593	300840	4
+378	3U4isOIWM3VvDubwSI3y7a	All of Me	John Legend	87	2013-08-30	{'urban contemporary', 'neo soul', 'pop soul', 'pop'}	0.422	0.264	8	-7.064	1	0.922	0.0	0.132	0.331	119.93	269560	4
+379	5Y0gExEXQaz6fVTOKoqZE2	Sinfonia Concertante in E-Flat Major for Violin, Viola and Orchestra, K. 364: III. Presto	Orpheus Chamber Orchestra	0	2014-06-02	{'classical performance', 'classical', 'chamber orchestra', 'classical era', 'instrumental bluegrass', 'american orchestra'}	0.479	0.0912	3	-22.229	1	0.966	0.635	0.176	0.559	79.43	378627	4
+380	27DZUZNWPahMtPzJAVE2jd	Bring Your Love To Me	The Avett Brothers	38	2013-01-01	{'north carolina indie', 'indie folk', 'stomp and holler', 'new americana', 'progressive bluegrass', 'north carolina roots'}	0.506	0.355	2	-9.044	1	0.319	1.13e-05	0.192	0.153	129.351	223573	4

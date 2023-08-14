@@ -1,0 +1,712 @@
+	id	title	all_artists	popularity	release_date	genre	danceability	energy	key	loudness	mode	acousticness	instrumentalness	liveness	valence	tempo	duration_ms	time_signature
+0	1MtUq6Wp1eQ8PC6BbPCj8P	I Took A Pill In Ibiza - Seeb Remix	Seeb	75	2016-05-06	{'pop dance', 'dance pop', 'pop rap', 'pop'}	0.664	0.714	7	-6.645	0	0.0353	8.42e-06	0.0843	0.71	101.969	197933	4
+1	3JjnGLK8IxkNLvo8Lb3KOM	18	One Direction	82	2014-11-17	{'boy band', 'post-teen pop', 'talent show', 'pop'}	0.681	0.582	6	-7.76	0	0.22	0.0	0.119	0.221	124.038	248360	4
+2	1T02TSO5HAzOGFUrZnu8JM	Requiem On Water	Imperial Mammoth	50	2012-11-08	set()	0.673	0.17	0	-14.733	1	0.936	0.0	0.0974	0.197	109.97	145853	4
+3	5R4HqXCZ6uTjxxnGdLt2S6	Stay Together	Noah Cyrus	53	2017-04-14	{'alt z', 'pop'}	0.659	0.589	8	-4.004	1	0.174	0.0	0.095	0.339	72.015	192732	4
+4	6t6oULCRS6hnI7rm0h5gwl	Some Nights	fun.	72	2012-02-21	{'baroque pop', 'metropopolis'}	0.672	0.738	0	-7.045	1	0.0178	6.75e-05	0.0927	0.392	107.938	277040	4
+5	4hQ6UGyWQIGJmHSo0J88JW	Back To You - From 13 Reasons Why – Season 2 Soundtrack	Selena Gomez	76	2018-05-10	{'post-teen pop', 'pop'}	0.601	0.724	6	-4.856	1	0.0945	1.68e-06	0.12	0.508	102.061	207905	4
+6	4Musyaro0NM5Awx8b5c627	The Man Who Can't Be Moved	The Script	56	2008-09-08	{'celtic rock', 'pop'}	0.608	0.629	10	-5.024	1	0.423	0.0	0.0978	0.325	99.953	241467	4
+7	1Yqovy9hlOeV91IY3Bhcf2	Drive	Ben Rector	0	2018-06-22	{'neo mellow', 'indiecoustica', 'piano rock', 'lds youth', 'acoustic pop'}	0.565	0.857	2	-4.519	1	0.0146	0.0	0.0606	0.632	126.072	197387	4
+8	1kiylxwnw8R8rJoCDtubWM	LET'S STAY HOME TONIGHT	NEEDTOBREATHE	57	2016-07-15	{'christian alternative rock', 'ccm', 'folk-pop', 'christian indie', 'christian music'}	0.548	0.367	5	-9.271	1	0.668	0.0	0.144	0.416	147.946	200120	4
+9	4ofwffwvvnbSkrMSCKQDaC	Shotgun	George Ezra	80	2018-03-23	{'folk-pop', 'neo-singer-songwriter'}	0.673	0.735	5	-4.733	1	0.286	0.0	0.242	0.754	115.744	201287	4
+10	7j639bmHzRH8tWO6q3xsVg	Dear Me - Less is More Mix	Eric Hutchinson	0	2016-08-26	{'acoustic pop', 'neo mellow'}	0.659	0.538	9	-5.766	1	0.234	0.0	0.101	0.576	89.941	232160	4
+11	2JVwsN6viHjR9t5pCPQ4Br	Pretty Shining People	George Ezra	64	2018-03-23	{'folk-pop', 'neo-singer-songwriter'}	0.584	0.726	1	-4.604	1	0.14	0.0	0.0984	0.398	106.979	212447	4
+12	54KFQB6N4pn926IUUYZGzK	To Build A Home	Patrick Watson	76	2007-05-07	{'downtempo', 'compositional ambient', 'indie quebecois', 'indie folk', 'nu jazz'}	0.264	0.122	9	-15.399	1	0.885	0.349	0.094	0.0735	148.658	371320	4
+13	44T13PWJ87jb3lFElhVIHx	Growing Up (feat. Ed Sheeran)	Ed Sheeran	60	2016-02-26	{'singer-songwriter pop', 'pop rap', 'seattle hip hop', 'uk pop', 'pop'}	0.74	0.549	9	-7.072	1	0.178	0.0	0.114	0.469	85.16	305240	4
+14	4MflGTO2ZTcSQ12bWcyRgI	Honey, I'm Good.	Andy Grammer	74	2014-08-05	{'post-teen pop', 'neo mellow'}	0.752	0.775	9	-7.289	1	0.0324	0.0	0.351	0.595	122.014	199263	4
+15	6GqRl2u7LIW93T8Vi5LnXU	Timebomb	WALK THE MOON	49	2019-01-11	{'dance rock', 'modern rock', 'pop'}	0.584	0.778	5	-4.766	1	0.000276	0.0	0.621	0.446	122.058	218589	4
+16	5KAgd2yW7tktrKDsJhO9Fr	Who Do You Love	Marianas Trench	55	2015-10-23	{'canadian rock', 'pixie', 'neon pop punk'}	0.683	0.713	2	-7.511	1	0.122	0.0	0.224	0.558	106.994	232100	4
+17	2pJZ1v8HezrAoZ0Fhzby92	What Do I Know?	Ed Sheeran	68	2017-03-03	{'singer-songwriter pop', 'uk pop', 'pop'}	0.838	0.492	1	-5.69	0	0.251	0.0	0.262	0.895	115.092	237333	4
+18	1NhPKVLsHhFUHIOZ32QnS2	Secrets	OneRepublic	78	2009-01-01	{'piano rock', 'pop'}	0.516	0.764	2	-6.223	1	0.0717	0.0	0.115	0.376	148.021	224693	4
+19	5tAa8Uaqr4VvA3693mbIhU	Ruin My Life	Zara Larsson	67	2018-10-18	{'swedish electropop', 'scandipop', 'swedish pop', 'pop'}	0.665	0.699	11	-5.265	1	0.423	0.0	0.0969	0.585	124.896	190932	4
+20	4Sib57MmYGJzSvkW84jTwh	ME! (feat. Brendon Urie of Panic! At The Disco)	Brendon Urie	0	2019-04-26	{'pop'}	0.614	0.839	0	-4.143	1	0.0291	0.0	0.112	0.657	182.123	193040	4
+21	01k24g94i1JvkFLQmVEdCd	If You're Over Me	Years & Years	54	2018-05-10	{'gauze pop', 'uk pop', 'pop'}	0.647	0.853	8	-4.516	1	0.0615	0.0	0.062	0.618	103.846	189000	4
+22	4gqmi9agXnXX9tfnkaeyop	The Man I Want to Be	Jake Scott	38	2015-11-02	{'singer-songwriter pop', 'indiecoustica'}	0.682	0.812	6	-4.228	1	0.0305	0.0	0.573	0.68	102.034	201760	4
+23	7c71baHwrGDOeIFl1gVO14	Paradise	George Ezra	0	2018-01-19	{'folk-pop', 'neo-singer-songwriter'}	0.642	0.881	11	-3.537	1	0.209	0.0	0.21	0.913	138.03	222045	4
+24	1mea3bSkSGXuIRvnydlB5b	Viva La Vida	Coldplay	89	2008-05-26	{'permanent wave', 'pop'}	0.486	0.617	5	-7.115	0	0.0954	3.23e-06	0.109	0.417	138.015	242373	4
+25	29fRTIKsJhLUJoldM89GZS	You Need To Calm Down	Taylor Swift	14	2019-06-14	{'pop'}	0.768	0.678	2	-5.604	1	0.00838	0.0	0.0596	0.706	85.025	171387	4
+26	4WXzzCof26KJLTK5kK53dS	Hey Stephen	Taylor Swift	52	2008-11-11	{'pop'}	0.841	0.544	6	-7.347	1	0.194	2.48e-06	0.108	0.831	115.994	254307	4
+27	38YgZVHPWOWsKrsCXz6JyP	Come On Get Higher	Matt Nathanson	71	2007-01-01	{'acoustic pop', 'neo mellow'}	0.672	0.623	9	-5.699	1	0.241	0.0	0.0848	0.617	92.018	215173	4
+28	3uM14F9XYRMhx6MgDsS9iq	All Time Low - Recorded at Spotify Studios NYC	Andy Grammer	0	2017-03-01	{'post-teen pop', 'neo mellow'}	0.718	0.59	6	-5.67	0	0.442	0.0	0.198	0.505	94.031	185980	4
+29	5sml5GrLj7g9WIpC2R3Tgk	Replaced	American Authors	37	2016-07-01	{'pop rock', 'modern rock'}	0.667	0.566	5	-6.388	1	0.0766	0.0	0.183	0.354	125.015	212547	4
+30	5gW5dSy3vXJxgzma4rQuzH	Make Me Feel	Janelle Monáe	66	2018-04-27	{'alternative r&b', 'r&b', 'atl hip hop', 'afrofuturism', 'neo soul'}	0.859	0.413	1	-7.399	1	0.132	0.0	0.334	0.697	115.035	194230	4
+31	37f4ITSlgPX81ad2EvmVQr	Fight Song	Rachel Platten	79	2016-01-01	{'post-teen pop', 'viral pop'}	0.564	0.714	7	-4.987	1	0.0549	0.0	0.155	0.33	175.924	204013	4
+32	7kSLdGdXLey7pzLsWpdg1h	Little Things	One Direction	0	2012-11-09	{'boy band', 'post-teen pop', 'talent show', 'pop'}	0.707	0.222	7	-11.716	1	0.788	0.0	0.205	0.556	110.095	219640	4
+33	4u26EevCNXMhlvE1xFBJwX	If I Die Young	The Band Perry	70	2010-01-01	{'contemporary country', 'country dawn', 'country road', 'country'}	0.606	0.497	4	-6.611	1	0.348	0.0	0.275	0.362	130.739	222773	4
+34	3HVWdVOQ0ZA45FuZGSfvns	I Don't Care (with Justin Bieber)	Justin Bieber	79	2019-05-10	{'canadian pop', 'pop'}	0.798	0.675	6	-5.041	1	0.0912	0.0	0.0894	0.842	101.956	219947	4
+35	2y5aJvzXhHPA94U5GFAcXe	I Don’t Wanna Live Forever (Fifty Shades Darker)	Taylor Swift	69	2017-02-10	{'uk pop', 'pop'}	0.734	0.442	0	-8.432	1	0.0594	1.63e-05	0.213	0.0973	117.967	245653	4
+36	7fa9MBXhVfQ8P8Df9OEbD8	Girls Like You (feat. Cardi B) - Cardi B Version	Cardi B	75	2018-06-15	{'rap', 'pop'}	0.851	0.541	0	-6.825	1	0.568	0.0	0.13	0.448	124.959	235545	4
+37	70eFcWOvlMObDhURTqT4Fv	Beautiful People (feat. Khalid)	Khalid	77	2019-07-12	{'singer-songwriter pop', 'pop r&b', 'uk pop', 'pop'}	0.64	0.647	5	-8.114	0	0.124	0.0	0.0801	0.546	92.979	197867	4
+38	0ibG3XCJ32Qq9maUY4AViR	How Can I Forget	MKTO	62	2018-09-07	{'post-teen pop', 'pop'}	0.796	0.53	8	-5.967	1	0.69	0.0	0.0646	0.754	105.031	177141	4
+39	7LVHVU3tWfcxj5aiPFEW4Q	Fix You	Coldplay	86	2005-06-07	{'permanent wave', 'pop'}	0.209	0.417	3	-8.74	1	0.164	0.00196	0.113	0.124	138.178	295533	4
+40	3EPXxR3ImUwfayaurPi3cm	Be Alright	Dean Lewis	80	2018-06-29	{'pop', 'australian pop'}	0.553	0.586	11	-6.319	1	0.697	0.0	0.0813	0.443	126.684	196373	4
+41	4Y0TtDriFlN3XZoQx6PYsu	"Don't Give Up On Me - (From ""Five Feet Apart"")"	Andy Grammer	0	2019-02-13	{'post-teen pop', 'neo mellow'}	0.641	0.537	0	-5.452	0	0.0875	9.05e-06	0.115	0.0681	112.864	196188	4
+42	65cv0OI9HmwR4EmN6CWucM	On My Way	Sheppard	57	2019-02-01	{'folk-pop', 'australian indie'}	0.569	0.873	4	-5.239	1	0.246	0.0	0.104	0.53	138.061	203100	4
+43	6bWBLZLBRQEJ5KsLicouNB	I Think I'm OKAY (with YUNGBLUD & Travis Barker)	Travis Barker	0	2019-06-06	{'pov: indie', 'modern rock', 'pop rap', 'ohio hip hop', 'rap rock', 'british indie rock', 'rock'}	0.629	0.729	7	-4.744	1	0.028	0.0	0.288	0.304	119.996	170440	4
+44	6pooRNiLyYpxZeIA5kJ5EX	Good Things Fall Apart (with Jon Bellion)	Jon Bellion	63	2019-05-13	{'pop dance', 'edm', 'indie pop rap', 'melodic dubstep'}	0.643	0.594	2	-5.453	1	0.0128	0.0	0.118	0.442	144.033	216668	4
+45	0Ev562zA4pmUsBqjxsxxdx	Feel Good (feat. Daya)	Daya	67	2017-03-03	{'melodic dubstep', 'edm', 'pop', 'pop dance'}	0.625	0.707	2	-4.761	1	0.22	0.0	0.213	0.479	138.064	248156	4
+46	1H7Zqkq54andtaSSnLRrfp	You Will Be Found	Original Broadway Cast of Dear Evan Hansen	62	2017-02-03	{'show tunes', 'broadway'}	0.293	0.624	9	-7.13	1	0.0865	0.0	0.0874	0.213	87.335	360907	4
+47	31WvxX5OYx8FGeVdWQr3pO	If I Were an Artist	Jake Coco	28	2015-01-07	{'viral pop'}	0.575	0.358	4	-9.355	1	0.694	0.0	0.0981	0.191	142.273	292564	3
+48	4hPpVbbakQNv8YTHYaOJP4	One Thing Right	Kane Brown	75	2019-06-21	{'contemporary country', 'edm', 'black americana', 'progressive electro house', 'brostep', 'country road', 'pop', 'country'}	0.659	0.625	4	-2.253	1	0.0644	0.0	0.582	0.442	88.042	181824	4
+49	15DrrIod12Tc2IoMaHiwlQ	I Bet My Life	Imagine Dragons	64	2014-09-18	{'rock', 'modern rock', 'pop'}	0.553	0.657	1	-8.219	1	0.335	0.000648	0.228	0.555	107.889	192707	4
+50	7oXVcabTfo1qmLyG0k12qC	Missing You	Blake McGrath	0	2017-11-01	{'canadian pop'}	0.315	0.46	8	-5.912	1	0.665	0.0	0.116	0.393	81.12	240944	4
+51	78nplE9X2ZGvQh3TKgvldE	Rewrite The Stars (with James Arthur & Anne-Marie)	Anne-Marie	68	2018-11-16	{'talent show', 'uk pop', 'pop'}	0.67	0.743	10	-4.993	1	0.237	0.0	0.465	0.571	125.944	218293	4
+52	78O8CIzX5ZMuJh39fQOR3i	Incomplete	James Bay	44	2014-12-15	{'uk pop', 'neo mellow', 'pop'}	0.52	0.401	2	-9.157	1	0.662	0.0	0.118	0.224	144.624	224267	4
+53	4cPsqRptFXDRSIypaRoVOS	Gonna Be Alright	Andrew Simple	1	2012-04-01	{'indiecoustica'}	0.675	0.573	1	-11.931	1	0.0138	0.0	0.205	0.68	110.015	159609	4
+54	0hNOP5epEjX8Zj5aSGr6JU	Waves	Dean Lewis	51	2017-05-12	{'pop', 'australian pop'}	0.517	0.762	11	-5.806	0	0.161	0.0	0.0897	0.351	156.928	241292	4
+55	7q0aQpiLv5tIsupcgQ3Ny4	Budapest	George Ezra	2	2015-01-20	{'folk-pop', 'neo-singer-songwriter'}	0.717	0.455	5	-8.303	1	0.0846	0.0	0.11	0.389	127.812	200733	4
+56	5uCax9HTNlzGybIStD3vDh	Say You Won't Let Go	James Arthur	88	2016-10-28	{'talent show', 'uk pop', 'pop'}	0.358	0.557	10	-7.398	1	0.695	0.0	0.0902	0.494	85.043	211467	4
+57	7vGuf3Y35N4wmASOKLUVVU	Silence	Khalid	82	2017-08-11	{'edm', 'progressive electro house', 'brostep', 'pop', 'pop r&b'}	0.52	0.761	4	-3.093	1	0.256	4.96e-06	0.17	0.286	141.971	180823	4
+58	5RK8kePPbYkBqMu1e23zuv	2 Heads	Coleman Hell	37	2015-10-23	{'indie poptimism', 'canadian pop'}	0.732	0.564	0	-8.49	1	0.0611	0.000251	0.106	0.358	120.008	212427	4
+59	1oFDPZh4uxrWsA8KPzH6Op	Big Light	Houses	0	2013-04-16	{'indie dream pop', 'chillwave'}	0.374	0.175	4	-17.292	1	0.967	0.946	0.0862	0.302	120.0	288747	4
+60	7GuAxz9Q60xdLS8RtdRCrh	All I Want	Dawn Golden	0	2014-03-04	{'vapor pop'}	0.347	0.605	0	-7.74	1	0.335	0.004	0.0899	0.224	157.802	214293	4
+61	5KONnBIQ9LqCxyeSPin26k	Trumpets	Jason Derulo	65	2013-09-10	{'dance pop', 'pop'}	0.635	0.691	0	-4.862	1	0.555	0.0	0.097	0.638	82.142	217419	4
+62	1TQCb2DuM8L5rDjN2hPZKb	TOOTIMETOOTIMETOOTIME	The 1975	0	2018-11-30	{'pov: indie', 'modern rock', 'modern alternative rock', 'pop', 'rock'}	0.667	0.824	8	-5.867	1	0.177	0.0152	0.0933	0.518	114.998	207851	4
+63	7h6lpVuSGPW6RNjDXKpYDh	The Sound	The 1975	68	2016-02-26	{'pov: indie', 'modern rock', 'modern alternative rock', 'pop', 'rock'}	0.648	0.936	0	-4.745	1	0.085	6.93e-06	0.482	0.566	120.708	248880	4
+64	5kqIPrATaCc2LqxVWzQGbk	7 Years	Lukas Graham	85	2016-04-01	{'danish pop', 'scandipop'}	0.765	0.473	10	-5.829	1	0.287	0.0	0.391	0.34	119.992	237300	4
+65	55qBw1900pZKfXJ6Q9A2Lc	Teenage Dream	Katy Perry	67	2012-03-12	{'pop'}	0.719	0.804	10	-4.581	1	0.0132	3.02e-06	0.139	0.605	119.999	227760	4
+66	0VhgEqMTNZwYL1ARDLLNCX	Can I Be Him	James Arthur	81	2016-10-28	{'talent show', 'uk pop', 'pop'}	0.696	0.543	11	-6.164	1	0.308	0.0	0.0939	0.479	107.969	246880	4
+67	2u6fRGcaBhpI4uNBHpGv0b	Hallelujah	Rufus Wainwright	63	2013-01-01	{'chamber pop', 'melancholia', 'canadian pop', 'singer-songwriter', 'piano rock'}	0.367	0.156	9	-10.052	0	0.88	0.0	0.0972	0.44	73.138	251587	4
+68	1DunhgeZSEgWiIYbHqXl0c	Latch	Sam Smith	73	2013-06-03	{'edm', 'uk dance', 'house', 'indietronica', 'uk pop', 'pop'}	0.729	0.735	1	-5.455	1	0.0178	0.000193	0.089	0.544	121.986	255867	4
+69	5a7QothipiAULQ4YMj2hBJ	Giants	The Ready Set	18	2010-06-14	{'neon pop punk', 'pop punk', 'pixie', 'pop emo'}	0.643	0.824	11	-6.44	1	0.0104	0.0	0.359	0.73	123.994	235133	4
+70	6SznMYPQJHzr3IwsAHLId2	Bibia Be Ye Ye	Ed Sheeran	63	2017-03-03	{'singer-songwriter pop', 'uk pop', 'pop'}	0.738	0.677	7	-5.121	1	0.52	0.0	0.133	0.882	127.067	176747	4
+71	3f3omU8n47Mqyab5nCaGyT	Because of You	Kelly Clarkson	71	2004-01-17	{'dance pop', 'talent show', 'pop'}	0.583	0.584	5	-5.362	0	0.254	0.0	0.123	0.136	140.039	219493	4
+72	7gY3cyGcB2wnk2xDXiA0pe	Head Above Water	Avril Lavigne	66	2019-02-15	{'candy pop', 'canadian pop', 'pop'}	0.578	0.694	5	-5.351	1	0.0112	0.0	0.102	0.268	129.921	220850	4
+73	0prNGof3XqfTvNDxHonvdK	Scars To Your Beautiful	Alessia Cara	2	2015-11-13	{'canadian contemporary r&b', 'canadian pop', 'pop'}	0.573	0.739	0	-5.74	1	0.0285	0.0	0.111	0.451	97.085	230227	4
+74	0afhq8XCExXpqazXczTSve	Galway Girl	Ed Sheeran	81	2017-03-03	{'singer-songwriter pop', 'uk pop', 'pop'}	0.624	0.876	9	-3.374	1	0.0735	0.0	0.327	0.781	99.943	170827	4
+75	3Lfiu5sZ4M4B6JaKMBc0FU	Barcelona	Ed Sheeran	66	2017-03-03	{'singer-songwriter pop', 'uk pop', 'pop'}	0.747	0.76	1	-4.294	1	0.448	0.0	0.153	0.682	99.975	191147	4
+76	0OY2KqGxYAUizKfjwsPrbp	Slip	Elliot Moss	0	2015-04-28	{'nyc pop'}	0.716	0.275	0	-10.013	0	0.754	1.85e-05	0.147	0.354	63.51	298907	4
+77	13HVjjWUZFaWilh2QUJKsP	Let It Go	James Bay	71	2014-12-15	{'uk pop', 'neo mellow', 'pop'}	0.546	0.311	1	-10.396	1	0.818	1.65e-05	0.107	0.246	147.464	260533	4
+78	3nCQzV8Nb1o1aIC2g88Rrx	Skyscraper	Megan Nicole	41	2012-07-24	{'acoustic cover', 'viral pop', 'neo mellow'}	0.453	0.337	7	-9.027	1	0.406	0.0	0.106	0.427	207.849	227028	4
+79	6wmAHw1szh5RCKSRjiXhPe	How Long	Charlie Puth	77	2018-05-11	{'viral pop', 'pop'}	0.845	0.561	1	-5.253	0	0.211	3.49e-06	0.0383	0.811	109.974	200853	4
+80	12GEpg2XOPyqk03JZEZnJs	It Ain’t Me (with Selena Gomez)	Selena Gomez	69	2017-02-17	{'post-teen pop', 'tropical house', 'edm', 'pop dance', 'pop'}	0.64	0.533	0	-6.596	1	0.119	0.0	0.0864	0.515	99.968	220781	4
+81	67jTooF4NM8NkbmzDoVbKY	It's Time	Gavin Mikhail	32	2015-01-21	{'piano rock', 'viral pop'}	0.39	0.504	2	-5.506	1	0.913	0.00294	0.132	0.174	103.396	243893	4
+82	6gIsoUnO4GbOdCQ3Juv8jm	Give Me Tonight	Dustin Tebbutt	47	2016-08-05	{'indie folk', 'indie anthem-folk', 'modern indie folk', 'australian indie'}	0.648	0.368	1	-10.636	1	0.739	0.0109	0.179	0.257	88.057	262327	4
+83	1bQhZOoXYqjXs7u7rFXo0h	You & Me	James TW	69	2019-04-26	{'british singer-songwriter'}	0.714	0.686	11	-6.333	1	0.203	7.76e-06	0.102	0.828	127.015	231653	4
+84	6Uy6K3KdmUdAfelUp0SeXn	Brave	Sara Bareilles	71	2013-07-16	{'post-teen pop', 'neo mellow', 'lilith', 'pop rock', 'acoustic pop'}	0.551	0.836	10	-3.838	0	0.00502	2.1e-05	0.0425	0.758	185.063	220573	4
+85	07HeFSqsEGq4eWyerDrW1a	Back Home	Andy Grammer	61	2014-08-05	{'post-teen pop', 'neo mellow'}	0.621	0.827	11	-7.309	1	0.0409	0.0	0.0815	0.65	99.979	199113	4
+86	4fwbGKNExPtPHbor1TBSY4	Unconditionally	Katy Perry	62	2013-10-18	{'pop'}	0.397	0.725	7	-4.862	1	0.00266	0.0	0.208	0.358	128.861	228879	4
+87	4oa14QBfWRDfJy2agySy0L	Gravity	Sara Bareilles	68	2007-07-03	{'post-teen pop', 'neo mellow', 'lilith', 'pop rock', 'acoustic pop'}	0.27	0.275	0	-10.357	1	0.834	0.0	0.146	0.231	168.964	232760	4
+88	3E7dfMvvCLUddWissuqMwr	Party In The U.S.A.	Miley Cyrus	84	2009-01-01	{'pop'}	0.652	0.698	10	-4.667	0	0.00112	0.000115	0.0886	0.47	96.021	202067	4
+89	78qm0iId9VTWVwzEwsVozA	Say You Will	Hearts & Colors	39	2016-06-02	set()	0.493	0.414	11	-11.438	1	0.533	4.26e-06	0.119	0.191	163.57	211086	4
+90	4hhnby0ACYDu0cCMenkcmw	Paper Hearts (feat. Bailey Jehl)	Bailey Jehl	38	2013-11-18	{'acoustic chill', 'indiecoustica'}	0.652	0.467	1	-7.691	1	0.758	0.0	0.101	0.312	83.48	199134	4
+91	5ftTH7EI3S4Z0FjuJOnVxy	"The Night We Met (from ""13 Reasons Why"")"	Gavin Mikhail	39	2017-05-10	{'piano rock', 'viral pop'}	0.394	0.33	3	-8.117	1	0.938	0.0	0.116	0.204	84.262	177477	5
+92	7iDa6hUg2VgEL1o1HjmfBn	Meant to Be (feat. Florida Georgia Line)	Florida Georgia Line	76	2017-08-11	{'dance pop', 'contemporary country', 'country pop', 'modern country rock', 'country road', 'pop', 'country'}	0.643	0.783	10	-6.458	1	0.047	0.0	0.083	0.579	154.084	163870	4
+93	5VWmMZCfJ4yVkJw9ZLFXej	1, 2, 3, 4	Plain White T's	61	2008-01-01	{'neo mellow', 'modern rock', 'neon pop punk', 'pop punk', 'pop rock'}	0.458	0.55	2	-7.092	1	0.566	1.39e-05	0.108	0.56	90.56	198360	4
+94	5KqCkzcDvx04iUBpHhdiea	Melody's Song	The Ready Set	17	2010-06-14	{'neon pop punk', 'pop punk', 'pixie', 'pop emo'}	0.474	0.785	0	-4.908	1	0.00168	0.0	0.419	0.425	165.086	206960	3
+95	3afkJSKX0EAMsJXTZnDXXJ	Strawberries & Cigarettes	Troye Sivan	81	2018-03-16	{'viral pop', 'pop', 'australian pop'}	0.578	0.537	9	-8.676	1	0.162	0.0	0.076	0.25	83.909	201539	4
+96	5Sv49ZYEiXYRcjC7e6UERg	Dangerous Night	Thirty Seconds To Mars	0	2018-01-25	{'post-grunge', 'modern rock'}	0.295	0.723	2	-6.576	1	0.00292	1.47e-06	0.171	0.184	87.242	200013	4
+97	1KDkSCXJIR4CJaVUK9qP7O	Winter Song	Ingrid Michaelson	45	2008-10-14	{'post-teen pop', 'neo mellow', 'ectofolk', 'lilith', 'pop rock', 'acoustic pop'}	0.354	0.14	1	-14.136	1	0.962	2.9e-05	0.176	0.194	81.108	266640	5
+98	7vu0JkJh0ldukEYbTVcqd0	Issues	Julia Michaels	77	2017-07-28	{'pop'}	0.728	0.415	8	-6.852	1	0.401	0.0	0.0616	0.455	114.145	176320	4
+99	1QUpqu8865jfasDr8M3IKN	A Thousand Years	Christina Perri	58	2011-11-04	{'pop'}	0.421	0.407	10	-7.445	1	0.309	0.000961	0.11	0.161	139.028	285120	3
+100	0fYVliAYKHuPmECRs1pbRf	Renegades	X Ambassadors	79	2015-06-30	{'modern alternative rock', 'stomp pop', 'modern rock'}	0.526	0.862	2	-6.003	1	0.0144	0.0597	0.229	0.528	90.052	195200	4
+101	4D03nfA969gXmBUNJxH7Dm	Hold Each Other	A Great Big World	35	2015-11-13	{'pop rock', 'piano rock', 'neo mellow', 'viral pop'}	0.54	0.771	10	-5.485	1	0.0604	0.0	0.124	0.374	159.8	194227	4
+102	1vrd6UOGamcKNGnSHJQlSt	Love Story	Taylor Swift	72	2008-11-11	{'pop'}	0.618	0.741	2	-3.95	1	0.17	0.0	0.0822	0.296	118.984	235267	4
+103	3GCL1PydwsLodcpv0Ll1ch	You Belong With Me	Taylor Swift	73	2008-11-11	{'pop'}	0.687	0.783	6	-4.44	1	0.162	1.35e-05	0.114	0.443	129.964	231133	4
+104	2ULNeSomDxVNmdDy8VxEBU	22	Taylor Swift	56	2012-10-22	{'pop'}	0.658	0.729	7	-6.561	1	0.00215	0.0013	0.0752	0.668	104.007	230133	4
+105	3275znH9QH5MFSB7CfiEKZ	Black & White	Silver Trees	21	2014-08-26	{'indiecoustica'}	0.533	0.427	9	-8.386	1	0.397	0.0	0.11	0.313	173.917	205550	4
+106	0Jdz2qNvP25MMvXNpkpKRQ	Flicker	Canyon City	0	2015-07-16	{'acoustic pop', 'modern indie folk', 'indiecoustica'}	0.628	0.255	4	-10.811	1	0.768	0.0	0.113	0.159	115.01	254609	4
+107	0ND8rF8oirMXtE59n585P6	17	Julia Michaels	62	2019-06-28	{'pop'}	0.774	0.466	4	-6.869	1	0.458	0.0	0.111	0.396	97.975	182800	4
+108	4NmE2ytXI8S2svTRSmEdpO	Small Talk	Katy Perry	56	2019-08-09	{'pop'}	0.846	0.631	5	-5.547	1	0.203	0.0	0.455	0.602	115.999	161963	4
+109	3528IXKpbb7OMjdjWYlbfD	Everybody Talks	Neon Trees	53	2012-01-01	{'pop rock', 'neo mellow', 'modern rock', 'pov: indie'}	0.471	0.924	8	-3.906	1	0.00301	0.0	0.313	0.725	154.961	177280	4
+110	3mJq2ZlI3ZN8hvmRSdzRy9	Fallin' For You	Colbie Caillat	60	2009-01-01	{'dance pop', 'neo mellow', 'pop'}	0.645	0.825	4	-6.473	1	0.161	0.0	0.114	0.641	117.037	215320	4
+111	4ftPj2fBTJ5pytddHwCPH0	Fresh Eyes	Andy Grammer	0	2016-07-29	{'post-teen pop', 'neo mellow'}	0.828	0.56	0	-6.685	1	0.548	3.66e-05	0.15	0.872	122.054	198001	4
+112	6M8mODDhC5Ehq9X45PsVFm	Glad You Came	The Wanted	0	2012-01-01	{'boy band', 'dance pop', 'post-teen pop', 'pop'}	0.672	0.826	7	-4.859	0	0.0373	0.0	0.106	0.538	126.874	197147	4
+113	2i0AUcEnsDm3dsqLrFWUCq	Tonight Tonight	Hot Chelle Rae	73	2011-11-25	{'dance rock', 'post-teen pop', 'neon pop punk'}	0.686	0.783	4	-4.977	1	0.0764	0.0	0.163	0.814	99.978	200467	4
+114	25sgk305KZfyuqVBQIahim	Sweet but Psycho	Ava Max	3	2018-08-17	{'pop'}	0.719	0.704	1	-4.724	1	0.0691	0.0	0.166	0.628	133.002	187436	4
+115	4y3OI86AEP6PQoDE6olYhO	Sucker	Jonas Brothers	6	2019-03-01	{'boy band', 'pop'}	0.842	0.734	1	-5.065	0	0.0427	0.0	0.106	0.952	137.958	181040	4
+116	15DeqWWQB4dcEWzJg15VrN	Our Song	Taylor Swift	78	2006-10-24	{'pop'}	0.668	0.672	2	-4.931	1	0.111	0.0	0.329	0.539	89.011	201107	4
+117	5yEPktRqvIhko5QFF3aBhQ	Mean	Taylor Swift	68	2010-10-25	{'pop'}	0.568	0.761	4	-3.987	1	0.452	0.0	0.217	0.789	163.974	237733	4
+118	6Eu31gddWw0gOGO506pJYA	Fearless	Taylor Swift	63	2008-11-11	{'pop'}	0.594	0.712	5	-4.418	1	0.04	0.0	0.309	0.476	99.972	241987	4
+119	6a0lHeMCElSIa9uXuEgyYq	Stays Four the Same	The Ready Set	25	2010-06-14	{'neon pop punk', 'pop punk', 'pixie', 'pop emo'}	0.46	0.814	6	-4.718	1	0.0344	0.0	0.12	0.535	174.046	197040	4
+120	7mldq42yDuxiUNn08nvzHO	Body Like A Back Road	Sam Hunt	75	2017-02-01	{'contemporary country', 'country pop', 'country'}	0.732	0.458	5	-7.225	1	0.447	0.0	0.136	0.661	98.938	165387	4
+121	1wjzFQodRWrPcQ0AnYnvQ9	I Like Me Better	Lauv	1	2017-05-19	{'pop'}	0.752	0.505	9	-7.621	1	0.535	2.55e-06	0.104	0.419	91.97	197437	4
+122	4Y6IdA3e4wwLrbKHDjufaC	Love Myself	Hailee Steinfeld	0	2015-11-13	{'pop'}	0.616	0.765	0	-6.75	0	0.0029	0.0	0.149	0.343	122.916	218773	4
+123	5QPachkZsP2xHp52FIoX0d	Just My Soul Responding	Amber Run	45	2015-04-20	{'indie anthem-folk', 'neo-singer-songwriter'}	0.523	0.794	9	-6.818	0	0.0134	2.62e-05	0.141	0.39	138.025	238560	4
+124	4dsEZkHGlmL9yLPayqJG7m	White Noise	Coasts	0	2017-08-18	{'shimmer pop', 'indie surf', 'indie poptimism', 'hopebeat', 'indie anthem-folk'}	0.585	0.64	2	-6.54	1	0.0511	0.0	0.074	0.367	100.029	215480	4
+125	7L605WhF5EGf34ggj87yK6	You And Me	Lifehouse	0	2005-01-01	{'post-grunge', 'pop rock', 'neo mellow'}	0.461	0.446	7	-7.703	1	0.1	0.0	0.169	0.375	139.868	195493	3
+126	0UQAkAVNk3tubJYlOHyG3q	All About Us	Owl City	55	2010-01-01	{'washington indie', 'neon pop punk', 'pixie', 'indietronica', 'alternative pop rock', 'pop'}	0.44	0.547	4	-5.26	1	0.168	0.0	0.117	0.365	172.227	206173	4
+127	1MaqkdFNIKPdpQGDzme5ss	Two Is Better Than One (feat. Taylor Swift)	Taylor Swift	68	2009-09-07	{'neon pop punk', 'pop punk', 'pop'}	0.521	0.702	0	-5.189	1	0.189	0.0	0.0962	0.25	127.976	242840	4
+128	2SPqhlmGmYCM4oU4HGCnsx	She'd Say (with Ladysmith Black Mambazo)	Ladysmith Black Mambazo	47	2019-07-26	{'south african choral', 'post-teen pop', 'afropop', 'neo mellow', 'world'}	0.673	0.503	0	-6.67	1	0.411	0.0	0.319	0.328	91.011	206509	4
+129	43rA71bccXFGD4C8GOpIlN	I Forgot That You Existed	Taylor Swift	78	2019-08-23	{'pop'}	0.664	0.316	5	-10.345	1	0.298	2.03e-06	0.0812	0.541	92.875	170640	4
+130	4y5bvROuBDPr5fuwXbIBZR	Paper Rings	Taylor Swift	87	2019-08-23	{'pop'}	0.811	0.719	9	-6.553	1	0.0129	1.36e-05	0.0742	0.865	103.979	222400	4
+131	3RauEVgRgj1IuWdJ9fDs70	The Man	Taylor Swift	87	2019-08-23	{'pop'}	0.777	0.658	0	-5.191	1	0.0767	0.0	0.0901	0.633	110.048	190360	4
+132	7COXchtUOMd6uIT6HvmRaI	i'm so tired...	Troye Sivan	2	2019-01-24	{'australian pop', 'viral pop', 'pop'}	0.599	0.733	11	-7.058	1	0.176	0.0	0.242	0.534	102.211	162583	4
+133	0mjAU3yKR1QnXnHtjGJqTM	Rescue Me	OneRepublic	70	2019-05-17	{'piano rock', 'pop'}	0.759	0.605	7	-7.737	1	0.156	0.0	0.694	0.64	121.049	158900	4
+134	1SmiQ65iSAbPto6gPFlBYm	It’s Nice To Have A Friend	Taylor Swift	74	2019-08-23	{'pop'}	0.737	0.175	10	-9.912	1	0.971	0.000337	0.171	0.545	70.008	150440	4
+135	1rqqCSm0Qe4I9rUvWncaom	High Hopes	Panic! At The Disco	83	2018-06-22	{'pop'}	0.579	0.904	5	-2.729	1	0.193	0.0	0.064	0.681	82.014	190947	4
+136	7xT0GApaXGNVMUdRx2taZv	Hide Away	Daya	0	2015-11-27	{'pop'}	0.884	0.826	11	-3.672	0	0.222	2.29e-06	0.0719	0.466	94.997	192381	4
+137	0SuLAslEMFZAXf0SwY7syi	All Time Low	Jon Bellion	68	2016-06-10	{'indie pop rap'}	0.617	0.567	0	-4.188	1	0.0584	0.0	0.0933	0.505	90.246	217603	4
+138	4JWQC6gyYoPRnxRxk0ta2M	Peer Pressure (feat. Julia Michaels)	Julia Michaels	0	2019-02-22	{'uk pop', 'neo mellow', 'pop'}	0.631	0.715	1	-6.083	0	0.0299	0.0	0.121	0.42	135.826	176880	4
+139	6KLZqbyQzSSPpe7WIAlrxW	Pastel Clouds	Jeyes	20	2019-09-13	set()	0.604	0.254	7	-13.081	1	0.76	0.835	0.106	0.222	147.927	168699	4
+140	5FieiCIIiHA3Njs2Vy9j8J	RAIN	Ben Platt	44	2019-08-23	{'show tunes', 'broadway'}	0.771	0.863	2	-4.831	1	0.167	0.0	0.113	0.533	120.03	213868	4
+141	2b8fOow8UzyDFAE27YhOZM	Memories	Maroon 5	30	2019-09-20	{'pop'}	0.764	0.32	11	-7.209	1	0.837	0.0	0.0822	0.575	91.019	189486	4
+142	5CLGzJsGqhCEECcpnFQA8x	These Days (feat. Jess Glynne, Macklemore & Dan Caplen)	Dan Caplen	75	2018-01-19	{'pop rap', 'uk funky', 'uk dance', 'pop dance', 'seattle hip hop', 'uk contemporary r&b', 'uk pop', 'pop', 'neo soul'}	0.653	0.809	0	-4.057	1	0.194	0.0	0.165	0.55	92.213	210773	4
+143	1iQDltZqI7BXnHrFy4Qo1k	Trampoline (with ZAYN)	ZAYN	70	2019-09-26	{'electropop', 'uk pop', 'pop'}	0.619	0.459	7	-5.782	0	0.56	0.0	0.137	0.498	126.803	184280	4
+144	6uAm7pG66O1XesXS9bpHSF	Good As Hell	Lizzo	0	2016-03-11	{'minnesota hip hop', 'escape room', 'trap queen', 'pop'}	0.684	0.905	0	-3.187	0	0.285	0.0	0.525	0.492	95.985	159011	4
+145	7hzlzoOwCZ4D3Ow5YZK4kj	Insomnia	Daya	64	2019-03-08	{'pop'}	0.754	0.653	7	-5.095	1	0.0944	0.0	0.383	0.379	123.084	179746	4
+146	7qEHsqek33rTcFNT9PFqLf	Someone You Loved	Lewis Capaldi	90	2019-05-17	{'uk pop', 'pop'}	0.501	0.405	1	-5.679	1	0.751	0.0	0.105	0.446	109.891	182161	4
+147	2NrDhKpURQ2qAOfEC6i55S	Be As You Are	Mike Posner	38	2016-05-06	{'pop dance', 'dance pop', 'pop rap', 'pop'}	0.624	0.428	4	-9.45	0	0.224	1.25e-06	0.108	0.348	144.958	233587	4
+148	48GBbQiTSlXX5i0cn3iIiJ	In The Arms Of A Stranger - Grey Remix	Grey	45	2017-02-17	{'pop dance', 'dance pop', 'pop rap', 'pop'}	0.763	0.839	0	-3.437	1	0.429	0.0	0.109	0.655	104.977	212627	4
+149	2wrJq5XKLnmhRXHIAf9xBa	10,000 Hours (with Justin Bieber)	Justin Bieber	78	2019-10-04	{'contemporary country', 'canadian pop', 'country road', 'pop', 'country'}	0.654	0.63	10	-4.644	1	0.153	0.0	0.111	0.43	89.991	167693	4
+150	46frPLWZuQlMLyelCLYpL0	I Told You	James Blunt	36	2019-10-11	{'pop rock', 'neo mellow'}	0.668	0.583	9	-8.191	1	0.462	0.000679	0.143	0.821	91.041	151807	4
+151	18uwL0vNUanqZH0ro2QcOP	comethru	Jeremy Zucker	79	2018-09-28	{'alt z', 'electropop', 'pop'}	0.795	0.178	0	-11.991	1	0.607	0.0	0.623	0.608	93.982	181613	4
+152	3T4UodGkfZObJ43RtA5KFU	Connection	OneRepublic	64	2018-06-26	{'piano rock', 'pop'}	0.611	0.602	5	-4.89	1	0.000837	0.0	0.112	0.624	168.154	148460	4
+153	2dpaYNEQHiRxtZbfNsse99	Happier	Bastille	84	2018-08-17	{'modern rock', 'edm', 'progressive electro house', 'brostep', 'pop', 'metropopolis'}	0.687	0.792	5	-2.749	1	0.191	0.0	0.167	0.671	100.015	214290	4
+154	5zGrlUCEJy4yMZ5xuqxrr0	Goodnight Moon	Go Radio	50	2010-01-01	{'neon pop punk', 'pop punk', 'pop emo'}	0.519	0.668	0	-5.844	1	0.037	0.0	0.17	0.424	141.965	306187	4
+155	1yTTMcUhL7rtz08Dsgb7Qb	The Bones - with Hozier	Hozier	67	2019-10-04	{'pov: indie', 'modern rock', 'contemporary country', 'classic texas country', 'irish singer-songwriter', 'pop'}	0.561	0.597	11	-6.0	0	0.286	0.0	0.0979	0.355	76.826	197299	4
+156	7jaDLcrbilPxoH4mIcYyB3	I Found You	Andy Grammer	0	2019-07-12	{'post-teen pop', 'neo mellow'}	0.728	0.701	1	-6.58	1	0.0945	2.08e-05	0.181	0.413	137.97	151734	4
+157	24AX9XecMUvVKzQjir6Xpl	Exploration (Coraline) [feat. Julia K]	Julia K	47	2018-08-26	{'weirdcore'}	0.659	0.0941	8	-16.081	1	0.972	0.0538	0.106	0.333	134.757	122131	3
+158	75ls0gurX68lUmMjE7QcsE	all the kids are depressed	Jeremy Zucker	74	2018-05-04	{'alt z', 'electropop', 'pop'}	0.773	0.437	9	-8.281	1	0.836	2.42e-05	0.544	0.707	103.861	169973	4
+159	2QZ7WLBE8h2y1Y5Fb8RYbH	In My Blood	Shawn Mendes	75	2018-05-25	{'viral pop', 'canadian pop', 'pop'}	0.622	0.712	5	-7.321	1	0.0573	0.0	0.13	0.487	140.025	211360	4
+160	1lOe9qE0vR9zwWQAOk6CoO	Ransom	Lil Tecca	82	2019-08-30	{'melodic rap', 'rap', 'pluggnb'}	0.745	0.642	7	-6.257	0	0.0204	0.0	0.0658	0.226	179.974	131240	4
+161	2fGFaTDbE8aS4f31fM0XE4	POP 101	Marianas Trench	47	2014-07-29	{'canadian rock', 'pixie', 'neon pop punk'}	0.756	0.658	11	-6.128	0	0.0581	0.0	0.0674	0.639	120.018	247829	4
+162	06LZcxlNSBZmYQGdgKTfzQ	Forget the Lies	Quietdrive	39	2014-12-16	{'neon pop punk', 'pop punk', 'pixie'}	0.484	0.64	6	-8.592	1	0.0242	0.0	0.235	0.296	82.015	266333	4
+163	3ym8RPF4EQPqtW0v8G44BT	Tonight You're Perfect	New Politics	45	2013-05-17	{'modern alternative rock', 'stomp pop', 'modern rock'}	0.583	0.719	6	-5.643	1	0.00184	0.0356	0.0919	0.299	123.999	202107	4
+164	1DA7FEKgQeyRPtU44L5DOf	In Case You Didn't Know	Brett Young	54	2017-02-10	{'contemporary country', 'country road', 'country'}	0.607	0.536	10	-7.306	1	0.386	0.0	0.102	0.434	147.986	226200	4
+165	2Pavqy0vPxGilGe0IIetdP	Geronimo	Sheppard	0	2014-01-01	{'folk-pop', 'australian indie'}	0.707	0.771	7	-6.275	1	0.434	0.0013	0.115	0.437	142.016	218228	4
+166	5zT5cMnMKoyruPj13TQXGx	I Found	Amber Run	73	2015-04-20	{'indie anthem-folk', 'neo-singer-songwriter'}	0.567	0.303	7	-12.481	0	0.862	0.00563	0.104	0.252	124.949	273000	4
+167	6hYvw3LLTViP2mT4MpDNmT	Grow as We Go	Ben Platt	64	2019-03-29	{'show tunes', 'broadway'}	0.458	0.137	8	-14.083	1	0.882	0.0	0.15	0.437	80.824	249427	4
+168	3i9UVldZOE0aD0JnyfAZZ0	Lover (Remix) [feat. Shawn Mendes]	Shawn Mendes	71	2019-11-13	{'viral pop', 'canadian pop', 'pop'}	0.448	0.603	7	-7.176	1	0.433	0.0	0.0862	0.422	205.272	221307	3
+169	6MDTpYxPFL0wtFd0pjfKws	Rhythm Of Love	Plain White T's	64	2010-01-01	{'neo mellow', 'modern rock', 'neon pop punk', 'pop punk', 'pop rock'}	0.531	0.542	8	-7.721	1	0.356	0.0	0.119	0.726	171.878	200200	4
+170	1HfxPaJggVwFsvOtHbVzMz	Live Like We're Dying	Kris Allen	54	2009-11-16	{'acoustic pop', 'viral pop', 'idol', 'neo mellow'}	0.589	0.893	0	-2.948	1	0.0273	0.0	0.343	0.94	92.011	212507	4
+171	4fIWvT19w9PR0VVBuPYpWA	Haven't Met You Yet	Michael Bublé	72	2009-10-06	{'jazz pop', 'lounge', 'canadian pop', 'adult standards'}	0.615	0.733	8	-4.808	1	0.152	0.0	0.109	0.796	122.58	244587	4
+172	1fBl642IhJOE5U319Gy2Go	Animal	Neon Trees	72	2010-01-01	{'pop rock', 'neo mellow', 'modern rock', 'pov: indie'}	0.482	0.833	5	-5.611	1	0.000346	0.0	0.365	0.74	148.039	212293	4
+173	2bzitsPcImYC6DZWvvLCQi	"Zero - From the Original Motion Picture ""Ralph Breaks The Internet"""	Imagine Dragons	71	2018-11-09	{'rock', 'modern rock', 'pop'}	0.634	0.662	6	-7.543	1	0.000479	0.00142	0.111	0.244	90.011	210933	4
+174	17hXBJHZkX7qbq7NHnB68G	Here for You	Devin Williams	40	2014-03-11	{'christian rock'}	0.395	0.635	2	-6.251	0	0.0146	0.0	0.138	0.355	78.006	224305	4
+175	4JMQOzSvrcAxjbhHBlXYE7	Drive All Night	NEEDTOBREATHE	43	2011-09-19	{'christian alternative rock', 'ccm', 'folk-pop', 'christian indie', 'christian music'}	0.541	0.898	9	-3.416	1	0.01	4.01e-05	0.158	0.244	137.983	253413	4
+176	7ce20yLkzuXXLUhzIDoZih	Before You Go	Lewis Capaldi	75	2019-11-19	{'uk pop', 'pop'}	0.459	0.575	3	-4.858	1	0.604	0.0	0.0885	0.183	111.881	215107	4
+177	6WY7Q7D3BWu00Vd6EegHgr	Rescue	James Bay	45	2019-05-10	{'uk pop', 'neo mellow', 'pop'}	0.45	0.666	9	-3.377	1	0.47	0.0	0.194	0.532	174.087	174493	4
+178	72FNf7DAlWLmuHiLTBcNHY	Hold Back The River	James Bay	68	2015-03-23	{'uk pop', 'neo mellow', 'pop'}	0.715	0.715	5	-7.364	1	0.0526	0.0	0.0936	0.506	134.923	238747	4
+179	395KzBy0bkb57dEvg6cfzJ	Falling Like The Stars	James Arthur	73	2019-10-18	{'talent show', 'uk pop', 'pop'}	0.552	0.347	6	-9.542	1	0.79	2.15e-06	0.111	0.173	113.809	211653	4
+180	3Lp8Xd2K7TwlY32SPvXkvF	Lonely	Noah Cyrus	0	2019-09-27	{'alt z', 'pop'}	0.594	0.26	5	-9.062	1	0.779	0.0	0.0924	0.303	84.648	144387	3
+181	6SL7KzIA96f0HiKjuv7tED	U & Us	Quinn XCII	55	2019-02-15	{'indie pop rap'}	0.598	0.73	4	-7.871	1	0.087	0.00268	0.186	0.264	130.039	226000	4
+182	7kF3x1XJXGcgQWFemulw4q	This City	Sam Fischer	0	2018-01-17	{'singer-songwriter pop', 'australian pop'}	0.602	0.377	11	-6.213	1	0.731	0.0	0.0808	0.518	73.877	194853	4
+183	5r0SIoi8bnhHybW3ykNHts	Simple Things (feat. Christina Perri)	Christina Perri	43	2019-06-26	{'indiecoustica', 'pop'}	0.653	0.731	0	-6.156	1	0.227	0.0	0.461	0.458	111.973	187508	4
+184	0EEUwtYnQnHAvFlbY8z4fp	Home Alone	Walk off the Earth	11	2019-09-27	{'canadian rock', 'pop rock'}	0.524	0.71	11	-7.221	1	0.297	7.73e-06	0.339	0.588	157.83	177387	1
+185	1maoY6K6fsTEv9fhXhBL14	The Last Time	The Script	0	2019-09-20	{'celtic rock', 'pop'}	0.508	0.744	5	-3.421	1	0.0567	0.0	0.193	0.129	132.067	196366	4
+186	6HQMEEo4h1EIp8JfzwHZKQ	Something I'm Not	Emily Weisband	14	2019-10-18	{'nashville singer-songwriter'}	0.52	0.388	1	-7.217	1	0.274	9.49e-06	0.112	0.227	84.929	196116	4
+187	1HimGOB6BjOaCQYMIF1xtU	What Am I	Why Don't We	66	2019-08-23	{'boy band', 'pop'}	0.614	0.647	0	-4.681	0	0.0687	0.0	0.104	0.368	163.862	184665	4
+188	39IsH7B5byx8NRlEKlZVg9	Pretty Girl - Cheat Codes X CADE Remix	Cheat Codes	60	2017-03-03	{'dark pop', 'edm', 'pop dance', 'pop edm', 'alt z', 'pop'}	0.703	0.868	7	-4.661	0	0.15	0.132	0.104	0.733	121.03	193613	4
+189	2zJZwWF7BTGIIvrAlgzJEx	Whatcha Say	Jason Derulo	61	2010-03-01	{'dance pop', 'pop'}	0.615	0.711	11	-5.507	1	0.0444	0.0	0.145	0.711	144.036	221253	4
+190	3zSCNTXI7Ed0PiidZVmzIe	Ignition - Remix	R. Kelly	65	2014-05-19	set()	0.778	0.549	1	-6.144	1	0.0549	0.0	0.0724	0.802	133.041	186040	4
+191	1FCQEg7wOK9IIBuxx63krr	And We Danced (feat. Ziggy Stardust)	Macklemore	65	2010-01-05	{'seattle hip hop', 'pop rap'}	0.758	0.677	5	-6.598	1	0.456	0.0	0.0954	0.713	124.998	246213	4
+192	2qfEcCkEo5NscA9GL7ER72	Nobody	James Arthur	61	2019-03-01	{'danish electronic', 'edm', 'pop dance', 'talent show', 'uk pop', 'pop'}	0.673	0.687	6	-5.295	0	0.269	0.0	0.181	0.524	96.964	211040	4
+193	5A6BJLZArq1MPjsnmcuk5f	Lights Down Low	MAX	63	2016-04-08	{'singer-songwriter pop', 'viral pop'}	0.623	0.493	5	-7.727	0	0.0632	0.0	0.104	0.594	81.019	223847	4
+194	0dbp9YwlGEzXmxavRMgZ4T	LA On A Saturday Night	Hearts & Colors	53	2018-10-19	set()	0.592	0.588	10	-4.889	1	0.118	0.0	0.138	0.336	81.997	195075	4
+195	48IZ6I5KgIrKL8rATErZvB	Look Away	Stephen Puth	40	2019-06-14	set()	0.787	0.443	3	-6.709	0	0.172	0.0	0.278	0.63	106.535	184128	4
+196	3i5qVV8azKqGFK4Gzdt5YS	If You Want Love	NF	76	2017-10-06	{'hip hop', 'pop rap'}	0.551	0.386	0	-10.22	1	0.659	0.0	0.125	0.245	116.409	199387	1
+197	1gqo6zPxu0dEjLv7WLYN8I	Drown	Boy In Space	0	2019-09-26	{'alt z'}	0.42	0.335	5	-7.957	1	0.412	0.0	0.0909	0.205	119.073	203909	4
+198	2qxmye6gAegTMjLKEBoR3d	Let Me Down Slowly	Alec Benjamin	88	2018-11-16	{'pov: indie', 'alt z', 'pop'}	0.652	0.557	1	-5.714	0	0.74	0.0	0.124	0.483	150.073	169354	4
+199	7pT6WSg4PCt4mr5ZFyUfsF	If We Have Each Other	Alec Benjamin	80	2018-11-16	{'pov: indie', 'alt z', 'pop'}	0.656	0.577	10	-5.566	0	0.698	0.0	0.296	0.861	173.094	181522	4
+200	7eXT7U3FKrOM88xr1DsNwc	Trust My Lonely	Alessia Cara	49	2018-11-30	{'canadian contemporary r&b', 'canadian pop', 'pop'}	0.613	0.668	0	-6.134	1	0.00421	2.06e-06	0.324	0.622	150.171	199747	4
+201	2kJwzbxV2ppxnQoYw4GLBZ	If the World Was Ending (feat. Julia Michaels)	Julia Michaels	79	2019-10-17	{'singer-songwriter pop', 'alt z', 'canadian contemporary r&b', 'pop'}	0.464	0.473	1	-10.086	1	0.866	0.0	0.109	0.604	75.801	208687	4
+202	7nDFTHHwfe32a8qdp9XqPy	False Confidence	Noah Kahan	72	2019-06-14	{'singer-songwriter pop', 'pov: indie'}	0.414	0.663	6	-7.77	1	0.163	0.0	0.138	0.33	108.98	223400	4
+203	1PsMieVYFXrSeXMxuE2SbG	Must Have Been The Wind	Alec Benjamin	0	2019-06-13	{'pov: indie', 'alt z', 'pop'}	0.653	0.644	7	-6.204	1	0.784	0.000205	0.166	0.363	88.976	179300	4
+204	7nDFTHHwfe32a8qdp9XqPy	False Confidence	Noah Kahan	72	2019-06-14	{'singer-songwriter pop', 'pov: indie'}	0.414	0.663	6	-7.77	1	0.163	0.0	0.138	0.33	108.98	223400	4
+205	0AtP8EkGPn6SwxKDaUuXec	Remember The Name (feat. Eminem & 50 Cent)	50 Cent	68	2019-07-12	{'singer-songwriter pop', 'queens hip hop', 'pop rap', 'detroit hip hop', 'hip hop', 'east coast hip hop', 'rap', 'uk pop', 'pop', 'gangster rap'}	0.852	0.666	11	-6.923	0	0.135	0.0	0.798	0.726	91.046	207760	4
+206	4vUmTMuQqjdnvlZmAH61Qk	South of the Border (feat. Camila Cabello & Cardi B)	Cardi B	77	2019-07-12	{'singer-songwriter pop', 'dance pop', 'rap', 'uk pop', 'pop'}	0.857	0.621	9	-6.376	0	0.148	0.0	0.0865	0.668	97.989	204467	4
+207	75ylrnob5O80WTKi9ugZ1Z	Problems	A R I Z O N A	56	2019-10-11	{'indie poptimism', 'electropop'}	0.72	0.658	2	-7.414	1	0.0329	0.0302	0.123	0.134	98.001	171898	4
+208	0CokSRCu5hZgPxcZBaEzVE	Glorious (feat. Skylar Grey)	Skylar Grey	78	2017-09-22	{'seattle hip hop', 'piano rock', 'viral pop', 'pop rap'}	0.731	0.794	0	-5.126	0	0.0323	2.59e-05	0.112	0.356	139.994	220454	4
+209	09Hjv8GEDhzPxqiJCw8dSB	Shadow (feat. IRO) - From Songland	iRO	55	2019-08-14	{'seattle hip hop', 'pop rap'}	0.785	0.559	1	-8.435	1	0.18	0.0	0.303	0.416	128.021	177966	4
+210	2Fxmhks0bxGSBdJ92vM42m	bad guy	Billie Eilish	85	2019-03-29	{'art pop', 'electropop', 'pop'}	0.701	0.425	7	-10.965	1	0.328	0.13	0.1	0.562	135.128	194088	4
+211	2BkyYZmU4JuWW2sYi9EzpC	7 Minutes	Dean Lewis	59	2019-01-18	{'pop', 'australian pop'}	0.613	0.739	10	-6.478	1	0.526	0.0	0.149	0.712	104.966	211453	4
+212	322tcqPhma7F6hfCeLisx0	fuck, i'm lonely	Anne-Marie	1	2019-08-02	{'pop'}	0.806	0.558	9	-6.46	1	0.482	0.0	0.0618	0.678	95.016	198973	4
+213	43zdsphuZLzwA9k4DJhU0I	when the party's over	Billie Eilish	85	2019-03-29	{'art pop', 'electropop', 'pop'}	0.367	0.111	4	-14.084	1	0.978	3.97e-05	0.0897	0.198	82.642	196077	4
+214	3Fj47GNK2kUF0uaEDgXLaD	wish you were gay	Billie Eilish	77	2019-03-29	{'art pop', 'electropop', 'pop'}	0.853	0.351	7	-10.198	1	0.39	9.38e-06	0.752	0.282	118.028	221543	4
+215	0zCSbLRT7edrNUx7rq4zeI	Always (Acoustic)	Francois Klark	0	2018-05-25	set()	0.461	0.184	6	-15.326	1	0.912	4.31e-06	0.108	0.372	114.478	243587	5
+216	7apizLyhMRutg3ccXvr2qv	Hurt Somebody	Julia Michaels	51	2018-01-12	{'singer-songwriter pop', 'pov: indie', 'pop'}	0.633	0.559	6	-5.135	1	0.336	0.0	0.262	0.473	114.987	168640	4
+217	209m5TJTSbrgzZ93DmkJ22	Waterfall	With Confidence	0	2016-06-17	{'pop punk', 'pixie'}	0.715	0.684	8	-6.939	1	0.0107	0.0433	0.147	0.059	127.99	282481	4
+218	5sNRs0EpyUv6cyF8nfFC8N	Colors	whatever mike	27	2016-05-20	{'nyc pop', 'neo r&b'}	0.716	0.621	1	-6.29	1	0.133	0.000449	0.0725	0.379	124.983	241880	4
+219	3eng6TJxpqjvDkxRpnfnhB	Big Plans	Why Don't We	64	2019-01-17	{'boy band', 'pop'}	0.693	0.604	11	-5.279	1	0.0668	0.0	0.114	0.651	75.014	179930	4
+220	5WLSak7DN3LY1K71oWYuoN	I'll Be Good	Jaymes Young	57	2014-09-28	{'indie poptimism'}	0.455	0.284	7	-10.774	1	0.715	1.47e-06	0.0897	0.133	133.936	248554	3
+221	5cXAhazDamL2rcIxThZWOt	Had It All	Parachute	40	2019-03-01	{'neo mellow', 'neon pop punk', 'charlottesville indie', 'viral pop', 'pop rock', 'acoustic pop'}	0.606	0.54	7	-6.271	0	0.182	0.000144	0.144	0.249	79.952	216853	4
+222	1etiUDkISHELzQGMY79ryt	Quarter Past Midnight	Bastille	57	2018-05-09	{'modern rock', 'metropopolis', 'pop'}	0.504	0.821	8	-3.356	1	0.275	0.0	0.0418	0.458	155.131	201799	4
+223	1LHfEkVMR0Yj20C8lWdgpA	Unbelievable	Why Don't We	59	2019-05-16	{'boy band', 'pop'}	0.532	0.66	7	-7.138	1	0.105	0.000222	0.0996	0.676	130.013	189385	4
+224	2BWWsCwuHAZFE1scLyP6Qe	Somebody To You	Demi Lovato	66	2014-11-04	{'boy band', 'post-teen pop', 'pop'}	0.559	0.849	3	-4.676	1	0.0854	0.0	0.328	0.759	86.978	182827	4
+225	2slqvGLwzZZYsT4K4Y1GBC	Only The Young - Featured in Miss Americana	Taylor Swift	69	2020-01-31	{'pop'}	0.56	0.78	5	-4.895	0	0.00244	0.0	0.0714	0.602	93.516	157507	4
+226	1gZFRYcPz3wKevEaNYRwfW	Time - Edit	NF	59	2019-07-26	{'hip hop', 'pop rap'}	0.665	0.703	8	-3.885	1	0.128	0.0	0.115	0.257	97.968	230611	4
+227	5FNS5Vj69AhRGJWjhrAd01	Slow Dance (feat. Ava Max)	Ava Max	62	2019-08-09	{'alt z', 'pop'}	0.692	0.443	1	-5.671	1	0.214	0.0	0.06	0.363	127.9	178800	4
+228	5i2JGF65pHKSfMEjSMrBC3	Jesus In LA	Alec Benjamin	0	2019-07-16	{'pov: indie', 'alt z', 'pop'}	0.767	0.627	0	-4.096	1	0.537	0.0	0.359	0.689	94.028	172606	4
+229	15xWRPHQMeqgdkGzInx3PY	Falling Like The Stars	James Arthur	67	2019-05-10	{'talent show', 'uk pop', 'pop'}	0.296	0.351	6	-9.538	1	0.823	1.45e-06	0.11	0.19	177.06	212720	3
+230	1hCTxutVVYvggAQcUUUZAT	Put A Little Love On Me	Niall Horan	66	2019-12-06	{'pop'}	0.584	0.465	10	-4.88	1	0.678	0.0	0.106	0.299	95.969	224586	4
+231	2Q7PDjPz7h559wBF97lO07	High And Low	Empire of the Sun	61	2016-10-28	{'dance rock', 'neo-synthpop', 'indietronica', 'australian electropop', 'australian dance'}	0.512	0.768	1	-4.673	1	0.0213	3.2e-06	0.0918	0.322	126.907	224840	4
+232	7pWK1kMgHy5lNNiIfuRbkP	Used To Love (with Dean Lewis)	Dean Lewis	63	2019-10-31	{'dutch edm', 'edm', 'pop dance', 'australian pop', 'progressive house', 'pop'}	0.651	0.693	4	-4.722	1	0.458	0.0	0.335	0.392	118.97	236765	4
+233	4wNIkl5XGiAACjFBlDWuSd	What A Man Gotta Do	Jonas Brothers	75	2020-01-17	{'boy band', 'pop'}	0.852	0.698	9	-7.206	1	0.00839	1.03e-06	0.0773	0.324	113.039	180645	4
+234	3Cn324qhZyTLKGgPeYPccP	Some Girl	Andy Grammer	48	2019-07-26	{'post-teen pop', 'neo mellow'}	0.501	0.537	1	-7.405	0	0.0691	0.0	0.125	0.151	135.944	175643	4
+235	0fVUKrJpQM7jMTgOABVkyi	This Bitter Earth / On The Nature Of Daylight	Chris Worsey	45	2018-05-11	{'jazz blues', 'compositional ambient', 'vocal jazz', 'modern cello', 'british soundtrack', 'post-minimalism', 'neo-classical', 'soul'}	0.0913	0.302	10	-13.254	0	0.184	0.781	0.107	0.0363	79.317	372747	5
+236	1koJk8rrMBlhDZ8MNiLzH9	Always Remember Us This Way	Lady Gaga	58	2018-10-05	{'dance pop', 'art pop', 'pop'}	0.553	0.506	0	-5.967	1	0.317	0.0	0.763	0.306	130.027	210200	4
+237	2BOqDYLOJBiMOXShCV1neZ	Dancing On My Own	Calum Scott	82	2018-03-09	{'pop'}	0.681	0.174	1	-8.745	1	0.837	3.35e-05	0.0983	0.231	112.672	260285	4
+238	1Cj2vqUwlJVG27gJrun92y	The Sound of Silence	Disturbed	74	2015-08-21	{'rock', 'alternative metal', 'rap metal', 'nu metal'}	0.322	0.28	6	-9.367	0	0.468	1.1e-06	0.102	0.175	85.794	248467	4
+239	1ZMiCix7XSAbfAJlEZWMCp	Falling	Harry Styles	85	2019-12-13	{'pop'}	0.567	0.267	4	-6.502	1	0.839	1.46e-06	0.089	0.0592	110.011	240133	4
+240	1e9oZCCiX42nJl0AcqriVo	Watermelon Sugar	Harry Styles	3	2019-11-17	{'pop'}	0.548	0.816	0	-4.209	1	0.122	0.0	0.335	0.557	95.39	174000	4
+241	1tNJrcVe6gwLEiZCtprs1u	3 Nights	Dominic Fike	77	2018-10-16	{'pov: indie', 'alternative pop rock'}	0.815	0.518	7	-6.594	0	0.223	0.0	0.104	0.877	151.891	177667	4
+242	5V0nHhlYIjUMfcSoJ5ziRD	Beloved	Mumford & Sons	0	2018-11-16	{'modern folk rock', 'neo mellow', 'modern rock', 'stomp and holler', 'uk americana'}	0.445	0.773	2	-7.227	1	0.00539	0.153	0.131	0.313	191.966	265096	4
+243	5kNe7PE09d6Kvw5pAsx23n	Die A Happy Man	Thomas Rhett	76	2015-01-01	{'contemporary country', 'modern country rock', 'country road', 'country'}	0.595	0.389	2	-9.245	1	0.418	1.39e-06	0.116	0.4	166.052	227427	4
+244	4SSnFejRGlZikf02HLewEF	bury a friend	Billie Eilish	76	2019-03-29	{'art pop', 'electropop', 'pop'}	0.905	0.389	8	-14.505	1	0.74	0.162	0.106	0.196	120.046	193143	4
+245	6UjZ2Yx2g2a52XxiA8ONxZ	Outnumbered	Dermot Kennedy	66	2019-06-13	{'folk-pop', 'irish pop', 'uk pop'}	0.614	0.684	0	-5.79	1	0.247	0.0	0.0976	0.258	156.85	245700	4
+246	3MFV4DgrAOXz6KURPQxRj9	Somewhere In My Car	Keith Urban	59	2014-07-08	{'contemporary country', 'australian country', 'australian pop', 'country road', 'country'}	0.588	0.861	10	-5.531	1	0.00546	1.38e-05	0.0797	0.525	118.008	195973	4
+247	6foY66mWZN0pSRjZ408c00	Whiskey Glasses	Morgan Wallen	85	2018-04-27	{'contemporary country'}	0.614	0.68	6	-4.58	1	0.369	1.84e-06	0.115	0.707	149.959	234347	4
+248	0My8NPmENHrN5W7OfgZnZJ	The One	Kodaline	63	2015-02-09	{'irish pop', 'modern rock'}	0.43	0.587	9	-8.003	1	0.654	8.83e-05	0.158	0.332	156.006	232520	4
+249	4pWawf1Rq4qHDv4Ktqjg2D	Beautiful Creatures (feat. MAX)	MAX	56	2017-09-21	{'singer-songwriter pop', 'edm', 'pop dance', 'melodic dubstep', 'viral pop'}	0.578	0.826	0	-4.577	0	0.0668	0.00074	0.367	0.216	117.048	240508	4
+250	34dnNAUoIPcwnK0RtVMBWZ	The Scientist	Kina Grannis	48	2013-07-19	{'pop violin', 'bow pop', 'acoustic cover', 'viral pop', 'acoustic pop'}	0.453	0.295	7	-12.881	1	0.518	0.00011	0.293	0.14	146.022	276575	4
+251	5M9jOReAKGZ2AttVefFjTY	Don't Look Down (feat. Usher)	Usher	66	2015-03-17	{'dance pop', 'south carolina hip hop', 'dutch edm', 'edm', 'pop dance', 'r&b', 'rap', 'urban contemporary', 'progressive house', 'pop', 'contemporary r&b', 'atl hip hop'}	0.575	0.831	0	-5.972	1	0.00406	0.000449	0.111	0.377	127.991	223140	4
+252	0QQIhT6PtJ5glyn4HKNKQ6	All the Pretty Girls	KALEO	71	2016-06-10	{'modern alternative rock', 'icelandic rock', 'icelandic indie'}	0.466	0.496	1	-6.606	1	0.626	6.22e-06	0.117	0.352	74.747	269893	4
+253	0WTN7om3lHG3yYMigwzBxl	There's No Way (feat. Julia Michaels)	Julia Michaels	2	2018-09-27	{'pop'}	0.755	0.625	2	-7.114	1	0.49	0.0	0.157	0.374	147.02	174861	4
+254	57zF9nlPH4rud6f6zuKSQi	Thursday	Jess Glynne	61	2018-10-12	{'uk pop', 'pop'}	0.603	0.554	2	-4.381	1	0.452	0.0	0.0545	0.354	111.989	216239	4
+255	6RwrW2c7co9BFfAucUHopI	I Have Always Been in Love	David Hodges	26	2019-04-12	{'piano rock'}	0.514	0.664	1	-5.464	1	0.115	0.000721	0.166	0.211	163.992	309280	4
+256	6qNSq6OKjNgXAn3Kj9HBKf	Burn The Ships	for KING & COUNTRY	62	2018-10-05	{'christian alternative rock', 'ccm', 'world worship', 'christian indie', 'christian music'}	0.497	0.542	5	-7.398	1	0.16	1.4e-05	0.084	0.0707	93.57	276400	4
+257	3kywzyEr7V106Un5cDyh12	Older	Sasha Alex Sloan	63	2018-11-29	{'alt z'}	0.628	0.298	11	-9.539	1	0.732	0.0	0.116	0.166	63.762	184893	4
+258	68Rz4SfFjtybKHOnvl0uLH	Won't Let Go	Fivefold	0	2015-12-28	{'heavy alternative', 'gymcore'}	0.574	0.579	6	-5.675	0	0.287	0.0	0.123	0.103	125.96	297067	4
+259	3XXGqZX50zbGqSOup74UH2	Tough	Lewis Capaldi	61	2018-06-08	{'uk pop', 'pop'}	0.627	0.715	1	-5.019	1	0.127	0.0	0.0768	0.481	115.005	229283	4
+260	2xrRl0h13K2kqBpJN6P98Y	Why Did You Run?	Judah & the Lion	0	2019-08-07	{'folk-pop', 'banjo', 'stomp and holler'}	0.382	0.743	1	-5.093	1	0.0682	0.0	0.0901	0.469	205.66	233977	4
+261	7uYIX9O9DY6l1D3HiwHR1J	Freaking Me Out	Ava Max	58	2019-07-31	{'pop'}	0.429	0.553	1	-4.838	0	0.458	0.0	0.0766	0.381	97.954	192456	4
+262	23OXdR7YuUBVWh5hSnYJau	Chlorine	Twenty One Pilots	76	2018-10-05	{'pov: indie', 'rock', 'modern rock', 'pop'}	0.609	0.674	10	-7.388	0	0.0735	0.06	0.345	0.315	90.009	324467	4
+263	51syEzCH9UBoYeUOzvoXZi	The Hype - Berlin	Twenty One Pilots	46	2019-10-16	{'pov: indie', 'rock', 'modern rock', 'pop'}	0.717	0.691	0	-8.742	1	0.218	1.91e-05	0.208	0.452	92.011	250783	4
+264	1YYhDizHx7PnDhAhko6cDS	Take Me Home, Country Roads - Original Version	John Denver	76	1971	{'soft rock', 'folk', 'mellow gold', 'classic country pop', 'singer-songwriter', 'folk rock'}	0.462	0.395	9	-9.376	1	0.758	0.0	0.121	0.625	82.259	190160	4
+265	7c3Y6INQrmNXDAOquinyw4	Lady Like	Ingrid Andress	60	2020-03-27	{'contemporary country'}	0.54	0.586	9	-5.832	1	0.21	0.0	0.0921	0.14	94.961	194787	4
+266	4EJjSEoJMIjQj0cJFi5mnD	Dance with Darkness	Skrizzly Adams	0	2019-11-15	{'heartland rock'}	0.631	0.847	3	-4.782	1	0.0834	0.0	0.318	0.704	141.965	202880	4
+267	5glXTXNIkUMLIDJVMEBLFQ	The Stickup (feat. Skrizzly Adams)	Skrizzly Adams	53	2017-12-20	{'indie pop rap', 'heartland rock'}	0.717	0.726	2	-6.227	1	0.044	1.12e-06	0.0931	0.419	143.955	203333	4
+268	42zdrf0NXR6l0n3kSNa2am	Take a Sip	Skrizzly Adams	0	2019-11-15	{'heartland rock'}	0.589	0.86	8	-4.3	1	0.00777	0.0	0.18	0.878	159.982	201886	4
+269	7oSq5fbsFkTS9zeJQwMihf	This Bar	Morgan Wallen	0	2019-12-31	{'contemporary country'}	0.545	0.884	2	-5.208	1	0.115	0.000424	0.0496	0.272	110.015	185733	4
+270	4yCNpbhTPxcYn5lejWzZaf	Die A Little Bit	Ms Banks	0	2019-10-24	{'dance pop', 'post-teen pop', 'alternative r&b', 'r&b', 'uk hip hop', 'urban contemporary', 'metropopolis'}	0.922	0.563	1	-6.863	1	0.205	3.05e-06	0.363	0.25	116.096	165411	4
+271	56khZQKfmdTikYbbZLgxAY	Something's Got To Give	Labrinth	0	2019-09-20	{'indie poptimism', 'pop'}	0.511	0.747	0	-5.904	1	0.0393	6.63e-06	0.028	0.564	109.022	229285	4
+272	4QnC1bIaMSfDQvF4XDhV5M	Boyfriend	Selena Gomez	56	2020-04-09	{'post-teen pop', 'pop'}	0.811	0.512	2	-6.381	1	0.218	0.0262	0.0768	0.346	92.046	161188	4
+273	2dMkrhsWFVP2rHZmTEKkeh	Wanted Man	Mat Kearney	53	2018-05-04	{'acoustic pop', 'neo mellow'}	0.514	0.319	3	-8.978	1	0.805	0.0	0.211	0.677	203.651	235107	4
+274	5p7ujcrUXASCNwRaWNHR1C	Without Me	Halsey	77	2018-10-04	{'etherpop', 'indie poptimism', 'electropop', 'pop'}	0.752	0.488	6	-7.05	1	0.297	9.11e-06	0.0936	0.533	136.041	201661	4
+275	6H9Bc39zoXOUhzl5QJb3KQ	Where's My Love	SYML	0	2017-10-30	{'modern indie pop'}	0.597	0.346	0	-11.023	0	0.857	0.0189	0.123	0.428	103.985	202107	4
+276	3YQA5wp0v5qTJF4Lq1qHIS	This is Love - Interlude	Matt Walden	43	2018-06-22	{'teen pop'}	0.608	0.375	4	-16.038	1	0.638	0.00512	0.35	0.229	130.0	261642	4
+277	0Wc6cbF38a90b8wov9V63F	Like Strangers Do	AJ Mitchell	68	2019-10-18	{'alt z', 'pop'}	0.633	0.242	3	-8.523	0	0.515	0.0	0.0839	0.694	98.219	160791	4
+278	5HYHGYx3Yl0B344J6eAdgF	"At Least It Was Here (""Community"" Main Title) [Full Length Version]"	The 88	51	2010-09-21	{'la indie'}	0.543	0.756	9	-8.655	1	0.000979	0.000338	0.0864	0.332	145.098	169960	4
+279	7gbGFc5vljnYnBnRiZbCpU	Redemption	Lissie	0	2019-11-15	{'folk-pop', 'heartland rock'}	0.7	0.668	4	-5.997	1	0.243	0.0	0.144	0.438	127.973	186021	4
+280	3vVXzKIlFLYERxMaVFukyr	Dynasty	MIIA	0	2015-09-22	{'norwegian pop'}	0.493	0.594	8	-4.404	0	0.256	0.0	0.0759	0.304	123.751	225515	4
+281	0gbLfFlEyVHiKzlZIb0gce	How Far We've Come	Matchbox Twenty	65	2007-10-02	{'post-grunge', 'pop rock', 'neo mellow'}	0.566	0.906	0	-5.092	1	0.00452	0.0	0.21	0.787	83.0	212253	4
+282	1xQ6trAsedVPCdbtDAmk0c	Savage Love (Laxed - Siren Beat)	Jason Derulo	77	2020-06-11	{'dance pop', 'nz pop', 'pop'}	0.767	0.481	0	-8.52	0	0.234	0.0	0.269	0.761	150.076	171375	4
+283	2U12JbtnFSYa5Av5wEcEDX	Oh My God	Alec Benjamin	0	2020-02-13	{'pov: indie', 'alt z', 'pop'}	0.696	0.565	5	-7.237	0	0.652	2.02e-06	0.121	0.599	156.11	187728	4
+284	2kuFVY6hWX6yavTiWHE3SQ	Instead	Ryan Amador	37	2013-06-28	set()	0.365	0.26	1	-9.514	1	0.804	0.0	0.101	0.234	161.637	355529	3
+285	2b4dRZGflAQT7ZbFwOclyP	the 1	Taylor Swift	48	2020-07-24	{'pop'}	0.765	0.348	0	-6.963	1	0.764	1.01e-05	0.108	0.171	140.015	210252	4
+286	2MnzNhe3pPExotEbZpeXnh	the last great american dynasty	Taylor Swift	47	2020-07-24	{'pop'}	0.684	0.661	7	-8.507	1	0.473	0.00215	0.109	0.713	147.909	230999	4
+287	59HA1SBz1DPCCvdDeILV7E	exile (feat. Bon Iver)	Bon Iver	49	2020-07-24	{'chamber pop', 'modern rock', 'melancholia', 'indie folk', 'eau claire indie', 'pop'}	0.298	0.38	6	-8.426	1	0.778	5.62e-05	0.11	0.152	75.602	285634	4
+288	4LEK9rD7TWIG4FCL1s27XC	cardigan	Taylor Swift	54	2020-07-24	{'pop'}	0.613	0.581	0	-8.588	0	0.537	0.000345	0.25	0.551	130.033	239560	4
+289	6Bm6qUCSatPAqkQllFL7oA	Unwell	Matchbox Twenty	70	2002-11-01	{'post-grunge', 'pop rock', 'neo mellow'}	0.256	0.788	6	-5.263	0	0.0298	0.0	0.707	0.429	80.718	228707	4
+290	0GDQXt7qRJIDDUmcufomrU	Move Together	James Bay	46	2014-12-15	{'uk pop', 'neo mellow', 'pop'}	0.556	0.298	10	-10.842	1	0.717	1.66e-05	0.141	0.278	130.598	275493	3
+291	5uOmoW4DrSVbijtDu35Rqc	Looks Like Love	NEEDTOBREATHE	29	2007-08-27	{'christian alternative rock', 'ccm', 'folk-pop', 'christian indie', 'christian music'}	0.451	0.74	9	-4.073	1	0.00304	2.06e-05	0.31	0.337	151.026	258040	4
+292	6mEINGDE1N3hOOCm41I25a	We Are Brave	Shawn McDonald	41	2014-01-01	{'christian music', 'christian indie', 'christian alternative rock', 'ccm'}	0.598	0.81	0	-4.169	1	0.000141	0.0	0.348	0.95	126.009	221493	4
+293	2GjQ5KNXggsIRpx5ZUj2zX	Her	Anne-Marie	65	2020-03-22	{'pop'}	0.567	0.395	10	-5.568	1	0.87	0.0	0.106	0.329	119.849	177569	4
+294	6MCYY4i1zrRIbVj9YlVUdF	The Underdog	Spoon	0	2007-07-10	{'modern rock', 'indie rock', 'alternative rock', 'austindie'}	0.693	0.528	7	-10.855	1	0.0691	0.00144	0.663	0.906	145.163	222107	4
+295	03d8S7FBY2kIzhP0E7l4rn	If I Know Me	Morgan Wallen	76	2018-04-27	{'contemporary country'}	0.777	0.604	8	-5.813	1	0.765	6.79e-05	0.11	0.672	99.934	157693	4
+296	00cBcYOlnHoXX9ver3cmdE	A Little Bit Yours	JP Saxe	64	2020-09-02	{'singer-songwriter pop', 'alt z', 'canadian contemporary r&b'}	0.598	0.295	1	-8.553	1	0.735	0.0	0.107	0.314	87.025	225680	4
+297	0lx2cLdOt3piJbcaXIV74f	willow	Taylor Swift	82	2020-12-11	{'pop'}	0.392	0.574	7	-9.195	1	0.833	0.00179	0.145	0.529	81.112	214707	4
+298	2ZTKWFG6OtHI3ewy9OGNOY	gold rush	Taylor Swift	56	2020-12-10	{'pop'}	0.498	0.471	9	-10.406	1	0.811	0.113	0.121	0.351	112.018	185320	4
+299	0vVMlbdYx2080Oa9FndPZr	long story short	Taylor Swift	65	2020-12-10	{'pop'}	0.546	0.732	0	-7.715	1	0.674	0.184	0.0972	0.571	157.893	215920	4
+300	1t2M7UYoUpmhfZNMBsymJr	tolerate it	Taylor Swift	55	2020-12-10	{'pop'}	0.373	0.36	9	-10.376	1	0.878	1.54e-05	0.079	0.212	147.442	245440	5
+301	6NriykdkRrjQMZo1sfVYUo	no body, no crime (feat. HAIM)	HAIM	64	2020-12-10	{'indietronica', 'metropopolis', 'pop'}	0.547	0.613	7	-7.577	0	0.431	0.0	0.102	0.528	79.011	215627	4
+302	1OjmlSFuzYflWjSMTCyTJv	Like It's Christmas	Jonas Brothers	50	2019-11-08	{'boy band', 'pop'}	0.725	0.571	1	-6.007	1	0.0183	0.0	0.0519	0.61	146.035	200880	4
+303	1Y9cAYTmyWJCcmfqdG2I29	Broken & Beautiful	Kelly Clarkson	66	2019-03-27	{'dance pop', 'talent show', 'pop'}	0.73	0.732	8	-2.556	1	0.0823	0.0	0.0757	0.546	112.058	218948	4
+304	0E4Y1XIbs8GrAT1YqVy6dq	Afterglow	Ed Sheeran	73	2020-12-21	{'singer-songwriter pop', 'uk pop', 'pop'}	0.641	0.324	11	-5.851	1	0.698	0.0	0.328	0.273	110.184	185487	4
+305	6Hajpe64gd05XH0idimqEa	Shadows	CHPTRS	13	2019-05-24	set()	0.555	0.297	8	-11.667	0	0.796	0.0602	0.101	0.222	92.006	311087	4
+306	1p6rk9R8SCum97WnvGNt6O	I Love You Always Forever	Betty Who	59	2016-06-03	{'dance pop', 'australian dance', 'electropop', 'metropopolis'}	0.532	0.613	0	-7.64	1	0.326	0.0	0.292	0.493	106.081	222957	4
+307	5X8Yo3zaMKunLmCb7qQL7Z	Oh My My	Blue October	49	2020-10-23	{'san marcos tx indie'}	0.673	0.738	0	-4.808	1	0.019	0.0	0.214	0.713	124.987	190640	4
+308	5cYFwgA5dHoqR3xGnlr9ew	I Hope (feat. Charlie Puth)	Charlie Puth	64	2020-06-19	{'contemporary country', 'viral pop', 'pop'}	0.563	0.576	6	-6.495	1	0.171	0.0	0.158	0.412	75.019	211605	4
+309	2DINVEELpI3ibUW2EzeDs7	Undivided	Tyler Hubbard	55	2021-01-13	{'contemporary country', 'modern country pop', 'country road', 'country'}	0.583	0.812	10	-4.684	1	0.131	0.0	0.201	0.408	89.992	175921	4
+310	7fovCglnkftOlJmrIidq8r	No Hopeless Soul	Stephen Stanley	49	2020-12-15	set()	0.577	0.769	0	-5.673	1	0.0528	0.0	0.0947	0.515	91.989	183240	4
+311	1BGIZCaDu29MK8DsykL7Hb	Not Today	Alessia Cara	46	2018-11-30	{'canadian contemporary r&b', 'canadian pop', 'pop'}	0.76	0.462	6	-6.04	1	0.0972	5.29e-06	0.0933	0.169	111.906	156547	4
+312	7lPN2DXiMsVn7XUKtOW1CS	drivers license	Olivia Rodrigo	28	2021-01-08	{'pop'}	0.585	0.436	10	-8.761	1	0.721	1.31e-05	0.105	0.132	143.874	242014	4
+313	4RVtBlHFKj51Ipvpfv5ER4	Drown (feat. Clinton Kane)	Clinton Kane	68	2020-02-27	{'gen z singer-songwriter', 'dutch edm', 'edm', 'pop dance', 'alt z', 'progressive house', 'pop'}	0.573	0.739	9	-5.455	1	0.212	0.0	0.175	0.363	120.077	174062	4
+314	5KyhdbLT1Hx5KwRrlje1Ur	Fragile	Cooper & Gatlin	38	2019-04-19	set()	0.74	0.305	4	-9.978	0	0.616	1.45e-06	0.109	0.158	83.482	203916	4
+315	1tuXOJYN6CkgubpifHEm96	I'll Wait	Sasha Alex Sloan	61	2020-05-29	{'tropical house', 'edm', 'pop dance', 'alt z', 'pop'}	0.611	0.649	1	-6.968	1	0.15	1.53e-05	0.105	0.353	123.002	215361	4
+316	5tqNWWiySiABLrGAvSWsO5	Is It Just Me? (feat. Charlie Puth)	Charlie Puth	66	2020-11-19	{'alt z', 'viral pop', 'pop'}	0.682	0.363	2	-10.837	1	0.699	3e-05	0.363	0.203	94.978	154275	4
+317	4zhbaPw1LhwKOTWD4E20vK	Boxes	The Goo Goo Dolls	45	2016-05-06	{'permanent wave', 'pop rock', 'neo mellow', 'post-grunge'}	0.516	0.432	1	-7.549	0	0.235	1.42e-06	0.0855	0.131	102.077	262747	4
+318	3iPJ039BamX9MIVZQWEnnL	House With No Mirrors	Sasha Alex Sloan	53	2020-10-16	{'alt z'}	0.72	0.408	2	-11.725	1	0.832	2.61e-06	0.0992	0.341	121.972	227613	4
+319	0qJGlogD7AyMLAJfQ42aI2	Heaven Knows	Five For Fighting	58	2013-09-17	{'pop rock', 'piano rock', 'neo mellow'}	0.6	0.845	10	-7.076	1	0.048	0.0	0.24	0.392	97.631	210612	4
+320	2lFlveK1y13WWp3vnQtrr3	100 Years	Five For Fighting	68	2003	{'pop rock', 'piano rock', 'neo mellow'}	0.643	0.569	7	-7.459	1	0.544	2.17e-05	0.178	0.275	120.507	244600	4
+321	6Gy3MOuOWPNs3nEorpdx5F	Santa's Real	Sasha Alex Sloan	40	2020-10-16	{'alt z'}	0.362	0.286	9	-10.15	1	0.619	0.000148	0.124	0.15	80.673	204773	4
+322	6KufYdEosLjK6bEKPyz4oA	Freedom	Elayna Boynton	45	2012-01-01	{'r&b', 'urban contemporary', 'contemporary r&b', 'neo soul', 'new jack swing'}	0.773	0.389	1	-8.444	0	0.579	7.87e-06	0.124	0.338	111.975	236653	4
+323	6liNJDyWJjyHAgDnAX95bw	Fire and the Flood	Vance Joy	69	2014-09-09	{'folk-pop', 'modern rock'}	0.596	0.827	5	-4.402	1	0.0242	0.0	0.0958	0.329	115.034	249382	4
+324	7t3Xdbufg7q2onVsR8RBdY	Fire On Fire	Sam Smith	78	2020-10-30	{'uk pop', 'pop'}	0.584	0.408	1	-7.356	0	0.476	0.0	0.18	0.333	115.129	246735	4
+325	12ad0oPQaR6X6Jcoqz8rcz	Again	Beverly	47	2019-04-05	set()	0.693	0.632	4	-4.52	1	0.702	0.0	0.0985	0.365	129.977	293849	4
+326	6KoUNUbNrm4aiZnYQL7DKf	One Step Closer	INTERSECTION	43	2019-07-19	{'j-pop boy group'}	0.702	0.468	1	-5.975	1	0.358	0.0	0.0789	0.256	122.241	229947	4
+327	61KpQadow081I2AsbeLcsb	deja vu	Olivia Rodrigo	17	2021-04-01	{'pop'}	0.439	0.61	9	-7.236	1	0.593	1.07e-05	0.341	0.172	181.088	215508	4
+328	472vIK1ldetTxRxG3ovaiY	Glad You Exist	Dan + Shay	64	2021-02-05	{'contemporary country', 'country road', 'country'}	0.748	0.551	11	-6.12	1	0.235	0.0	0.119	0.66	103.953	144533	4
+329	04fBskFuMgIx0T0ob7uIhd	End This (L.O.V.E.)	Hailee Steinfeld	46	2020-05-08	{'pop'}	0.621	0.427	11	-9.733	0	0.323	8.35e-06	0.135	0.408	192.183	183218	4
+330	6X9m9JRk2ypGusClUBraII	楽園	Fujifabric	54	2021-01-29	{'j-pop', 'j-rock'}	0.561	0.822	2	-5.078	1	0.00469	2.71e-06	0.092	0.431	97.954	225333	4
+331	5qNh5WtzMbfpSj2jLlBkoD	Your Power	Billie Eilish	2	2021-04-29	{'art pop', 'electropop', 'pop'}	0.634	0.285	9	-14.007	0	0.937	0.000359	0.232	0.203	129.65	245897	4
+332	3V0nnQhqvbE3JmiDdnzQFQ	July (feat. Leon Bridges)	Leon Bridges	75	2019-11-08	{'modern blues', 'alt z', 'pop', 'soul', 'neo soul'}	0.708	0.211	9	-9.603	0	0.853	0.0	0.131	0.362	72.5	152280	4
+333	7CZKnz9mEt8Z638tyY5cKL	Eden	Monkey Majik	53	2020-07-07	{'j-pop', 'j-poprock'}	0.54	0.752	11	-5.212	1	0.159	0.0	0.363	0.462	84.033	271520	4
+334	3Ri6VyKJACmFm68wQHrsvv	Pleasure	WARPs UP	47	2021-04-23	{'chinese idol pop'}	0.593	0.622	1	-6.241	1	0.154	0.0	0.077	0.382	172.02	186208	4
+335	7kRQWdumkfNbVir5fRC62R	Wae Yer Family (feat. Johnny Reid)	Johnny Reid	28	2018-02-16	{'new wave pop', 'canadian country', 'classic canadian rock', 'canadian contemporary country'}	0.559	0.826	7	-8.375	1	0.0132	0.0	0.155	0.478	119.997	276013	4
+336	2GiJYvgVaD2HtM8GqD9EgQ	Electric Love	BØRNS	83	2015-10-16	{'modern alternative rock', 'pov: indie', 'indie poptimism', 'modern rock'}	0.611	0.797	6	-7.627	0	0.00543	0.00137	0.26	0.518	120.041	218107	4
+337	6PERP62TejQjgHu81OHxgM	good 4 u	Olivia Rodrigo	24	2021-05-14	{'pop'}	0.556	0.661	6	-5.052	0	0.3	0.0	0.101	0.668	168.56	178148	4
+338	0X5mtNbqxbiTYkwj0CQc2f	Crash My Car	COIN	2	2020-02-21	{'pov: indie'}	0.244	0.645	5	-5.863	1	0.00178	0.00574	0.301	0.529	183.577	188307	5
+339	28Fqo5nrtgYj7czjeyHg04	Roses	The Band CAMINO	0	2020-12-11	{'hopebeat', 'pov: indie'}	0.703	0.768	1	-5.069	1	0.0339	1.3e-06	0.0328	0.786	95.983	181674	4
+340	0awuNCj9gwJEM0seER22DW	CHICKEN TENDIES	Clinton Kane	66	2021-02-19	{'gen z singer-songwriter', 'alt z'}	0.57	0.689	7	-6.242	1	0.358	0.0	0.0819	0.568	100.087	196844	4
+341	4wcBRRpIfesgcyUtis7PEg	1 step forward, 3 steps back	Olivia Rodrigo	80	2021-05-21	{'pop'}	0.473	0.203	2	-12.627	1	0.941	0.0	0.126	0.419	168.884	163587	4
+342	2TOzTqQXNmR2zDJXihjZ2e	enough for you	Olivia Rodrigo	78	2021-05-21	{'pop'}	0.638	0.259	7	-10.706	1	0.753	0.0	0.219	0.269	88.485	202827	4
+343	5JCoSi02qi3jJeHdZXMmR8	favorite crime	Olivia Rodrigo	86	2021-05-21	{'pop'}	0.369	0.272	9	-10.497	1	0.866	0.0	0.147	0.218	172.929	152667	4
+344	1zejeOnykpCoyVSit6Bwp3	hope ur ok	Olivia Rodrigo	76	2021-05-21	{'pop'}	0.443	0.298	0	-12.181	1	0.388	1e-05	0.103	0.172	77.253	209560	4
+345	6PQ88X9TkUIAUIZJHW2upE	Bad Habits	Ed Sheeran	24	2021-06-25	{'singer-songwriter pop', 'uk pop', 'pop'}	0.808	0.897	11	-3.712	0	0.0469	3.14e-05	0.364	0.591	126.026	231041	4
+346	4ufkuONjQMNR2fyXu1bO9w	Lease On Life	Andy Grammer	66	2021-06-28	{'post-teen pop', 'neo mellow'}	0.704	0.701	2	-5.442	1	0.058	0.0	0.127	0.592	88.024	168163	4
+347	6zeE5tKyr8Nu882DQhhSQI	Dust in the Wind	Kansas	81	1977	{'soft rock', 'heartland rock', 'classic rock', 'album rock', 'mellow gold', 'hard rock', 'rock', 'progressive rock'}	0.475	0.322	7	-10.687	1	0.367	0.00056	0.11	0.387	93.503	206267	4
+348	7wYKvMLMWZz59hlGxLSuxs	Take Me Home	Bryce Vine	1	2014-04-15	{'indie pop rap'}	0.368	0.896	5	-4.315	1	0.0516	0.0	0.141	0.69	88.493	230580	4
+349	5SspaMrPfWyRCS0GpjIxa6	Good Example (with Andy Grammer)	Andy Grammer	0	2020-03-27	{'post-teen pop', 'neo mellow', 'edm', 'pop dance', 'electro house', 'progressive electro house', 'slap house', 'dutch house'}	0.456	0.496	1	-6.986	1	0.427	0.0	0.134	0.45	90.552	149053	4
+350	2f0pn9DkEJwAzXApnFh5cr	Someone To You	BANNERS	77	2019-10-04	{'indie poptimism'}	0.52	0.903	2	-5.497	1	0.00517	0.0	0.254	0.652	74.988	219801	4
+351	1e6McS5TlhjM3NRJMLfYPr	Crying My Eyes Out	Stephen Puth	49	2019-11-22	set()	0.746	0.529	8	-6.378	1	0.201	9.65e-06	0.127	0.719	104.023	176539	4
+352	779UN3kabApm2zfqX549vf	when was it over? (feat. Sam Hunt)	Sam Hunt	64	2021-04-23	{'contemporary country', 'alt z', 'country pop', 'country'}	0.626	0.453	7	-9.295	1	0.816	1.91e-06	0.0904	0.494	129.958	218093	4
+353	6zJms3MX11Qu1IKF44LoRW	Us	Regina Spektor	56	2004-08-17	{'indie pop', 'lilith', 'piano rock'}	0.217	0.305	1	-9.495	1	0.885	0.00271	0.201	0.12	82.848	292400	4
+354	3354J49VpkbZJho7Ztdzpw	Jumper - 1998 Edit	Third Eye Blind	71	1997-04-08	{'post-grunge', 'pop rock', 'alternative metal', 'alternative rock'}	0.599	0.543	0	-9.226	1	0.0129	0.00204	0.291	0.624	91.105	272973	4
+355	3NVnNH7lZW5Jg3fjiheS67	Let Go	Dean Lewis	57	2017-05-12	{'pop', 'australian pop'}	0.567	0.519	10	-7.97	1	0.291	0.0	0.142	0.406	103.145	174429	4
+356	42bbDWZ8WmXTH7PkYAlGLu	Hold My Girl	George Ezra	75	2018-03-23	{'folk-pop', 'neo-singer-songwriter'}	0.614	0.527	10	-6.374	1	0.597	0.0	0.11	0.354	121.941	211764	4
+357	3IcZnBcXwG0ubZs7aPGxPN	Demons	Kina Grannis	44	2014-01-11	{'acoustic cover', 'acoustic pop', 'viral pop'}	0.364	0.475	3	-6.851	1	0.8	0.0	0.0911	0.468	173.546	212586	4
+358	3IByYia7ZqwhcsBrkRCev2	Home to You	Skrizzly Adams	0	2021-07-30	{'heartland rock'}	0.636	0.73	6	-5.309	1	0.313	0.0	0.329	0.55	159.845	170852	4
+359	7HcaM7gc9YB2JAwxq1sfjT	Call My Name	JP Cooper	33	2021-08-13	{'uk pop'}	0.628	0.755	2	-6.442	1	0.0867	0.0	0.302	0.383	98.978	221748	4
+360	3oyMHCAAcnWFdcGuVgwfhd	A Woman Like You	Lee Brice	62	2012-04-24	{'contemporary country', 'modern country rock', 'country road', 'country'}	0.592	0.584	7	-7.422	1	0.245	0.0	0.0862	0.371	160.048	209787	4
+361	0Nk7bSn0MItonkR0GNs3mj	The Walker	Fitz and The Tantrums	62	2013-05-07	{'pov: indie', 'modern rock', 'modern alternative rock', 'la indie', 'pop rock'}	0.77	0.801	9	-4.182	0	0.00375	0.00281	0.0515	0.725	130.76	233133	4
+362	3gqFA8IMet7nSWtYPiVlS2	Eclipse (All Yours)	Metric	48	2010-06-08	{'canadian indie', 'neo-synthpop', 'indietronica', 'canadian rock', 'indie rock', 'metropopolis'}	0.451	0.325	11	-11.558	1	0.764	4.25e-05	0.227	0.256	119.749	201722	4
+363	7lBpl3fdfGWIiadbpL4UP6	Endtapes - Soundtrack Version	The Joy Formidable	39	2011-11-04	{'welsh indie', 'welsh rock', 'metropopolis', 'nu gaze'}	0.54	0.746	2	-6.05	1	0.0218	0.15	0.122	0.219	140.006	249253	4
+364	42BAwiGC1egjbiJ6y512Tz	Turning Page	Sleeping At Last	53	2011-11-04	{'ambient worship', 'chamber pop'}	0.304	0.379	3	-8.484	1	0.912	0.025	0.112	0.189	125.203	255373	4
+365	1fEGtTZjrjJW8eUeewnNJR	Flightless Bird, American Mouth	Iron & Wine	70	2007-09-25	{'chamber pop', 'stomp and holler', 'indie folk', 'acoustic pop', 'indie rock'}	0.369	0.403	3	-7.996	1	0.827	0.0541	0.106	0.177	154.899	241917	3
+366	28GUjBGqZVcAV4PHSYzkj2	So Good	B.o.B	66	2012-04-27	{'dance pop', 'southern hip hop', 'pop rap', 'rap', 'atl hip hop'}	0.66	0.9	7	-5.02	1	0.0403	0.0	0.219	0.591	85.51	213253	4
+367	451GvHwY99NKV4zdKPRWmv	Banana Pancakes	Jack Johnson	73	2005-01-01	{'neo mellow'}	0.816	0.375	7	-8.053	1	0.607	8.66e-06	0.0933	0.615	114.303	191907	4
+368	4QCwJfuL70aUSXzlEP4FRT	Bubble Toes	Jack Johnson	26	2001	{'neo mellow'}	0.606	0.517	7	-11.507	1	0.666	0.0209	0.377	0.685	93.88	238603	4
+369	6buXDkw3Gv4fQC1OZKUhnR	Try	Colbie Caillat	62	2014-09-30	{'dance pop', 'neo mellow', 'pop'}	0.603	0.376	1	-9.77	1	0.807	0.0	0.108	0.538	139.995	224573	4
+370	37sINbJZcFdHFAsVNsPq1i	Superheroes	The Script	76	2014-09-15	{'celtic rock', 'pop'}	0.49	0.885	3	-4.121	1	0.00218	0.0	0.0741	0.64	166.996	245467	4
+371	2P4OICZRVAQcYAV2JReRfj	Waiting For Love	Avicii	84	2015-10-02	{'pop dance', 'edm', 'pop'}	0.579	0.736	6	-3.863	0	0.31	0.0	0.198	0.613	127.999	230613	4
+372	5VNxaoYxC5ugqWGgDuiT5c	Lights	Canyon City	0	2019-04-05	{'acoustic pop', 'modern indie folk', 'indiecoustica'}	0.333	0.21	4	-15.127	1	0.859	0.00166	0.112	0.285	151.441	266200	4
+373	7u6HtmuMeuiVdwwFul5xHi	skinny dipping	Sabrina Carpenter	47	2021-09-09	{'pop'}	0.456	0.536	4	-8.864	1	0.267	0.0	0.141	0.407	119.901	177751	5
+374	2m3ObD945KvpE5y9A1eUWm	Jump Then Fall (Taylor’s Version)	Taylor Swift	70	2021-04-09	{'pop'}	0.572	0.69	2	-6.201	1	0.0474	0.0	0.0897	0.624	160.111	237580	4
+375	6aIAuKNU8JlVaTmoCYYN6U	Glad He's Gone	Tove Lo	51	2019-05-31	{'swedish electropop', 'swedish pop', 'pop', 'swedish synthpop', 'metropopolis'}	0.795	0.595	1	-8.073	1	0.0823	0.0	0.128	0.502	91.025	196348	4
+376	3DamFFqW32WihKkTVlwTYQ	Fireflies	Owl City	80	2009-01-01	{'indietronica', 'pop'}	0.512	0.662	3	-6.797	1	0.0275	0.0	0.118	0.472	180.114	228347	4
+377	4pFvEWbjBpPUdYRQly0THs	Today Was A Fairytale	Taylor Swift	54	2011-02-15	{'pop'}	0.491	0.703	7	-4.5	1	0.0307	5.72e-06	0.167	0.344	157.988	242480	4
+378	0mUyMawtxj1CJ76kn9gIZK	Bad Day	Daniel Powter	77	2005-02-22	{'pop rock', 'neo mellow', 'canadian pop'}	0.599	0.785	3	-4.013	1	0.448	0.00336	0.151	0.52	140.046	233640	4
+379	5AsUMMM0euIPrmRrLfb7ly	Feels Like	Gracie Abrams	0	2021-10-01	{'alt z'}	0.622	0.483	11	-7.358	1	0.703	0.000257	0.119	0.18	145.083	152318	4
+380	0PLhwCmQ7cC3ThRGPn3HxF	Mess It Up	Gracie Abrams	72	2021-05-07	{'alt z'}	0.765	0.582	0	-4.528	1	0.245	8.21e-05	0.154	0.36	132.992	171280	4
+381	727Z2S2mtNH46CbP9EWPwY	If You Love Her	Forest Blakk	76	2020-09-30	{'singer-songwriter pop'}	0.286	0.445	6	-8.087	1	0.355	0.0	0.114	0.278	50.827	217352	4
+382	2Ldb2ytuC9AxhpAkVEJBI6	Sandman	Ed Sheeran	58	2021-10-29	{'singer-songwriter pop', 'uk pop', 'pop'}	0.822	0.3	0	-8.034	1	0.882	9.15e-05	0.0665	0.734	125.951	259333	4
+383	5S09u7HLG7mNfkchjnc5uz	Playground (from the series Arcane League of Legends)	Bea Miller	0	2021-11-06	{'talent show', 'alt z', 'pop'}	0.514	0.703	8	-6.859	1	0.0107	7.62e-05	0.13	0.356	157.399	230526	4
+384	20R4HfKloPKgXDqU7UKk3x	Therefore I Am	Billie Eilish	74	2021-07-30	{'art pop', 'electropop', 'pop'}	0.879	0.365	2	-7.781	1	0.227	0.135	0.0583	0.663	94.016	173539	4
+385	6PdCbJwSOeovMX7kfwiAxb	Message In A Bottle (Taylor's Version) (From The Vault)	Taylor Swift	47	2021-11-12	{'pop'}	0.622	0.791	7	-6.106	1	0.00188	3.72e-06	0.083	0.494	115.915	225960	4
+386	6c7N5N7amAOpeMykjlovjI	Walked Through Hell	Anson Seabra	66	2020-11-20	{'gen z singer-songwriter', 'alt z'}	0.508	0.404	10	-11.092	1	0.664	0.0	0.104	0.129	81.713	216865	4
+387	4JCcXmANxb48z3WTeUHiJp	What I Put You Through	Conor Maynard	56	2021-11-12	{'post-teen pop', 'viral pop', 'uk pop'}	0.497	0.293	2	-7.562	1	0.871	0.0	0.0862	0.264	138.727	202014	4
+388	2SAoJ45i8qWirGdSmCoabR	christmas morning	Luz	26	2021-11-12	{'gen z singer-songwriter', 'irish pop', 'alt z'}	0.366	0.189	11	-12.793	1	0.916	0.0	0.121	0.277	93.289	232040	3
+389	2cbqHk1Ty7BAvChQTkqFWT	Love Is Christmas	Rosie Darling	0	2021-10-21	{'alt z'}	0.428	0.17	6	-11.897	1	0.974	0.00207	0.098	0.0609	66.297	166120	4
+390	4l0Mvzj72xxOpRrp6h8nHi	Lose You To Love Me	Selena Gomez	83	2020-01-10	{'post-teen pop', 'pop'}	0.488	0.343	4	-8.985	1	0.556	0.0	0.21	0.0978	102.819	206459	4
+391	6hjh2phISvfR1Ib6S0FK7b	Trying My Best	Anson Seabra	66	2020-05-08	{'gen z singer-songwriter', 'alt z'}	0.691	0.0682	5	-18.186	1	0.951	0.0	0.0916	0.352	76.94	222468	4
+392	7sTDqaGUr9NM8NHQ5SNHi1	That's Us	Anson Seabra	63	2020-05-08	{'gen z singer-songwriter', 'alt z'}	0.621	0.108	10	-15.399	1	0.968	1.67e-05	0.137	0.204	129.285	270462	4
+393	6ie2Bw3xLj2JcGowOlcMhb	Green Light	Lorde	75	2017-06-16	{'nz pop', 'art pop', 'metropopolis', 'pop'}	0.594	0.721	2	-7.812	1	0.0209	8.55e-06	0.0879	0.253	128.942	234653	4
+394	1BiEu9JnRsPjm7Hedgd8C8	Christmas Time	Ingrid Michaelson	6	2021-10-21	{'acoustic pop', 'neo mellow', 'ectofolk', 'lilith', 'pop rock', 'post-grunge'}	0.505	0.498	11	-9.626	1	0.44	1.12e-06	0.232	0.326	90.096	211160	4
+395	2m1hi0nfMR9vdGC8UcrnwU	All The Small Things	blink-182	85	1999-06-01	{'modern rock', 'socal pop punk', 'pop punk', 'alternative metal', 'punk', 'rock'}	0.434	0.897	0	-4.918	1	0.0103	0.0	0.612	0.684	148.726	167067	4
+396	3cYop2sOcoM1U2eCuZKiPI	In The Silence	JP Cooper	43	2017-10-06	{'uk pop'}	0.503	0.299	8	-8.017	1	0.843	0.0	0.0935	0.105	95.0	199949	4
+397	1Pf8HqG2oRr05iDuEdFrIE	Christmas Cookies	Emmi Elliott	0	2020-12-04	set()	0.847	0.638	10	-7.146	1	0.443	0.0	0.113	0.781	105.014	146327	4
+398	3qiyyUfYe7CRYLucrPmulD	Baba O'Riley	The Who	79	1971-08-14	{'classic rock', 'album rock', 'hard rock', 'rock', 'british invasion'}	0.489	0.724	5	-8.367	1	0.313	0.185	0.287	0.15	117.292	300400	4
+399	2Za1AlJNvksouPPWbXpR2X	Good Old Days (feat. Kesha)	Kesha	73	2017-09-22	{'seattle hip hop', 'dance pop', 'pop', 'pop rap'}	0.712	0.51	8	-8.162	1	0.446	2.46e-05	0.112	0.268	122.964	240507	4
+400	1MFD6gdVDjFFMM8ItH9ZhI	White Walls (feat. ScHoolboy Q & Hollis)	ScHoolboy Q	64	2012-10-09	{'southern hip hop', 'pop rap', 'hip hop', 'seattle hip hop', 'trap', 'rap', 'gangster rap'}	0.768	0.782	7	-5.545	1	0.0545	0.0	0.338	0.842	116.492	220319	4
+401	4ccM2xBxicGigjLqt6A0YY	Accidentally In Love	Counting Crows	67	2004-04-27	{'post-grunge', 'pop rock', 'rock', 'neo mellow'}	0.554	0.927	7	-3.641	1	0.044	3.32e-06	0.0876	0.81	138.0	188613	4
+402	4xEDawqLVwsC331aF6Z33x	Merry Happy	Kate Nash	46	2007-01-01	{'piano rock', 'anti-folk'}	0.729	0.482	11	-7.107	0	0.52	0.0	0.091	0.604	89.023	327400	4
+403	6GskIhdM6TN6EkPgeSjVfW	Fidelity	Regina Spektor	53	2006-06-13	{'indie pop', 'lilith', 'piano rock'}	0.923	0.518	5	-6.008	1	0.52	0.000142	0.104	0.682	93.023	226680	4
+404	4NxUuupOGPquDhy1yFIZK3	The Lotto	AJR	60	2016-09-30	{'pov: indie', 'neo mellow', 'ectofolk', 'lilith', 'acoustic pop'}	0.687	0.748	3	-4.54	1	0.24	0.0	0.373	0.872	88.944	193695	4
+405	4TLUHLEcNt6KxXnlPD10Zk	HandClap	Fitz and The Tantrums	24	2021-03-26	{'pov: indie', 'modern rock', 'modern alternative rock', 'la indie', 'pop rock'}	0.634	0.836	8	-3.004	1	0.00609	0.000157	0.0828	0.715	139.957	193253	4
+406	6aDsgHPZsMztSbZernzlF8	Someday	OneRepublic	74	2021-08-27	{'piano rock', 'pop'}	0.576	0.679	0	-7.237	1	0.0311	0.0	0.323	0.213	121.005	187889	4
+407	6y6xhAgZjvxy5kR5rigpY3	Chasing Stars (feat. James Bay)	James Bay	66	2021-08-20	{'dance pop', 'neo mellow', 'edm', 'pop dance', 'progressive electro house', 'brostep', 'uk pop', 'pop'}	0.594	0.64	10	-6.865	1	0.0169	0.0	0.135	0.492	92.871	170457	4
+408	2zZuQRgs9xNBXwdZUFEGE6	Gonna Be Okay	Brent Morgan	1	2021-04-30	{'gen z singer-songwriter'}	0.609	0.506	11	-8.902	1	0.0204	0.0	0.102	0.364	77.427	210165	4
+409	3ES0Q2d2dvNyPNGAtJVUqe	Kiss the Girl	Brent Morgan	0	2021-08-27	{'gen z singer-songwriter'}	0.675	0.245	11	-13.15	1	0.663	5.33e-05	0.118	0.303	105.01	130457	4
+410	4o4MwnE4OK3JNG4lCYFnwm	Love Myself	Andy Grammer	51	2021-12-10	{'post-teen pop', 'neo mellow'}	0.651	0.794	1	-4.229	0	0.128	0.0	0.0755	0.265	100.005	187004	4
+411	1nFJAKHt0jgzVogbNJT3Zz	Ocean	Parachute	44	2019-05-10	{'neo mellow', 'neon pop punk', 'charlottesville indie', 'viral pop', 'pop rock', 'acoustic pop'}	0.662	0.711	5	-4.924	1	0.0686	1.17e-05	0.085	0.352	119.989	222400	4
+412	0EGuSSpuu9wmHCtvb4PdLO	Sit Still, Look Pretty	Daya	3	2016-10-07	{'pop'}	0.655	0.74	2	-4.081	1	0.14	0.0	0.106	0.543	182.105	202221	4
+413	6FE2iI43OZnszFLuLtvvmg	Classic	MKTO	83	2012	{'post-teen pop', 'pop'}	0.72	0.791	1	-4.689	1	0.0384	0.0	0.157	0.756	102.071	175427	4
+414	6YXG34IWbilypPwjBTOrUC	Can I Have This Dance	Disney	66	2008-01-01	"{'dance pop', 'post-teen pop', 'hollywood', ""children's music"", 'pop', 'movie tunes'}"	0.555	0.619	0	-5.246	1	0.203	0.0	0.265	0.426	136.069	243773	3
+415	3JfHYZKy5JmE5Fv4gDTCiz	Welcome to Wonderland	Anson Seabra	71	2018-04-20	{'gen z singer-songwriter', 'alt z'}	0.703	0.179	4	-10.906	1	0.949	0.0	0.102	0.346	97.427	199131	3
+416	6Mt88H4n1BzTOIQLuv5R71	Make Believe	The Faim	43	2018-09-07	{'modern alternative rock', 'australian alternative rock'}	0.331	0.575	5	-5.818	1	0.24	0.0	0.152	0.346	190.008	204387	3
+417	6J56LY7Gbht6At3hv8HA5E	You Are the Music in Me	Disney	52	2007-01-01	"{'movie tunes', ""children's music""}"	0.604	0.757	5	-4.516	1	0.373	0.0	0.0989	0.539	101.967	208653	4
+418	4FkgULes13bk2eHrsJg4q9	I Want Crazy - Encore	Hunter Hayes	66	2011	{'contemporary country', 'modern country rock', 'country road', 'country'}	0.562	0.878	8	-4.806	1	0.0539	0.0	0.112	0.558	103.029	236865	4
+419	14oFxKTXuTpYgKe2vy0Cih	CHAMPION	Bishop Briggs	59	2019-11-08	{'modern alternative rock'}	0.612	0.701	8	-3.615	0	0.0148	5.82e-06	0.186	0.354	97.971	173120	4
+420	1KmSq5oW48Etvb8pgui24e	Need This Feeling - Acoustic	Ben Schuller	33	2022-02-25	{'otacore'}	0.695	0.29	2	-6.218	1	0.758	0.0	0.112	0.425	109.909	181770	4
+421	3q2yXpMGvit2zgBYzKE3Zt	Need Somebody	Xuitcasecity	52	2017-08-08	{'indie pop rap'}	0.425	0.646	9	-6.555	1	0.251	0.0	0.208	0.286	89.783	188220	4
+422	3RLshk3cDQOqWhSIRCVaXL	la di die (feat. jxdn)	jxdn	68	2021-02-19	{'pop punk', 'social media pop'}	0.484	0.643	1	-4.72	1	0.0036	0.0	0.243	0.345	163.97	195191	4
+423	4LRPiXqCikLlN15c3yImP7	As It Was	Harry Styles	91	2022-03-31	{'pop'}	0.52	0.731	6	-5.338	0	0.342	0.00101	0.311	0.662	173.93	167303	4
+424	2IOFZdYYkFxEHVz1w34PoL	Cherry	Harry Styles	75	2019-12-13	{'pop'}	0.53	0.512	7	-9.261	1	0.615	0.00453	0.129	0.411	95.946	259187	4
+425	6ATM1zRLGYYP72J9xwnL1L	Saved My Life (with R3HAB)	R3HAB	64	2022-05-06	{'post-teen pop', 'neo mellow', 'edm', 'pop dance', 'electro house', 'progressive electro house', 'slap house', 'dutch house'}	0.71	0.648	8	-5.955	1	0.296	0.0	0.117	0.468	102.111	174843	4
+426	3goSVuTt3fDYDP6kRnFwuL	Take A Bow	Rihanna	78	2008-06-02	{'urban contemporary', 'pop', 'barbadian pop'}	0.697	0.467	9	-7.536	1	0.248	0.0	0.0941	0.572	82.082	229413	4
+427	0b7qBgsDlYz5koxoIdTZTe	Tomorrow	Fly By Midnight	64	2021-11-19	{'singer-songwriter pop'}	0.568	0.669	2	-5.698	1	0.112	0.0	0.115	0.405	149.969	185475	4
+428	5r43qanLhUCdBj8HN3fa6B	Sunshine	OneRepublic	82	2021-11-10	{'piano rock', 'pop'}	0.697	0.875	5	-4.621	1	0.137	0.0	0.28	0.774	140.069	163855	4
+429	5FkMAjNnp34RGJJj9TTY2A	Love Like That	Phillip Phillips	41	2022-04-15	{'folk-pop', 'pop rock', 'neo mellow'}	0.58	0.879	10	-3.579	1	0.299	0.0	0.155	0.818	154.903	194840	4
+430	4KGTM5EQEWR1QMDvo8dzaZ	dose	Teddy Swims	0	2022-04-15	set()	0.75	0.581	4	-5.011	1	0.302	0.0	0.153	0.612	119.995	180807	4
+431	23HSq3CeULIkmgITs8s2z8	Does Somebody Love You	Hardcastle	30	2019-07-17	{'nashville indie', 'hopebeat'}	0.687	0.839	9	-4.84	1	0.317	0.000679	0.131	0.17	128.002	197173	4
+432	6IppOKrbFWnuEo9ik1jSTp	Unwell	Taylor Acorn	46	2020-07-24	{'singer-songwriter pop'}	0.587	0.347	3	-10.523	1	0.514	0.0	0.107	0.371	70.52	214482	4
+433	3xrn9i8zhNZsTtcoWgQEAd	Since U Been Gone	Kelly Clarkson	75	2004-01-17	{'dance pop', 'talent show', 'pop'}	0.662	0.741	0	-5.406	1	0.00165	0.0303	0.114	0.404	131.0	188960	4
+434	7Lv78wiIJcKgND9Zi7AIOt	Fall Into Me	Forest Blakk	63	2021-09-24	{'singer-songwriter pop'}	0.45	0.483	2	-6.754	1	0.179	0.0	0.127	0.206	118.305	226067	4
+435	7JIuqL4ZqkpfGKQhYlrirs	The Only Exception	Paramore	77	2009-09-28	{'candy pop', 'pop punk', 'pixie', 'pop', 'rock', 'pop emo'}	0.452	0.563	4	-6.607	1	0.144	0.0	0.143	0.209	137.715	267653	3
+436	3kxGvXqQDSOTo2KC6bEHNF	My Mind	Ryan Harris	56	2022-04-29	set()	0.699	0.414	11	-12.373	1	0.434	0.231	0.109	0.394	117.991	202215	4
+437	75FEaRjZTKLhTrFGsfMUXR	Running Up That Hill (A Deal With God)	Kate Bush	33	1985	{'art pop', 'baroque pop', 'singer-songwriter', 'permanent wave', 'art rock', 'piano rock', 'new wave pop'}	0.629	0.547	10	-13.123	0	0.72	0.00314	0.0604	0.197	108.375	298933	4
+438	1JO1xLtVc8mWhIoE3YaCL0	Happy Together	The Turtles	78	1967	{'bubblegum pop', 'classic rock', 'rock-and-roll', 'folk rock', 'psychedelic rock'}	0.584	0.367	6	-9.638	0	0.55	1.38e-05	0.0818	0.588	120.175	176293	4
+439	2iuZJX9X9P0GKaE93xcPjk	Sugar	Maroon 5	83	2014-09-02	{'pop'}	0.748	0.788	1	-7.055	1	0.0591	0.0	0.0863	0.884	120.076	235493	4
+440	0oJMv049q8hEkes9w0L1J4	Imma Be	Black Eyed Peas	68	2009-01-01	{'dance pop', 'pop rap', 'pop'}	0.597	0.517	0	-6.963	1	0.179	0.0	0.307	0.413	92.035	257560	4
+441	6ilHf9NUx0OTQvnwgyU2ot	End Of The World	Gavin James	23	2022-07-22	{'irish pop'}	0.646	0.719	11	-5.203	1	0.0115	0.0	0.0938	0.521	119.943	218389	4
+442	3j7FgZyyJAZjMKbdWwpKcU	The Sweetest Part	Gavin James	31	2022-07-22	{'irish pop'}	0.405	0.3	5	-8.643	1	0.692	3.91e-06	0.125	0.317	142.0	223402	3
+443	28tJhpy4NDPiZk28sEGSsh	Novocaine	Gavin James	39	2022-07-22	{'irish pop'}	0.834	0.587	4	-6.771	1	0.213	0.000139	0.332	0.658	117.95	198879	4
+444	01tNpXoTjrqvb1zhG6wmop	You Never Know	Disney	57	2022-08-03	"{'movie tunes', ""children's music""}"	0.481	0.686	1	-7.223	0	0.172	0.0	0.0851	0.174	161.687	196620	4
+445	0hRGlGlT4mXKi2GL20s43j	YOU SO DONE	Noga Erez	42	2021-08-03	{'israeli indie', 'israeli hip hop'}	0.881	0.292	4	-10.31	0	0.153	2.02e-05	0.107	0.414	77.027	160923	4
+446	5DG2SWW7kPgYqOY0Ex5Ssj	Brother	Matt Corby	59	2012-11-16	{'australian indie'}	0.59	0.754	2	-4.705	1	0.215	2.05e-05	0.109	0.371	99.937	253521	4
+447	2gApWgkuisXedOcS9Tligs	New Page	INTERSECTION	49	2020-01-08	{'j-pop boy group'}	0.604	0.733	2	-5.788	1	0.105	0.0	0.25	0.399	124.885	270904	4
+448	1srR6pbN1YCtIulufVNeMZ	夜行	ヨルシカ	54	2020-07-29	{'j-pop'}	0.579	0.467	1	-6.576	1	0.379	0.000158	0.158	0.484	170.038	202720	4
+449	6SRWhUJcD2YKahCwHavz3X	Darkside	Tomine Harket	75	2018-12-14	{'electro house', 'alt z', 'deep pop edm'}	0.43	0.606	4	-5.115	0	0.131	0.0	0.173	0.123	169.988	211680	4
+450	0gplL1WMoJ6iYaPgMCL0gX	Easy On Me	Adele	84	2021-10-14	{'pop soul', 'uk pop', 'pop', 'british soul'}	0.604	0.366	5	-7.519	1	0.578	0.0	0.133	0.13	141.981	224695	4
+451	1qEmFfgcLObUfQm0j1W2CK	Late Night Talking	Harry Styles	88	2022-05-20	{'pop'}	0.714	0.728	10	-4.595	1	0.298	0.0	0.106	0.901	114.996	177955	4
+452	6tJkq3zUXlEjWluMW9Hdij	creature	half•alive	59	2019-08-09	{'alt z', 'pov: indie'}	0.477	0.523	11	-9.213	1	0.399	0.00044	0.369	0.501	113.196	335067	4
+453	21lfQ6cXJF15ubyPLB6qHz	Vanilla	flipturn	57	2017-03-31	{'jacksonville indie', 'pov: indie'}	0.633	0.761	11	-7.097	1	0.0502	0.00114	0.638	0.801	96.061	248438	4
+454	1GglmI9q5ABCHSBoZrMHSu	All The Things She Said	Jasmine Clarke	55	2020-09-25	set()	0.575	0.556	9	-10.64	0	0.17	0.0476	0.0956	0.303	180.153	131343	4
+455	2FIpETWj9LRDvTOfMqs7hz	Dissolve - acoustic	NITESHIFT	50	2019-03-15	{'shimmer psych'}	0.593	0.211	6	-11.279	0	0.796	0.0	0.0743	0.253	165.644	168522	4
+456	1djzKW3eYLyzjjHXazEWWh	Movement	Hozier	67	2019-03-01	{'pov: indie', 'irish singer-songwriter', 'modern rock', 'pop'}	0.381	0.502	1	-5.505	0	0.16	6.98e-05	0.0842	0.147	144.3	237800	4
+457	6R6ux6KaKrhAg2EIB2krdU	Without You	Parachute	57	2016-01-15	{'neo mellow', 'neon pop punk', 'charlottesville indie', 'viral pop', 'pop rock', 'acoustic pop'}	0.564	0.864	4	-5.121	1	0.0761	0.0	0.182	0.534	95.984	228933	4
+458	1Fid2jjqsHViMX6xNH70hE	Atlantis	Seafret	87	2016-01-29	{'folk-pop'}	0.4	0.479	8	-7.989	0	0.0529	2.14e-06	0.115	0.213	166.159	229173	4
+459	2Ro9FLIVhPwIQopSr48oJT	Wildfire	Seafret	57	2016-01-29	{'folk-pop'}	0.587	0.58	6	-7.867	1	0.252	0.00243	0.105	0.193	131.953	224800	4
+460	4wuCQX7JvAZLlrcmH4AeZF	Cross Me (feat. Chance the Rapper & PnB Rock)	PnB Rock	63	2019-07-12	{'melodic rap', 'singer-songwriter pop', 'pop rap', 'chicago rap', 'hip hop', 'trap', 'rap', 'conscious hip hop', 'uk pop', 'pop'}	0.746	0.787	4	-6.373	1	0.212	0.0	0.0669	0.607	95.005	206187	4
+461	1AI7UPw3fgwAFkvAlZWhE0	Take Me Back to London (feat. Stormzy)	Stormzy	67	2019-07-12	{'singer-songwriter pop', 'uk hip hop', 'grime', 'uk pop', 'pop'}	0.885	0.762	8	-5.513	0	0.219	0.0	0.162	0.605	138.058	189733	4
+462	1i4F583d9v9RabcfOlKKVL	Love In Slow Motion	Ed Sheeran	62	2021-10-29	{'singer-songwriter pop', 'uk pop', 'pop'}	0.485	0.54	1	-5.4	1	0.668	0.0	0.0849	0.426	62.631	190933	4
+463	5jzKL4BDMClWqRguW5qZvh	Teenage Dream	Katy Perry	76	2010-01-01	{'pop'}	0.719	0.798	10	-4.582	1	0.0162	2.34e-06	0.134	0.591	120.011	227741	4
+464	1y4eb6hmAvsqlDOl3fx9kk	Hot N Cold	Katy Perry	73	2008-06-17	{'pop'}	0.706	0.841	7	-3.956	1	7.95e-05	0.0	0.0688	0.861	132.032	220227	4
+465	28UMEtwyUUy5u0UWOVHwiI	I'll Make a Man Out of You	Disney	72	1998-01-01	"{'movie tunes', ""children's music"", 'bubblegum pop'}"	0.672	0.322	7	-17.669	1	0.144	2.96e-05	0.074	0.496	113.852	201680	4
+466	79BCsXo4O97ddoW1LyRctu	Best Day Of My Life	Brent Morgan	7	2022-09-09	{'gen z singer-songwriter'}	0.697	0.394	4	-11.678	1	0.748	5.89e-05	0.116	0.25	89.973	192667	4
+467	7F1CiKqrY44kh5cDqwHOnx	Love Is Gone - Acoustic	Dylan Matthew	80	2019-11-13	{'dubstep', 'singer-songwriter pop', 'brostep'}	0.541	0.153	6	-10.654	1	0.882	1.66e-06	0.16	0.359	139.644	176972	4
+468	4KANJH1baadr3U7XsVbM17	Something I Need	OneRepublic	54	2014-01-01	{'piano rock', 'pop'}	0.683	0.601	7	-6.927	1	0.164	0.0	0.119	0.62	98.97	241267	4
+469	4TDNbA6GrVezonB1UftYvw	Manufactured Love	whatever mike	34	2016-06-27	{'nyc pop', 'neo r&b'}	0.683	0.395	2	-10.393	1	0.769	0.00369	0.106	0.17	115.947	194120	4
+470	3LkfDWO0x8QnTvHJQp4luB	Way Back Into Love (Demo Version)	Hugh Grant and Drew Barrymore	27	2006-02-13	set()	0.478	0.436	8	-7.497	1	0.742	0.0	0.266	0.374	203.879	252400	4
+471	32FhTAAjKZaBein150o3Px	because i liked a boy	Sabrina Carpenter	73	2022-07-15	{'pop'}	0.386	0.592	11	-7.299	1	0.363	0.0	0.117	0.161	146.879	196458	4
+472	6Kkt27YmFyIFrcX3QXFi2o	Liability	Lorde	75	2017-06-16	{'nz pop', 'art pop', 'metropopolis', 'pop'}	0.587	0.229	10	-11.254	0	0.92	0.0	0.1	0.379	75.67	171728	4
+473	6WC5fhc9XMaCrUNKNjm9xE	Thumbs	Sabrina Carpenter	72	2016-10-14	{'pop'}	0.73	0.718	8	-3.496	1	0.0284	0.0	0.0892	0.127	135.045	216467	4
+474	48XkVAagIoQHCsOlJtXUd5	still feel.	half•alive	66	2019-08-09	{'alt z', 'pov: indie'}	0.779	0.516	10	-6.467	0	0.148	0.0	0.0492	0.715	120.026	247787	4
+475	6iCJCZqDJjmBxt07Oid6FI	Buttercup	Hippo Campus	65	2017-02-24	{'minneapolis indie', 'pov: indie', 'modern rock'}	0.623	0.763	9	-4.412	1	0.199	6.52e-06	0.126	0.199	108.871	226610	4
+476	3QJUvByLFesgWYAgnL8JbA	Monsoon	Hippo Campus	50	2017-02-24	{'minneapolis indie', 'pov: indie', 'modern rock'}	0.29	0.308	5	-11.074	1	0.938	0.0294	0.106	0.205	84.88	222820	1
+477	2QgNcjwEn0vGmTommfszQd	Lose It	Oh Wonder	59	2015-09-04	{'indie poptimism', 'pov: indie', 'electropop'}	0.52	0.329	2	-9.337	0	0.725	1.31e-05	0.333	0.171	87.857	229935	4
+478	2pGH58HmgqdOcZTTO9Po7t	Here I Am	Bryan Adams	54	2002-05-04	{'soft rock', 'heartland rock', 'mellow gold', 'canadian pop', 'classic canadian rock', 'canadian singer-songwriter'}	0.262	0.296	3	-13.793	1	0.517	0.0168	0.102	0.0806	85.714	271960	4
+479	1Of1g1PMt1wKW1L4Te6oDM	The Forgotten	Green Day	46	2012-12-11	{'permanent wave', 'rock', 'modern rock', 'punk'}	0.534	0.425	9	-5.917	1	0.128	0.0	0.14	0.0742	132.041	298733	4
+480	5BgeAX4HuZdcuCqmu4pIMM	CHANT (feat. Tones And I)	Tones And I	57	2022-07-22	{'seattle hip hop', 'australian pop', 'pop rap'}	0.698	0.782	1	-5.347	1	0.213	0.0	0.181	0.506	112.176	270635	4
+481	64Jyg9AzWl3AHdnkKPmY4T	2AM.	Sage The Gemini	60	2014-01-01	{'southern hip hop', 'pop rap', 'trap', 'hyphy', 'pop r&b'}	0.849	0.534	4	-6.365	1	0.0472	0.0	0.25	0.599	102.014	237653	4
+482	60nXduun3ybrHhtDOUmGmV	Nails, Hair, Hips, Heels	Todrick Hall	6	2019-05-23	{'strut'}	0.934	0.611	1	-8.688	1	0.339	6.57e-06	0.0853	0.782	126.012	236190	4
+483	2uhEKg8kIzpdvz4gyy6x8W	Only Love	Ben Howard	72	2011-01-01	{'folk-pop', 'british singer-songwriter'}	0.545	0.485	8	-9.941	1	0.3	0.00137	0.119	0.341	80.401	249173	4
+484	5CalS8Gn69OOrR9aiw0ZO9	Honeybee	The Head And The Heart	68	2019-05-17	{'folk-pop', 'stomp and holler', 'seattle indie'}	0.642	0.52	9	-7.886	1	0.118	0.000509	0.552	0.488	136.014	196055	4
+485	2gs5N91wmSZmABwYrtqYAi	We Are One	Casper Esmann	40	2018-09-07	{'acoustic guitar cover', 'instrumental acoustic guitar'}	0.496	0.199	5	-18.894	1	0.9	0.894	0.0996	0.924	81.638	159320	4
+486	4qyfir5Yr7nfo05g6cyFMT	Promise	Ben Howard	64	2011-01-01	{'folk-pop', 'british singer-songwriter'}	0.367	0.189	2	-15.736	1	0.889	0.428	0.364	0.177	156.643	384080	4
+487	6uvh0In7u1Xn4HgxOfAn8O	Matilda	Harry Styles	84	2022-05-20	{'pop'}	0.507	0.294	2	-10.0	1	0.896	1.97e-05	0.0966	0.386	114.199	245964	4
+488	0pBLfQ5JBjh12H6DGZjMwM	Elevate	St. Lucia	53	2012	{'shimmer pop', 'neo-synthpop', 'indietronica', 'nyc pop', 'metropopolis'}	0.541	0.982	2	-4.908	1	0.00767	0.000809	0.291	0.723	104.035	308360	4
+489	7ykWjHHszWWVOv7Tz0xya7	Lifeline	Joshua Bassett	53	2022-09-23	{'singer-songwriter pop'}	0.481	0.362	5	-9.392	1	0.431	1.44e-06	0.104	0.209	86.232	229413	4
+490	5MMZJtHOiH1RmQSSe3DJdg	Sleep On The Floor	The Lumineers	72	2016-04-08	{'folk-pop', 'modern rock', 'stomp and holler'}	0.389	0.431	7	-8.061	1	0.249	0.0	0.13	0.275	142.14	211851	4
+491	3dNjUFt6EFU4Gq6Q5vfJqf	Girls Like Girls	Hayley Kiyoko	63	2015-02-03	{'alt z', 'indie poptimism', 'pop'}	0.611	0.701	6	-5.235	1	0.0109	9.83e-06	0.0994	0.604	142.027	229656	4
+492	3QzbEvmnuZIONNv82PylZb	Our Own House	MisterWives	57	2015-02-24	{'nyc pop', 'indie poptimism', 'modern rock'}	0.559	0.76	8	-4.682	1	0.00228	0.000481	0.052	0.433	125.773	232187	4
+493	0RUXHlYhA057fCOe2vqIqu	Ships In The Night	Mat Kearney	51	2011-01-01	{'acoustic pop', 'neo mellow'}	0.448	0.885	9	-3.755	1	0.111	3.65e-06	0.0476	0.134	178.151	255893	4
+494	0nrRP2bk19rLc0orkWPQk2	Wake Me Up	Avicii	88	2013-01-01	{'pop dance', 'edm', 'pop'}	0.532	0.783	2	-5.697	1	0.0038	0.0012	0.161	0.643	124.08	247427	4
+495	0WT7M7AznSiyrcEJGhJJ3h	Bumblebee	Rachel Brown	3	2011-02-22	set()	0.511	0.529	4	-8.341	1	0.658	0.0	0.0986	0.494	77.488	226905	4
+496	20ORwCJusz4KS2PbTPVNKo	Leavin'	Jesse McCartney	64	2008	{'dance pop', 'post-teen pop', 'pop'}	0.687	0.71	9	-5.84	1	0.0283	3.71e-06	0.0689	0.886	79.235	216880	4
+497	3X3mfRMRaPJRiIMDMQtSkd	Landslide	Oh Wonder	67	2015-09-04	{'indie poptimism', 'pov: indie', 'electropop'}	0.624	0.423	1	-8.757	1	0.748	8.18e-05	0.103	0.325	81.299	208229	4
+498	2kJqNHHGOzLNahukdvlDWN	Drive	Oh Wonder	60	2015-09-04	{'indie poptimism', 'pov: indie', 'electropop'}	0.657	0.456	9	-8.351	1	0.705	8.84e-06	0.084	0.381	141.735	196466	4
+499	5jOQ5v49S1h496AiNlk682	Plans	Oh Wonder	45	2015-09-04	{'indie poptimism', 'pov: indie', 'electropop'}	0.458	0.298	0	-13.191	1	0.833	0.0599	0.0631	0.144	76.575	235671	4
+500	1HwpWwa6bnqqRhK8agG4RS	Beautiful Soul	Jesse McCartney	72	2004-01-01	{'dance pop', 'post-teen pop', 'pop'}	0.66	0.666	9	-4.342	1	0.0759	0.0	0.0268	0.933	89.975	214227	4
+501	3tJ4y2Zqx6gM9xOAuFfsSF	Cool Girl	Tove Lo	66	2016-10-28	{'swedish electropop', 'swedish pop', 'pop', 'swedish synthpop', 'metropopolis'}	0.674	0.694	9	-7.076	0	0.313	7.17e-06	0.0752	0.203	101.993	199179	4
+502	6sLs12uIqb77eCbXRXwYcN	She's Somebody's Daughter (reimagined)	Drew Baldridge	38	2022-09-30	{'country pop', 'modern country pop'}	0.456	0.488	6	-7.158	1	0.183	2.15e-05	0.138	0.263	172.158	209520	4
+503	4zrKN5Sv8JS5mqnbVcsul7	Celestial	Ed Sheeran	79	2022-09-29	{'singer-songwriter pop', 'uk pop', 'pop'}	0.574	0.852	2	-1.248	1	0.0529	0.0	0.161	0.501	123.038	209027	4
+504	2KCvVtHmP00rHHS1Piuqop	moon and back	JVKE	0	2022-09-23	{'singer-songwriter pop', 'modern indie pop', 'pov: indie'}	0.596	0.493	2	-4.263	1	0.569	3.02e-05	0.208	0.492	180.132	148298	4
+505	5p9XWUdvbUzmPCukOmwoU3	Suddenly I See	KT Tunstall	76	2005-01-01	{'lilith', 'pop rock', 'neo mellow', 'scottish singer-songwriter'}	0.587	0.767	0	-5.713	1	0.225	0.0	0.112	0.664	100.38	201707	4
+506	3L08akAE8Fweu2Hnw8ZMJ4	Forgot to Laugh	Bridgit Mendler	42	2012-01-01	{'post-teen pop', 'pop'}	0.572	0.803	5	-4.088	1	0.0126	0.000123	0.168	0.747	181.972	189920	4
+507	6T5eAjtjBQJEWVGtndJ9XA	Who Knows	BEGINNERS	38	2014-02-13	{'bossbeat'}	0.583	0.82	5	-4.144	1	0.0443	0.61	0.0791	0.575	128.011	192502	4
+508	0lQyu3gXsyuDj1MvZiVzXc	22 Make	Oh Wonder	41	2022-10-07	{'indie poptimism', 'pov: indie', 'electropop'}	0.619	0.677	10	-9.087	1	0.515	0.0109	0.248	0.674	100.011	212275	4
+509	0vrGg6n72wLwgv32jeewgi	Move Me	half•alive	47	2022-02-11	{'alt z', 'pov: indie'}	0.637	0.606	3	-5.697	1	0.0744	0.0777	0.176	0.466	155.005	216533	1
+510	66Ae3p10Em3KdTaM787Ptx	this is what heartbreak feels like	JVKE	68	2022-10-04	{'singer-songwriter pop', 'modern indie pop', 'pov: indie'}	0.707	0.474	1	-4.603	1	0.578	0.0	0.11	0.538	109.991	157636	4
+511	55cwGtYrExG7slEAor5jeR	rocket science	vaultboy	73	2021-11-09	{'singer-songwriter pop'}	0.741	0.622	10	-8.006	1	0.137	0.0	0.106	0.47	136.014	152987	4
+512	53QF56cjZA9RTuuMZDrSA6	I Won't Give Up	Jason Mraz	73	2012-04-13	{'acoustic pop', 'dance pop', 'neo mellow', 'pop'}	0.483	0.303	4	-10.058	1	0.694	0.0	0.115	0.139	133.406	240166	3
+513	46fCdWJ7Ddo2QffVE4zbRu	The Sun Will Come Up, The Seasons Will Change	Nina Nesbitt	39	2019-02-01	{'alt z', 'uk pop', 'neo-singer-songwriter'}	0.401	0.436	0	-8.485	1	0.34	0.0	0.103	0.493	88.438	215080	4
+514	1x80xTzSL7pok3M5JC3oJz	human	Christina Perri	62	2014-03-27	{'pop'}	0.439	0.489	8	-6.286	1	0.132	0.000643	0.114	0.253	143.808	250707	4
+515	0OCRwXbQRdOZ1OtB4Imsp1	Love Someone	Lukas Graham	73	2018-10-26	{'danish pop', 'scandipop'}	0.538	0.409	9	-6.581	0	0.172	0.0	0.11	0.265	171.838	205440	4
+516	18UsAG7SfOQ5sxJEdjAMH0	Be My Mistake	The 1975	72	2018-11-30	{'pov: indie', 'modern rock', 'modern alternative rock', 'pop', 'rock'}	0.572	0.155	6	-14.405	1	0.835	0.000137	0.0906	0.0949	109.923	256689	3
+517	65Bynqyt59f3fojjs1Uo41	Stay With Me (feat. Jeremy Zucker)	Jeremy Zucker	55	2018-08-31	{'alt z', 'electropop', 'indie electropop', 'pop'}	0.694	0.695	2	-6.612	1	0.489	0.000159	0.131	0.468	100.035	189787	4
+518	1KxwZYyzWNyZSRyErj2ojT	Let Her Go	Passenger	77	2012-08-28	{'folk-pop', 'neo mellow'}	0.479	0.545	7	-7.346	1	0.365	0.0	0.0963	0.243	74.897	252733	4
+519	1KcXKTF5TQqMjD7aXWURQY	Hallelujah	Oh Wonder	44	2020-02-07	{'indie poptimism', 'pov: indie', 'electropop'}	0.288	0.593	8	-9.136	1	0.198	0.0292	0.125	0.382	182.377	191000	3
+520	3UMrglJeju5yWyYIW6o99b	The Great War	Taylor Swift	80	2022-10-22	{'pop'}	0.573	0.741	5	-8.987	1	0.219	2.23e-05	0.0842	0.554	96.016	240356	4
+521	0BiqmkasE5FdrChwKfVp8X	Bigger Than The Whole Sky	Taylor Swift	74	2022-10-22	{'pop'}	0.422	0.235	6	-12.379	1	0.826	0.00648	0.115	0.068	165.71	218503	4
+522	7712gjoih4QoDbXpljEk21	Paris	Taylor Swift	75	2022-10-22	{'pop'}	0.7	0.509	7	-10.547	1	0.112	3.27e-05	0.137	0.345	110.947	196259	4
+523	5kiZGSxgqPdv6rbqL9THdd	High Infidelity	Taylor Swift	74	2022-10-22	{'pop'}	0.646	0.529	10	-10.179	1	0.723	0.0	0.0885	0.755	87.862	231475	4
+524	6wAFvJPpTZVirBKGZ4EnMW	Glitch	Taylor Swift	72	2022-10-22	{'pop'}	0.675	0.466	11	-9.738	0	0.361	0.0	0.11	0.347	140.864	148781	4
+525	0aV5uARAknQgYhBaK944FP	Would've, Could've, Should've	Taylor Swift	78	2022-10-22	{'pop'}	0.483	0.84	7	-6.508	1	0.43	0.000575	0.146	0.55	157.979	260362	4
+526	3QF5RsWzK1lCvf2o2cY65P	Dear Reader	Taylor Swift	72	2022-10-22	{'pop'}	0.562	0.388	0	-12.088	1	0.481	0.00145	0.117	0.159	107.747	225194	4
+527	0LO7f7ZJg871B8hLTRzrfB	Julia	Mt. Joy	69	2018-03-02	{'pov: indie', 'stomp and holler'}	0.566	0.412	5	-6.994	1	0.681	0.017	0.0741	0.47	81.879	190453	4
+528	69XWcpV2x4YZWaCvstSRlK	Honey Hold Me	Morningsiders	66	2019-03-29	{'folk-pop'}	0.606	0.567	0	-6.841	1	0.367	0.00325	0.19	0.521	82.012	181455	4
+529	50kpGaPAhYJ3sGmk6vplg0	Love Yourself	Justin Bieber	86	2015-11-13	{'canadian pop', 'pop'}	0.609	0.378	4	-9.828	1	0.835	0.0	0.28	0.515	100.418	233720	4
+530	4Dy2WsitD8WSy1zyh5pKBf	Fever Dream	Hurtwave	8	2021-04-30	{'modern alternative pop'}	0.541	0.719	10	-7.017	1	0.31	0.0	0.0871	0.102	130.053	229154	4
+531	5ELEcEsqXo3bXpBvzW7RWe	Foresight	Skrizzly Adams	23	2022-11-18	{'heartland rock'}	0.493	0.548	6	-5.197	1	0.398	0.0	0.145	0.518	91.019	158987	4
+532	6aPU7grZxZj8xOVdW1RN4f	Back Seat	Skrizzly Adams	38	2022-05-06	{'heartland rock'}	0.669	0.674	11	-6.746	1	0.219	1.24e-06	0.0884	0.616	150.02	161515	4
+533	2LaGstkuPusJfzRKtD0dPA	Skeletons	Bryce Fox	36	2022-02-18	{'modern alternative rock', 'rebel blues', 'heartland rock'}	0.804	0.643	6	-6.108	1	0.0359	0.0	0.0855	0.511	117.963	183305	4
+534	22eqegdVyWgAQAwLkm7L9b	September	James Arthur	51	2021-06-10	{'talent show', 'uk pop', 'pop'}	0.641	0.551	9	-6.165	1	0.147	0.0	0.12	0.417	102.912	220891	4
+535	4mGRwVmJgYfM6buErDPI5U	Castles	World's First Cinema	0	2022-07-29	{'uk dance', 'pop dance'}	0.646	0.886	4	-4.177	1	0.014	0.0	0.097	0.434	124.953	215528	4
+536	0XYiuf1joQO6WHgLR6zIWe	Somewhere Only We Know	Rhianne	0	2022-09-05	{'indonesian viral pop'}	0.6	0.46	10	-7.381	1	0.839	0.868	0.118	0.164	172.084	184186	4
+537	2gRKq9rIC5i1zuxp06zJWH	What's Left of You	Chord Overstreet	64	2021-06-04	{'acoustic pop'}	0.731	0.507	0	-6.477	1	0.572	0.0	0.0912	0.265	117.969	178600	4
+538	7mI47ohbaXHF8Kgt1wAgbc	Nobody Else	Cole Norton	50	2020-07-10	set()	0.596	0.513	2	-9.846	1	0.293	0.0	0.112	0.23	123.01	212729	4
+539	4I7nXv6iqKh60sWMJdpUbN	Tidal Wave - Acoustic	Old Sea Brigade	65	2018-04-20	{'indie folk', 'indie anthem-folk', 'modern indie folk', 'pop folk'}	0.646	0.288	1	-15.797	0	0.935	0.00122	0.16	0.338	106.923	155050	4
+540	4HcARAxzsbIB3MqiEkejM6	Locksmith	Sadie Jean	76	2022-10-07	{'singer-songwriter pop', 'alt z'}	0.566	0.348	1	-10.726	1	0.559	7.66e-06	0.113	0.374	98.734	164082	4
+541	7s3rgBMFFSInGwod5lnHz7	Try	Micky	59	2021-03-25	set()	0.68	0.257	0	-11.24	0	0.827	2.95e-06	0.102	0.302	99.919	216997	4
+542	583Fc6qU9thMdXu64j1Wus	Nights Like This	St. Lundi	71	2021-09-03	{'uk pop'}	0.664	0.669	1	-5.83	1	0.0487	0.0	0.207	0.555	115.91	190326	4
+543	2gA74HvN6NKFrhgzpd5oNE	Line By Line (feat. Maren Morris)	Maren Morris	57	2021-01-13	{'singer-songwriter pop', 'canadian contemporary r&b', 'contemporary country', 'alt z', 'classic texas country'}	0.645	0.486	0	-7.299	1	0.274	0.0	0.135	0.453	72.536	208187	4
+544	1J03F4b5CT2PVcgy4AeluL	My Father Said	Hurtwave	6	2021-04-30	{'modern alternative pop'}	0.299	0.39	6	-8.388	1	0.326	0.0	0.105	0.247	135.281	252392	3
+545	7sGI51pCYVwzdvJyVm00Ou	New Year's Eve	Seneca	4	2021-04-30	{'modern alternative pop'}	0.497	0.711	3	-5.326	1	0.229	0.0	0.0992	0.137	123.029	224045	4
+546	48SXGTi8lDrFW6Ly8pizpZ	Give Me	Boy In Space	41	2018-09-28	{'alt z'}	0.511	0.391	9	-9.815	1	0.232	0.0	0.0636	0.23	134.303	210208	4
+547	7nag7QOhd7SjO6iWW9DyKn	Let You Love Me	Blake McGrath	36	2019-09-06	{'canadian pop'}	0.412	0.29	8	-11.314	1	0.67	0.0	0.118	0.364	155.904	364149	4
+548	7xapw9Oy21WpfEcib2ErSA	Mistletoe	Justin Bieber	63	2011-01-01	{'canadian pop', 'pop'}	0.657	0.56	6	-9.049	0	0.498	0.0	0.0794	0.854	161.993	182947	4
+549	7wCHbwukYa1tqBDypIgvoK	Down	Mat Kearney	34	2011-01-01	{'acoustic pop', 'neo mellow'}	0.505	0.879	5	-3.879	1	0.00379	1.16e-06	0.101	0.793	152.06	240253	4
+550	5fPDyYFLCUJ4pKxTskDDCG	Call Back	half•alive	42	2022-12-02	{'alt z', 'pov: indie'}	0.784	0.491	10	-8.988	1	0.56	3.5e-06	0.178	0.72	84.999	162733	4
+551	135EP4qT9Eo0Uu0fMIln2c	Love On The Brain - Los Feliz Blvd	Bishop Briggs	44	2017-04-21	{'modern rock', 'modern alternative rock', 'stomp and holler', 'piano rock', 'indie rock'}	0.378	0.431	1	-5.257	0	0.862	0.0	0.0867	0.336	140.719	266852	4
+552	64ch5GFGb2lq9NbjPdjkaM	Summerland	half•alive	53	2022-02-11	{'alt z', 'pov: indie'}	0.709	0.799	2	-4.985	1	0.272	0.0	0.452	0.699	103.879	229653	4
+553	1utCtRS9AKwl9Kj2jVD1Cr	Hot Tea	half•alive	52	2022-02-11	{'alt z', 'pov: indie'}	0.538	0.676	10	-4.73	0	0.0855	0.0	0.202	0.378	126.035	174400	4
+554	5norEDC5hzjxQIPlyKteMk	Back Around	half•alive	41	2022-02-11	{'alt z', 'pov: indie'}	0.682	0.833	10	-4.675	1	0.162	2.74e-06	0.609	0.579	120.03	224920	4
+555	3CftudKRHDfd1NuB2bYTFj	High Up	half•alive	44	2022-12-02	{'alt z', 'pov: indie'}	0.644	0.738	5	-6.367	1	0.191	0.00167	0.117	0.532	145.998	209160	4
+556	7Gk8IPlFTLUcoIH3mtASI0	Record Player	AJR	59	2022-10-27	{'pov: indie', 'brooklyn indie'}	0.665	0.686	11	-7.049	0	0.247	0.0	0.062	0.927	73.987	149538	4
+557	0TkJIyL69RAUIbNwGub6uR	Burn The House Down	AJR	70	2018-09-21	{'pov: indie'}	0.454	0.66	0	-4.357	1	0.0364	0.0	0.181	0.568	184.353	212374	4
+558	4bYwK4mvWubnAkCextxH2d	Where do we go now?	Gracie Abrams	19	2023-01-13	{'alt z'}	0.612	0.691	10	-10.67	1	0.419	0.0242	0.145	0.632	151.029	243600	4
+559	2wwko1N7dVjpsHt5Ca9be3	If I Be Wrong	Wolf Larsen	44	2011-12-06	{'bay area indie', 'stomp and flutter'}	0.33	0.247	10	-9.825	1	0.738	0.0176	0.125	0.202	133.718	438701	3
+560	1Nt4hDwC9bGT8P9NU5TuFX	These Tears	Andy Grammer	56	2023-01-13	{'post-teen pop', 'neo mellow'}	0.725	0.485	7	-7.651	1	0.113	0.0	0.0784	0.527	89.995	169656	4
+561	5Apvsk0suoivI1H8CmBglv	Almost (Sweet Music)	Hozier	74	2019-03-01	{'pov: indie', 'irish singer-songwriter', 'modern rock', 'pop'}	0.523	0.687	7	-5.601	1	0.0215	2.86e-06	0.203	0.711	90.036	217480	4
+562	1BlQWQgGP84r4GYUVty4Ar	Mess	Noah Kahan	71	2019-06-14	{'singer-songwriter pop', 'pov: indie'}	0.442	0.826	10	-5.32	1	0.176	0.0	0.0978	0.601	80.848	213320	4
+563	57V4uc2b2diZ4RPHXWecb9	Like Real People Do	Hozier	73	2014-09-19	{'pov: indie', 'irish singer-songwriter', 'modern rock', 'pop'}	0.539	0.179	7	-14.33	1	0.921	0.393	0.106	0.145	140.01	198027	3
+564	6rCjkeurS1X32ZQZyrLtR1	White Noise	Ella Vos	42	2017-11-17	{'indie electropop', 'indie poptimism', 'alt z', 'electropop', 'la pop'}	0.716	0.307	3	-8.616	1	0.134	0.00907	0.0906	0.256	137.921	222733	4
+565	3KM1RuZ2aZlfnX5tuaPafx	Mindreader	Ella Vos	0	2023-01-13	{'indie electropop', 'indie poptimism', 'alt z', 'electropop', 'la pop'}	0.647	0.724	8	-7.165	0	0.217	0.0781	0.126	0.702	106.985	190396	4
+566	1nAAdRDotQriNsYx8dXziw	Down in Flames	Ella Vos	44	2017-11-17	{'indie electropop', 'indie poptimism', 'alt z', 'electropop', 'la pop'}	0.792	0.467	8	-6.311	0	0.0928	0.0164	0.0897	0.0544	137.056	187508	4
+567	5pgQ9Ka4xupei6NRdZYiIl	All of Our Tomorrows	CHPTRS	23	2023-01-27	set()	0.586	0.541	7	-10.791	1	0.165	0.00284	0.0971	0.179	87.977	245316	4
+568	6oNZ0WxqptE7V0qpjtyJ4a	Falls	Sasha Alex Sloan	57	2017-09-08	{'alt z', 'edm', 'indietronica', 'chillwave'}	0.294	0.697	6	-6.029	1	0.0398	0.00011	0.136	0.183	160.566	232937	4
+569	2TY2GcWmTmcE6L40jYC9Xv	I Dreamt We Spoke Again - Louis the Child Remix	Louis The Child	51	2019-05-22	{'chamber pop', 'washington indie', 'modern rock', 'alternative rock', 'seattle indie', 'edm', 'indietronica', 'electropop', 'indie rock'}	0.653	0.496	0	-7.746	1	0.0825	0.0041	0.0725	0.11	118.796	190399	4
+570	2Vi0rMV0PsaWxsPGNohOY9	Find	Cody Lovaas	42	2018-04-27	{'indie electropop', 'future bass', 'swedish electropop', 'pop edm', 'electropop', 'vapor twitch', 'la pop'}	0.55	0.468	0	-7.608	1	0.054	0.00108	0.232	0.293	92.06	219118	4
+571	6IWyXBnOcnkjuuBCaAtSaz	The Moment	Tay Oskee	55	2020-11-06	{'australian indigenous', 'australian indie folk'}	0.664	0.336	0	-16.745	1	0.869	0.114	0.124	0.522	89.023	132467	4
+572	5Vnny8AlKRnPZ3wQNouf2T	Don't Let Me	Morningsiders	66	2019-03-29	{'folk-pop'}	0.471	0.639	2	-5.908	1	0.22	3.46e-05	0.0953	0.706	199.918	183851	4
+573	2VlLbhGLVJgdOW7kKdWWFc	Six Feet Under	Billie Eilish	76	2016-11-17	{'art pop', 'electropop', 'pop'}	0.576	0.307	11	-12.732	0	0.807	0.000355	0.0792	0.157	67.513	189613	4
+574	0QZ5yyl6B6utIWkxeBDxQN	The Night We Met	Lord Huron	81	2015-04-07	{'indie folk', 'modern rock', 'stomp and holler'}	0.545	0.366	2	-9.51	1	0.969	0.267	0.641	0.1	86.997	208212	3
+575	0pdKRp2sUthTPe7RLWpPqQ	You're Somebody Else	flora cash	73	2018-06-19	{'swedish indie folk', 'indie pop', 'scandipop'}	0.713	0.452	1	-9.638	1	0.841	0.0038	0.105	0.235	102.963	218883	4
+576	6IHk89blS7GnGC5UFWejO2	everything sucks (feat. GRACEY)	GRACEY	48	2021-09-10	{'singer-songwriter pop', 'uk pop'}	0.734	0.401	6	-7.311	1	0.0169	0.0	0.0795	0.587	138.003	116261	4
+577	7GCVboEDzfL3NKp1NrAgHR	Wrong Direction	Hailee Steinfeld	0	2020-01-01	{'pop'}	0.378	0.388	10	-9.017	1	0.472	0.0	0.157	0.188	72.293	248987	4
+578	65Ki57yTO2fXdtKPOaS15n	Make You Mine - Acoustic	PUBLIC	56	2019-08-09	{'indie rockism'}	0.721	0.389	9	-8.558	1	0.755	0.0	0.136	0.465	98.003	209093	4
+579	6lbab5xH9F6MfjXsKl0f6D	Let Her Go (Acoustic Version)	Passenger	54	2013-11-29	{'folk-pop', 'neo mellow'}	0.555	0.0739	4	-13.961	0	0.948	0.0	0.108	0.25	139.149	266627	4
+580	1kAkUHFb7ryeVkVSRD6Nkj	Wish I Was Better	yaeow	63	2020-04-10	{'sad lo-fi', 'lo-fi chill', 'sad rap'}	0.732	0.304	0	-13.086	0	0.747	6.13e-05	0.143	0.185	139.965	140571	4
+581	3u5bTqHMM1P34ZkbwzdckV	The Story Never Ends	Lauv	1	2018-05-31	{'pop'}	0.614	0.126	9	-9.403	1	0.911	0.0	0.148	0.351	119.945	229029	4
+582	57ORnALC6BR73ch7iVR4ga	I Get Overwhelmed	Dark Rooms	38	2017-01-16	{'la pop'}	0.321	0.489	0	-9.53	1	0.636	0.000412	0.113	0.263	118.16	285773	4
+583	6GbWNeR3P9MTCmSyPVHgb1	Taste	Rhye	57	2018-02-02	{'downtempo', 'art pop', 'shimmer pop', 'indie soul', 'indietronica'}	0.768	0.429	1	-9.401	1	0.875	0.419	0.115	0.415	104.026	225600	4
+584	5sWF1EZGm727f3b620vkbC	33 “GOD”	Bon Iver	58	2016-09-30	{'chamber pop', 'modern rock', 'melancholia', 'indie folk', 'eau claire indie'}	0.469	0.392	4	-10.472	1	0.83	0.0277	0.0937	0.322	133.33	213000	4
+585	35QAUfIbfIXT3p3cWhaKxZ	California	The Lagoons	63	2016-08-02	{'la indie'}	0.786	0.686	4	-7.18	1	0.276	0.668	0.0416	0.542	119.997	261773	4
+586	2OJPxd64jBHUoMXsbeiUgY	Belong	Kimbra	37	2017-06-09	{'bergen indie', 'nz pop', 'electropop', 'vapor pop'}	0.755	0.495	0	-7.231	1	0.512	0.0147	0.207	0.823	95.035	174268	4
+587	71HEg3bYLyMAxHuJ3a6KIM	I’ll Still Have Me	Cyn	47	2018-09-21	{'alt z', 'la pop'}	0.604	0.277	2	-8.249	1	0.915	1.82e-05	0.113	0.22	82.922	219268	4
+588	4zcMBfbQZvBSHQBGDd6gsN	You Already Know	JJ Heller	56	2020-04-06	set()	0.496	0.117	0	-12.884	1	0.933	0.0	0.126	0.318	78.068	214360	4
+589	5YqpHuXpFjDVZ7tY1ClFll	Heartbeats	José González	67	2006-04-03	{'chamber pop', 'swedish indie folk', 'stomp and holler', 'indie folk', 'gothenburg indie', 'swedish indie pop', 'swedish singer-songwriter'}	0.589	0.177	3	-14.891	1	0.977	0.714	0.0958	0.311	88.409	161680	4
+590	45bE4HXI0AwGZXfZtMp8JR	you broke me first	Tate McRae	84	2020-04-17	{'alt z', 'pop'}	0.667	0.373	4	-9.389	1	0.785	0.0	0.0906	0.0823	124.148	169266	4
+591	4xqrdfXkTW4T0RauPLv3WA	Heather	Conan Gray	87	2020-03-20	{'pov: indie', 'bedroom pop', 'pop'}	0.357	0.425	5	-7.301	1	0.584	0.0	0.322	0.27	102.078	198040	3
+592	4nzBST9JdZIy9qfilr93Po	aftermath	vaultboy	63	2021-09-03	{'singer-songwriter pop'}	0.617	0.38	9	-9.275	1	0.018	0.0	0.112	0.192	116.961	166610	4
+593	6gDfUQy4kGt2goNbixBaR5	Resurrect Me	Skrizzly Adams	30	2019-11-15	{'heartland rock'}	0.494	0.621	0	-5.061	0	0.249	0.0	0.133	0.265	162.074	217645	3
+594	5Ohxk2dO5COHF1krpoPigN	Sign of the Times	Harry Styles	86	2017-05-12	{'pop'}	0.516	0.595	5	-4.63	1	0.0275	0.0	0.109	0.222	119.972	340707	4
+595	1vXmhTcKkv7Kck2gBap1fz	Seventeen Going Under - Acoustic	Holly Humberstone	55	2021-12-09	{'modern rock', 'indie pop', 'alt z', 'uk pop', 'north east england indie', 'modern alternative pop'}	0.578	0.5	1	-7.587	1	0.782	1.63e-06	0.0813	0.525	75.01	270840	4
+596	1J14CdDAvBTE1AJYUOwl6C	Arcade	Duncan Laurence	76	2020-11-12	{'dutch pop'}	0.453	0.35	9	-11.639	0	0.827	0.00122	0.144	0.279	72.017	185147	3
+597	3JvKfv6T31zO0ini8iNItO	Another Love	Tom Odell	92	2013-06-24	{'chill pop'}	0.445	0.537	4	-8.532	0	0.695	1.65e-05	0.0944	0.131	122.769	244360	4
+598	3Qm34CS0ZOhQeUgr0O6St6	think about u	Syence	11	2021-10-15	{'stutter house'}	0.601	0.761	10	-3.621	0	0.264	0.0	0.136	0.405	151.799	170526	4
+599	3Dkvp3L4w0uJFYfIPa8E9H	ILYSB - STRIPPED	LANY	68	2015-12-11	{'la pop'}	0.661	0.393	5	-8.199	1	0.546	0.000131	0.11	0.165	83.851	244820	4
+600	2OC89KPLkfvvoSPvVqiAsQ	In Your Hands	Felicia Lu	19	2021-09-03	set()	0.613	0.442	9	-9.011	0	0.56	6.49e-06	0.0863	0.162	100.915	193200	4
+601	5hwh37sTi84MVhCBMWzhGE	Superficial Love	Ruth B.	67	2015-11-27	{'alt z', 'canadian contemporary r&b', 'canadian pop', 'pop'}	0.477	0.242	8	-9.162	1	0.928	0.0	0.0818	0.488	43.509	207973	4
+602	0HCFZGK3c1TQorbyPHcj1l	Blessed & Free	H.E.R.	59	2021-09-30	{'contemporary country', 'black americana', 'r&b', 'rap', 'country road', 'country'}	0.651	0.483	5	-9.867	0	0.754	5.12e-06	0.135	0.387	157.765	198171	4
+603	4DZghpw50ZnO3ckfDuNkft	New Religion	The Heydaze	57	2017-04-14	{'hopebeat'}	0.537	0.863	7	-4.46	1	0.00201	0.0	0.201	0.484	97.02	203587	4
+604	5LbYbAkAQl6fEzc3T8QT6K	All I've Built	Holden Miller	12	2022-06-24	{'singer-songwriter pop'}	0.658	0.69	5	-8.304	1	0.0768	0.00989	0.667	0.489	144.915	188267	4
+605	6AmrRS8slCMxGUZePjV6dH	Resin	Dustin Tebbutt	66	2020-08-28	{'indie folk', 'indie anthem-folk', 'modern indie folk', 'australian indie'}	0.259	0.373	1	-12.925	0	0.895	0.181	0.118	0.196	83.295	203940	4
+606	1QG2YVDWSAJXxTe0sLoAe2	The Garden	Ed Prosek	53	2021-09-17	{'modern indie folk', 'indie anthem-folk'}	0.451	0.422	3	-10.551	1	0.893	2.68e-05	0.109	0.684	99.061	184342	4
+607	5uMoppTUGhP4l1Unv4OaMX	Lost	Blake Rose	66	2020-11-06	{'australian electropop', 'singer-songwriter pop'}	0.597	0.687	4	-6.536	1	0.216	0.0	0.107	0.502	94.749	234623	4
+608	56U84FLjFgsEY6NZvuxa3U	Something to Someone	Dermot Kennedy	50	2022-11-18	{'folk-pop', 'irish pop', 'uk pop'}	0.521	0.869	0	-6.278	1	0.247	1.55e-06	0.0765	0.418	146.931	198107	4
+609	0cgFnx6yIVv3RrqXlZTiGZ	I Wanna Dance With Somebody - Who Loves Me	Smith & Thell	56	2022-05-20	{'swedish pop'}	0.593	0.787	2	-6.429	1	0.038	0.0	0.194	0.507	125.957	203538	4
+610	3q9PVufz68TRvOao25IMNk	MOTTO	NF	67	2023-03-09	{'hip hop', 'pop rap'}	0.685	0.882	0	-4.103	0	0.082	0.0	0.286	0.715	80.283	217272	4
+611	4mOqHhznOkkYrhfgssktbZ	Blindsided	Bon Iver	55	2008-02-19	{'chamber pop', 'modern rock', 'melancholia', 'indie folk', 'eau claire indie'}	0.671	0.147	10	-18.626	1	0.958	0.0755	0.144	0.0555	115.289	329267	4
+612	5Mw9bXG1dLNhbjofkVS2oR	Oceans (Where Feet May Fail)	TAYA	69	2013-02-26	{'worship', 'world worship', 'christian music', 'ccm'}	0.262	0.361	2	-10.187	1	0.508	0.00268	0.108	0.056	126.786	535963	4
+613	0yLdNVWF3Srea0uzk55zFn	Flowers	Miley Cyrus	92	2023-01-13	{'pop'}	0.707	0.681	0	-4.325	1	0.0632	5.15e-06	0.0322	0.646	117.999	200455	4
+614	37zuIvk4KBkAxxLJsxJaHq	Would That I	Hozier	75	2019-03-01	{'pov: indie', 'irish singer-songwriter', 'modern rock', 'pop'}	0.521	0.526	5	-6.032	1	0.243	0.00537	0.108	0.502	130.694	268293	4
+615	1HMQmOWrkieKYWlFsjUP3D	Bloom - Bonus Track	The Paper Kites	78	2013-03-05	{'indie folk', 'australian indie folk', 'acoustic pop', 'stomp and holler'}	0.591	0.416	1	-9.794	1	0.882	0.000641	0.112	0.415	96.003	210080	4
+616	4vPh1nmJ8ReDZ0i9W2GMyI	We Should Plant a Tree	Ross Copperman	48	2019-04-19	{'acoustic pop', 'piano rock'}	0.516	0.521	6	-6.24	1	0.272	2.68e-06	0.0859	0.198	94.007	186533	4
+617	6p9vTtbwiVHMahR5UwNI7k	Ungrateful Eyes	Jon Bellion	46	2013-12-10	{'indie pop rap'}	0.786	0.75	5	-5.137	1	0.213	5.62e-06	0.0869	0.656	119.967	204760	4
+618	2KCqAdd2ad0hpJc5ySoTE8	Coastline	Hollow Coves	1	2017-02-03	{'indie folk'}	0.67	0.496	2	-11.23	1	0.627	0.00325	0.0584	0.427	100.17	233973	4
+619	08bo51XXjxoJRv3O9tuUaj	The Woods	Hollow Coves	0	2017-02-03	{'indie folk'}	0.802	0.41	9	-12.793	1	0.411	0.00107	0.0941	0.224	106.047	241547	4
+620	28sWYevC75ZrUMJ0tD4zWM	These Memories	Hollow Coves	0	2017-02-03	{'indie folk'}	0.521	0.265	1	-18.229	1	0.961	0.133	0.0676	0.392	77.519	313480	4
+621	37EQsOkuUxhqV1yJcPC1TY	i tried	Camylio	60	2022-03-11	{'gen z singer-songwriter'}	0.567	0.468	7	-9.63	0	0.721	7.05e-06	0.13	0.238	139.922	160791	4
+622	5V7mTIcXVU9k2JNu0mE6vy	Fall for You (Acoustic)	Secondhand Serenade	65	2012	{'neon pop punk', 'pop punk', 'pixie', 'piano rock'}	0.433	0.307	0	-8.796	1	0.65	0.0	0.0635	0.378	178.114	176947	4
+623	2IzUjVfO3UrAY73UjHHsGi	Love Somebody	Lauv	66	2020-07-10	{'pop'}	0.511	0.467	7	-7.799	1	0.263	0.0	0.0641	0.373	78.173	142773	1
+624	24qOlCdUSSU6ungmY6fZmi	Used To	Lou Elliotte	50	2018-11-09	{'swedish pop', 'scandipop'}	0.659	0.451	10	-8.16	1	0.278	0.0	0.0889	0.392	101.99	174280	4
+625	5nRTMvaTOkKxxAy5F8RmeB	Best Part of Me	Caleb Hearn	58	2021-08-27	{'singer-songwriter pop'}	0.371	0.226	0	-9.057	1	0.675	0.0	0.108	0.222	99.764	139595	4
+626	7Ktbhp8YaAxKYiYbwjg9rg	I Would Die 4 U	Holly Humberstone	53	2022-02-25	{'indie pop', 'alt z', 'uk pop', 'modern alternative pop'}	0.668	0.452	2	-12.612	1	0.839	2.18e-06	0.127	0.148	126.138	140567	4
+627	3rocTBn0NsGrVAHGOZNzH5	Higher Love	James Vincent McMorrow	52	2012-02-21	{'indie folk', 'chamber pop', 'irish singer-songwriter', 'stomp and holler'}	0.373	0.114	5	-17.951	1	0.964	0.000498	0.111	0.173	127.545	214787	1
+628	3U5JVgI2x4rDyHGObzJfNf	Unwritten	Natasha Bedingfield	80	2004-08-30	{'dance pop', 'post-teen pop', 'pop'}	0.706	0.8	5	-6.333	1	0.00584	0.0	0.0822	0.629	100.011	259333	4
+629	1V2K6ftpUhL9sLEoceuzoY	She Sets The City On Fire	Gavin DeGraw	62	2016-09-09	{'pop rock', 'neo mellow'}	0.618	0.61	4	-6.413	1	0.0129	0.0	0.0821	0.595	125.887	218707	4
+630	5vlEg2fT4cFWAqU5QptIpQ	Replay	Iyaz	74	2009-08-11	{'dance pop', 'post-teen pop', 'pop rap'}	0.706	0.751	9	-6.323	1	0.173	0.0	0.168	0.195	91.031	182307	4
+631	4W3z0jlvHobe740IG2XaFt	What About Us	Davina Michelle	53	2017-08-21	{'dutch pop'}	0.535	0.414	8	-2.259	1	0.802	0.0	0.106	0.221	76.784	143529	3
+632	1z3IMCIkXgToOI9idKDSrU	Get Me out of Here	Milva	47	2020-07-03	set()	0.68	0.64	11	-6.957	1	0.0231	5.02e-06	0.0893	0.61	103.094	186250	4
+633	2XsQS1noUOFR0NfX1VUIoK	Something Wild	Andrew McMahon in the Wilderness	40	2016-08-12	{'pop violin', 'indie poptimism', 'bow pop', 'hopebeat', 'piano rock'}	0.557	0.656	10	-7.627	1	0.198	0.0	0.423	0.406	106.06	223147	4
+634	40EJ13BOHJ4e7HAJ0GzKIC	Leap Of Faith	Christopher	49	2021-03-26	{'danish pop'}	0.677	0.631	11	-6.729	0	0.101	0.0	0.132	0.368	126.88	217714	4
+635	43DHLzDkncpby82Po5jlOZ	Don't Stop Me Now	Queen	63	1978-11-10	{'glam rock', 'classic rock', 'rock'}	0.561	0.757	5	-10.061	1	0.0563	0.00127	0.558	0.64	156.432	209560	4
+636	0p4K6vPDV2bnwCK1hihpt7	Good In Me	Andy Grammer	52	2022-11-11	{'post-teen pop', 'neo mellow'}	0.571	0.588	2	-7.84	1	0.155	1.21e-05	0.197	0.325	96.886	181270	3
+637	2HSekxe7v8D8gh4ARg3rhx	Early In The Morning, I'll Come Calling	James Vincent McMorrow	25	2011-01-25	{'indie folk', 'chamber pop', 'irish singer-songwriter', 'stomp and holler'}	0.52	0.18	7	-12.04	1	0.978	0.000729	0.108	0.516	109.18	157107	4
+638	12cZWGf5ZgLcKubEW9mx5q	HOPE	NF	76	2023-02-16	{'hip hop', 'pop rap'}	0.546	0.787	0	-4.023	0	0.396	0.0	0.0619	0.497	100.559	264473	3
+639	3oLe5ZILASG8vU5dxIMfLY	The Search	NF	77	2019-07-26	{'hip hop', 'pop rap'}	0.789	0.789	2	-4.813	1	0.598	0.0	0.099	0.37	119.95	248053	4
+640	3LLezpquftwn7QI1rYIovM	Narcissist	Avery Anna	64	2021-11-12	{'singer-songwriter pop', 'modern country pop'}	0.322	0.48	1	-5.989	1	0.746	0.0	0.113	0.304	73.476	154027	4
+641	5LkRgwjOaBydaGxc5rztPd	Can't Miss You Anymore	Avery Anna	51	2021-05-07	{'singer-songwriter pop', 'modern country pop'}	0.388	0.428	5	-7.146	1	0.166	0.0	0.0773	0.311	189.792	172664	4
+642	5TgEJ62DOzBpGxZ7WRsrqb	Work Song	Hozier	77	2014-09-19	{'pov: indie', 'irish singer-songwriter', 'modern rock', 'pop'}	0.531	0.363	10	-7.672	1	0.749	0.0	0.112	0.259	121.412	229720	4
+643	6zP2bIJWqFZtJ8dtxeDzcp	Girl	SYML	61	2019-05-03	{'modern indie pop'}	0.377	0.334	1	-11.755	1	0.714	0.000599	0.115	0.22	110.013	212920	4
+644	1zVMJGPMWKmD4cjTTyf68y	Rasputin - Club Mix	G. Mart	56	2011-02-21	{'europop'}	0.718	0.907	6	-5.154	0	0.167	0.00104	0.245	0.975	127.151	272227	4
+645	4P9Q0GojKVXpRTJCaL3kyy	All Of The Girls You Loved Before	Taylor Swift	87	2019-08-23	{'pop'}	0.718	0.467	2	-9.66	1	0.707	6.92e-05	0.126	0.396	95.96	221407	3
+646	3ZEno9fORwMA1HPecdLi0R	HAPPY	NF	80	2023-04-07	{'hip hop', 'pop rap'}	0.732	0.855	7	-4.064	1	0.306	0.0	0.12	0.221	106.004	242691	4
+647	3vBTFVEcGhmH13Y0Lj9UTN	BULLET	NF	67	2023-04-07	{'hip hop', 'pop rap'}	0.668	0.883	6	-4.031	0	0.287	0.0	0.48	0.144	82.874	222511	4
+648	0FysXYeuMmdbod61UBUK4m	Right now	Gracie Abrams	43	2023-02-24	{'alt z'}	0.229	0.464	0	-11.696	1	0.834	0.33	0.067	0.165	78.733	350837	4
+649	7JqzV029PvaPKDhUiU4spi	Last Chance	CHPTRS	45	2018-05-29	set()	0.457	0.427	3	-9.848	1	0.6	0.00194	0.105	0.0697	102.047	304118	4
+650	69RjbLFXBFWffGb7lPD8Nz	Just Remember	CHPTRS	28	2023-03-31	set()	0.604	0.4	1	-12.455	1	0.795	0.017	0.12	0.397	96.039	191846	4
+651	3TD9bTH3A4IoZhTYS1VDzs	Stay with Me	CHPTRS	28	2019-07-30	set()	0.438	0.822	11	-6.861	1	0.00514	0.00547	0.251	0.325	160.039	264187	4
+652	7K3BhSpAxZBznislvUMVtn	Last Night	Morgan Wallen	88	2023-03-03	{'contemporary country'}	0.492	0.675	6	-5.456	1	0.467	0.0	0.142	0.478	203.759	163855	4
+653	6PqlWQOz2AE31sNSgi92oL	you make me worse	Ben Schuller	7	2023-04-28	{'otacore'}	0.797	0.269	8	-8.618	1	0.735	0.0	0.135	0.691	89.024	121938	4
+654	06SnkMUvEOai4zY9lGvuky	almost happy	elijah woods	59	2022-11-18	{'singer-songwriter pop'}	0.73	0.303	8	-9.526	1	0.758	0.0	0.145	0.48	98.903	137898	4
+655	2pFL6kVGR4PIuPlL2AuAWk	Seasons	Harley Bird	58	2018-04-04	{'la pop'}	0.542	0.676	6	-7.363	1	0.148	0.0	0.101	0.48	144.907	248276	4
+656	1squCbXxHkHAO0VYRjTl2S	Worth It	Colbie Caillat	65	2023-04-21	{'dance pop', 'neo mellow', 'pop'}	0.515	0.661	1	-6.776	1	0.0957	0.0	0.0985	0.376	155.928	183107	4
+657	2JxNmnMnMLO12m5l20x73G	Before I Loved You	Phillip Phillips	47	2023-03-31	{'folk-pop', 'pop rock', 'neo mellow'}	0.699	0.43	2	-11.683	1	0.181	0.0	0.141	0.325	139.975	208786	4
+658	4u4A4lPpiw54evLxTaLeRJ	Dusty	Ed Sheeran	67	2023-05-05	{'singer-songwriter pop', 'uk pop', 'pop'}	0.711	0.55	2	-9.682	1	0.226	0.00928	0.12	0.616	146.928	223033	4
+659	75To9uF11PYY0vAkXnDWvW	Wildflowers - Bonus Track	Ed Sheeran	64	2023-05-05	{'singer-songwriter pop', 'uk pop', 'pop'}	0.764	0.233	7	-9.099	1	0.86	0.00185	0.0939	0.155	131.982	178260	4
+660	2ISSQPb9LHHiV6ng2NXosL	Beautiful Now	Jon Bellion	71	2015-05-18	{'complextro', 'edm', 'indie pop rap', 'pop dance', 'pop', 'german techno'}	0.628	0.833	11	-4.126	0	0.0079	1.48e-05	0.074	0.56	128.003	218293	4
+661	4FUDWkguOUVpLRAVn5C20z	Blu	Jon Bellion	59	2018-11-09	{'indie pop rap'}	0.384	0.465	0	-8.554	1	0.29	2.22e-05	0.359	0.636	131.604	183344	4
+662	0HqZX76SFLDz2aW8aiqi7G	Bones	Imagine Dragons	84	2022-03-11	{'rock', 'modern rock', 'pop'}	0.773	0.742	5	-3.678	0	0.0206	0.0	0.0754	0.571	114.071	165265	4
+663	1D066zixBwqFYqBhKgdPzp	Fergalicious	will.i.am	72	2006-09-13	{'dance pop', 'pop'}	0.906	0.583	8	-7.721	0	0.0569	0.0	0.126	0.829	129.056	292373	4
+664	6INztpNwOTlfSKTuPo0HOP	The Alcott (feat. Taylor Swift)	Taylor Swift	73	2023-04-28	{'chamber pop', 'modern rock', 'stomp and holler', 'indie folk', 'indietronica', 'pop', 'indie rock'}	0.368	0.463	0	-10.595	1	0.811	0.0017	0.109	0.447	156.008	267773	3
+665	1gugDOSMREb34Xo0c1PlxM	She Looks So Perfect	5 Seconds of Summer	73	2014-06-27	{'boy band', 'pop'}	0.494	0.951	9	-4.237	1	0.000569	0.0	0.327	0.441	160.025	202496	4
+666	4Sk74gcXTe9dnE1HU5Pn1y	The Bottom	Gracie Abrams	62	2021-11-12	{'alt z'}	0.722	0.596	5	-5.072	1	0.414	9.2e-06	0.133	0.903	94.512	180489	3
+667	0NlGoUyOJSuSHmngoibVAs	All I Want	Kodaline	82	2013-06-17	{'irish pop', 'modern rock'}	0.188	0.411	0	-9.733	1	0.174	0.153	0.0843	0.159	187.376	305747	3
+668	0n56JNrFkvV9PobjydZiSa	Adventure Is Out There	AJR	50	2021-03-26	{'pov: indie'}	0.566	0.534	8	-8.833	1	0.0774	9.52e-06	0.156	0.594	161.872	211103	4
+669	6N22Yl2nHPnksP1hu3mxJE	I Don't Belong In This Club	Macklemore	52	2019-03-20	{'boy band', 'seattle hip hop', 'pop rap', 'pop'}	0.797	0.543	11	-5.744	1	0.0202	0.0	0.0726	0.164	115.036	222621	4
+670	5C8ySsx3AT121g24uYR823	NO BAD DAYS (feat. Collett)	Collett	73	2023-03-03	{'seattle hip hop', 'pop rap'}	0.769	0.858	8	-6.01	1	0.117	0.0186	0.157	0.86	160.049	173453	4
+671	7ti4qMC7xYQeh1uRzj5XuM	Pumpin Blood	NONONO	59	2014	{'shimmer pop', 'swedish indie pop', 'swedish alternative rock'}	0.618	0.848	7	-4.36	1	0.000469	0.522	0.189	0.413	118.998	209485	4
+672	5uHYcK0nbEYgRaFTY5BqnP	Magic (feat. Rivers Cuomo)	Rivers Cuomo	68	2010-04-27	{'dance pop', 'southern hip hop', 'alternative rock', 'pop rap', 'rap', 'atl hip hop'}	0.549	0.932	8	-4.11	0	0.0127	0.0	0.347	0.787	82.439	196133	4
+673	0k5xkItU0tExRQwVtamps7	End of the Road	Nick Luebke	33	2013-03-05	set()	0.715	0.768	0	-6.693	1	0.34	0.0	0.383	0.526	93.034	193871	4
+674	5meVa5klVlJalupZTvv5XX	21	Gracie Abrams	72	2020-07-14	{'alt z'}	0.759	0.665	2	-6.338	1	0.494	0.0	0.109	0.391	125.056	185173	4
+675	2qTtA6lgLLwfuYphfT4f8C	Walk Me Home	Chelsea Cutler	0	2022-02-11	{'edm', 'pop dance', 'melodic dubstep', 'alt z', 'pop edm'}	0.4	0.485	8	-7.145	0	0.0789	0.0	0.135	0.211	159.909	216125	3
+676	7hV7333ajQNI1J6R5C9A8c	Good Thing Go	Quinn XCII	51	2019-02-15	{'indie pop rap'}	0.876	0.376	4	-9.341	1	0.476	0.0	0.106	0.326	113.902	212453	4
+677	4QKFjGyuC7sgDWcThuoG7z	littlebitwild	Mallrat	48	2020-10-14	{'aussietronica', 'brisbane indie'}	0.773	0.425	9	-8.08	1	0.253	0.0146	0.0745	0.489	118.052	186323	4
+678	6nH085xLjZhrZpqlgs46M4	Indigo	Adelaide James	25	2023-05-10	{'nyc pop'}	0.782	0.661	1	-6.06	1	0.198	0.000244	0.114	0.559	170.053	157815	4
+679	4K3tnAfDLPZPvc3lzsrjoq	goodbye looks good on you (feat. Mitchell Tenpenny)	Mitchell Tenpenny	75	2023-03-24	{'heartland rock', 'country pop', 'contemporary country', 'modern country rock', 'country road', 'modern country pop'}	0.667	0.671	1	-4.2	0	0.413	0.0	0.0809	0.695	83.962	171080	4
+680	0vyc9xaz0TaDicl4F2AuQQ	Life We've Built	Emily James	36	2022-12-02	{'singer-songwriter pop', 'modern indie folk'}	0.41	0.299	2	-12.212	1	0.817	0.00829	0.115	0.346	153.211	229412	3
+681	5fWRLdgfMlbKDncAhdN9zI	Walk Me Home	Chelsea Cutler	57	2022-02-18	{'edm', 'pop dance', 'melodic dubstep', 'alt z', 'pop edm'}	0.4	0.485	8	-7.145	0	0.0789	0.0	0.135	0.211	159.909	216125	3
+682	5jiYx70OBzEI99jx1Gn3FN	Sober Up (feat. Rivers Cuomo)	Rivers Cuomo	66	2017-06-09	{'pov: indie', 'alternative rock'}	0.648	0.62	5	-4.938	1	0.284	0.0	0.0833	0.772	93.011	218763	4
+683	2y0zJlae50VyzO7NCrQe06	Heartworks	Wingtip	65	2019-10-02	{'nyc pop'}	0.777	0.527	5	-7.195	1	0.126	1.19e-05	0.09	0.753	105.017	159755	4
+684	0R7EWhquaAICmyE5MZqt3q	Living My Best Life	Ben Rector	61	2022-03-11	{'neo mellow', 'indiecoustica', 'piano rock', 'lds youth', 'acoustic pop'}	0.566	0.733	4	-5.302	1	0.083	1.55e-06	0.362	0.636	178.828	215213	4
+685	4djIFfof5TpbSGRZUpsTXq	Talk Too Much	COIN	73	2017-04-21	{'pov: indie'}	0.598	0.888	4	-5.119	1	0.00947	0.0	0.347	0.482	103.966	187133	4
+686	06ncaphlb6ccM7tdUgGhW4	MANIAC (feat. Windser)	Windser	56	2023-03-03	{'seattle hip hop', 'pop rap'}	0.708	0.674	11	-7.434	1	0.137	0.0	0.258	0.736	152.051	180902	4
+687	2vB9ME0oZwfTGAUMC71CaT	Missing Piece	Vance Joy	68	2022-06-10	{'folk-pop', 'modern rock'}	0.632	0.863	0	-5.21	1	0.0449	1.01e-06	0.13	0.731	101.976	215840	4
+688	6fKpX8Zm3BR8SaZ4p20TA6	Smoke and Mirrors	DOUBLECAMP	59	2020-07-08	{'modern indie pop'}	0.745	0.681	4	-5.733	1	0.051	1.26e-06	0.314	0.91	149.962	191348	4
+689	6uc6et9rL6dHhdnLc5LsFP	Did I Make You Up?	half•alive	56	2022-12-02	{'alt z', 'pov: indie'}	0.714	0.623	9	-5.636	1	0.452	7.56e-05	0.0789	0.285	95.048	149773	4
+690	6ygnNi801EHjdr9uU3YuZE	Only Human	Ryan Mack	70	2022-02-15	{'singer-songwriter pop', 'irish pop'}	0.702	0.509	7	-7.088	0	0.176	0.0	0.049	0.673	179.917	135560	4
+691	03eyNjBM2mpx28H6kdaufN	Overwhelmed (Ryan Mack Remix)	Ryan Mack	77	2021-07-14	{'singer-songwriter pop', 'irish pop'}	0.658	0.445	0	-8.749	0	0.161	0.0	0.0845	0.513	174.111	103240	4
+692	7DbdUf8aHSYoliSjO6LZv6	Sex, Drugs, Etc.	Beach Weather	83	2016-11-04	set()	0.572	0.839	4	-5.083	0	0.013	0.00976	0.522	0.465	143.969	196784	4
+693	4BDkZub3bRlFy1umRrMUdN	We'll Figure It Out	Smithfield	62	2020-06-19	{'country pop'}	0.639	0.487	1	-9.036	1	0.727	0.0	0.0613	0.479	76.009	192678	4
+694	0XC3NNlml0mClzs23YtBiL	Stay Anything	Chelsea Cutler	50	2023-03-10	{'alt z'}	0.47	0.452	2	-7.196	1	0.017	3.5e-05	0.199	0.232	144.362	208283	4
+695	72RzbSNBYwD9KupDKRwWZ0	Passion Fashion	Jon Bellion	46	2019-08-07	{'folk-pop', 'banjo', 'indie pop rap', 'stomp and holler'}	0.651	0.839	5	-4.644	1	0.0114	2.72e-05	0.371	0.767	84.954	203239	4
+696	0742PcMPo2Akmo4vHC29VZ	this is how you fall in love	Chelsea Cutler	0	2021-01-15	{'alt z', 'electropop', 'pop'}	0.52	0.204	7	-12.488	1	0.733	2.53e-05	0.126	0.274	79.682	174587	4
+697	0zMzyHAeMvwq5CRstru1Fp	Lost Boy	Ruth B.	70	2017-05-05	{'alt z', 'canadian contemporary r&b', 'canadian pop', 'pop'}	0.586	0.128	7	-9.297	1	0.963	0.0	0.0858	0.371	123.498	276067	4
+698	6q4c1vPRZREh7nw3wG7Ixz	That Home	The Cinematic Orchestra	70	2007-05-07	{'nu jazz', 'downtempo', 'compositional ambient'}	0.412	0.159	9	-14.214	1	0.991	0.772	0.083	0.0389	85.462	103920	4
+699	5KCbr5ndeby4y4ggthdiAb	Wonder	Shawn Mendes	73	2020-10-02	{'viral pop', 'canadian pop', 'pop'}	0.333	0.637	1	-4.904	0	0.131	1.8e-05	0.149	0.132	139.898	172693	4
+700	7oFNnpgUlzR6ekVA78N6mZ	All My Life	WILD	52	2017-06-23	{'folk-pop'}	0.542	0.729	0	-5.643	1	0.0685	5.58e-05	0.108	0.287	116.933	244013	4
+701	55RuejVnozDHVVFKMLAIY3	All My Life	SAILR	37	2019-08-30	{'modern indie folk'}	0.399	0.225	0	-16.985	1	0.651	0.166	0.0633	0.0503	100.101	177960	4
+702	6Tio0ZoDeSQnI7EBAqWer2	Cover Me In Sunshine	Willow Sage Hart	74	2021-02-12	{'dance pop', 'show tunes', 'pop'}	0.476	0.594	5	-6.879	1	0.0599	0.0	0.0785	0.314	159.702	141050	4
+703	5kHMfzgLZP95O9NBy0ku4v	I Can See You (Taylor’s Version) (From The Vault)	Taylor Swift	92	2023-07-07	{'pop'}	0.694	0.764	6	-4.893	1	0.0586	0.0	0.0608	0.819	123.044	273186	4
+704	0zo975x58DlXbZllWvfYhg	When Emma Falls in Love (Taylor’s Version) (From The Vault)	Taylor Swift	85	2023-07-07	{'pop'}	0.474	0.763	2	-4.632	1	0.159	0.0	0.138	0.231	78.133	252386	4
+705	6ltVAnm18gwL2Hq7XzeBJt	Storage	Conor Maynard	51	2023-06-09	{'post-teen pop', 'viral pop', 'uk pop'}	0.646	0.428	10	-7.315	1	0.719	0.0	0.0882	0.082	114.846	178846	4
+706	3k79jB4aGmMDUQzEwa46Rz	vampire	Olivia Rodrigo	98	2023-06-30	{'pop'}	0.511	0.532	5	-5.745	1	0.169	0.0	0.311	0.322	137.827	219724	4
+707	6nzXkCBOhb2mxctNihOqbb	Bad Girls	M.I.A.	76	2013-01-01	{'new rave', 'escape room', 'indietronica'}	0.639	0.912	1	-2.621	1	0.00107	0.0	0.097	0.343	143.448	227520	4
+708	2etHQJxIbV0soyPhelVs9Y	Best Friend (feat. Doja Cat)	Doja Cat	74	2021-01-07	{'dance pop', 'trap queen', 'cali rap', 'pop'}	0.84	0.766	4	-4.12	1	0.00302	3.61e-06	0.0684	0.402	94.018	155884	4
+709	7qcXUzPwoxSBFxjTbNrV0B	The Gold - Phoebe Bridgers Version	Phoebe Bridgers	74	2018-07-13	{'la indie', 'indie pop', 'indie rock', 'pov: indie'}	0.299	0.399	10	-12.176	1	0.816	0.00117	0.147	0.302	158.253	233227	3
+710	3DarAbFujv6eYNliUTyqtz	Kiss Me More (feat. SZA)	SZA	83	2021-06-25	{'r&b', 'dance pop', 'rap', 'pop'}	0.764	0.705	8	-3.463	1	0.259	8.92e-05	0.12	0.781	110.97	208667	4

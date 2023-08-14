@@ -1,0 +1,349 @@
+"song_count","id","title","all_artists","popularity","release_date","genre","danceability","energy","key","loudness","mode","acousticness","instrumentalness","liveness","valence","tempo","duration_ms","time_signature"
+0,"2KB8rqbA52HPAKBcutVp51",Nostalgi,Kapteinen,43,"2023-06-23","{'norwegian pop rap', 'rogaland musikk'}",0.86,0.684,8,-5.593,0,0.0205,0.00266,0.0702,0.966,126.977,157087,4
+1,"3JtEochUrOXXcOBJ696kZb",Danse ligavell,Kapteinen,30,"2021-01-15","{'norwegian pop rap', 'rogaland musikk'}",0.601,0.754,1,-7.655,1,0.00323,0.0,0.0683,0.603,184.11,192750,4
+3,"7LcfRTgAVTs5pQGEQgUEzN","Moves Like Jagger - Studio Recording From ""The Voice"" Performance",Christina Aguilera,74,"2010","{'dance pop', 'pop'}",0.722,0.758,11,-4.477,0,0.0111,0.0,0.308,0.62,128.047,201160,4
+5,"38YgZVHPWOWsKrsCXz6JyP",Come On Get Higher,Matt Nathanson,71,"2007-01-01","{'acoustic pop', 'neo mellow'}",0.672,0.623,9,-5.699,1,0.241,0.0,0.0848,0.617,92.018,215173,4
+14,"3l9h9PUumj2eePGWjkxFR2",Frihet,Kapteinen,15,"2023-01-27","{'norwegian pop rap', 'rogaland musikk'}",0.747,0.677,5,-6.657,1,0.0183,0.00000113,0.167,0.646,109.992,180885,4
+19,"2Bwxq0b6yTeQEmDjJ7odRC",Spøkelser,Kapteinen,24,"2023-01-06","{'norwegian pop rap', 'rogaland musikk'}",0.752,0.768,1,-5.571,0,0.0175,0.0,0.0335,0.728,158.01,162153,4
+21,"4Lun4dCF7S41uPvughSIM0",Føle meg bedre,Kapteinen,34,"2022-05-06","{'norwegian pop rap', 'rogaland musikk'}",0.728,0.709,5,-10.038,1,0.0542,0.000331,0.0852,0.61,101.01,184900,4
+25,"6DxP5I8SdtYtFPe7TvqHif",I Want You Tonight,Geowulf,28,"2019-10-25",{'modern dream pop'},0.544,0.68,11,-6.378,0,0.000362,0.000436,0.14,0.608,125.019,235800,4
+26,"6UnCGAEmrbGIOSmGRZQ1M2",Light On,Maggie Rogers,70,"2019-01-18",{'indie pop'},0.657,0.569,2,-6.287,1,0.201,0.0000138,0.126,0.399,102.054,233880,4
+32,"2x1LQq8lsUzAA2wNj8yjC9",Pick Up the Pieces,Average White Band,59,"1974","{'p funk', 'funk', 'disco', 'quiet storm', 'soul'}",0.768,0.853,10,-5.915,0,0.0548,0.13,0.0188,0.889,107.234,239908,4
+38,"50nfwKoDiSYg8zOCREWAm5",Shivers,Ed Sheeran,87,"2021-10-29","{'singer-songwriter pop', 'uk pop', 'pop'}",0.788,0.859,2,-2.724,1,0.281,0.0,0.0424,0.822,141.02,207853,4
+49,"2fzRBJ6xbrHGyRCBR2fE9n",Love My Way,The Psychedelic Furs,0,"2017-11-03","{'new romantic', 'new wave pop', 'new wave', 'post-punk'}",0.674,0.831,0,-7.282,1,0.0221,0.000099,0.107,0.606,126.075,213173,4
+53,"65r94rVdiMwqXyQFEr3tqT",Resonance,Home,71,"2014-07-01",set(),0.566,0.74,8,-8.614,1,0.0352,0.849,0.221,0.419,170.098,212881,5
+59,"3tjwjBfPO1pyjhnrI0J5Nq",Head First,Home,55,"2016-02-26",set(),0.681,0.743,5,-9.897,0,0.000348,0.809,0.0958,0.426,133.997,213133,4
+65,"2VEsmoek0sol9MnJFyoG9e",Burnin' Up,Jonas Brothers,73,"2008-08-12","{'boy band', 'pop'}",0.667,0.954,2,-3.462,1,0.0296,0.0,0.331,0.807,114.03,175093,4
+70,"601KiLiZtBJRTXBrTjeieP",Ode to Viceroy,Mac DeMarco,0,"2012-10-16","{'edmonton indie', 'lo-fi indie', 'pov: indie'}",0.514,0.632,2,-6.305,1,0.208,0.0132,0.115,0.31,94.569,233818,4
+71,"1JaA8uKEQy74uvouAQ8gBC",Magnetic North,Alestorm,0,"2014-08-05","{'british power metal', 'pirate', 'comic metal', 'power metal', 'scottish metal'}",0.529,0.921,6,-4.454,0,0.000836,0.00000403,0.103,0.495,122.0,226840,4
+82,"4zXa17K83Pp6N2yXdVc2sv",You're The Best,"Joe ""Bean"" Esposito",64,"1984",set(),0.571,0.863,4,-7.661,0,0.257,0.0,0.532,0.782,94.299,179667,4
+94,"1hjW0eqVruLkpT4EOj3rBG",No Grave But The Sea,Alestorm,0,"2017-05-26","{'british power metal', 'pirate', 'comic metal', 'power metal', 'scottish metal'}",0.549,0.974,10,-3.757,0,0.0000391,0.000023,0.112,0.717,140.073,209787,4
+110,"2BY7ALEWdloFHgQZG6VMLA",Brandy (You're a Fine Girl),Looking Glass,79,"1972",{'sunshine pop'},0.716,0.625,1,-11.369,0,0.396,0.0000197,0.134,0.826,125.276,186827,4
+126,"3qrEG6rQ9Qm72MNWeUKKiU",Wham Bam Shang-A-Lang,Silver,70,"1976",set(),0.65,0.759,1,-4.932,1,0.353,0.0,0.155,0.943,121.454,212840,4
+128,"1cXc92MX9kFjMrrDsvdf9w",Wang Dang Doodle,Koko Taylor,53,"1987-01-01","{'blues', 'chicago blues', 'electric blues', 'traditional blues'}",0.648,0.544,1,-8.963,1,0.343,0.00000293,0.087,0.619,153.063,182827,4
+145,"3Lfsq0q1GQLRxi7V4hqzLp",What Goes Up,Watsky,0,"2019-01-11","{'abstract hip hop', 'comic', 'indie pop rap', 'nerdcore'}",0.651,0.564,2,-8.011,1,0.0268,0.0,0.187,0.208,85.901,162400,4
+192,"6U4VqEHy4n5VeiH4pQPL24",You're Welcome,Dwayne Johnson,75,"2016-11-18",{'meme'},0.788,0.745,5,-7.072,1,0.29,0.0,0.0373,0.672,135.278,163893,4
+202,"2dgex0FiYtsHguA8D5WScn",Fucked with an Anchor,Alestorm,0,"2017-05-26","{'british power metal', 'pirate', 'comic metal', 'power metal', 'scottish metal'}",0.537,0.971,10,-3.926,0,0.000505,0.0,0.117,0.472,76.964,207493,4
+203,"35cnc4XqirI3CzVMIaQQWP",Mexico,Alestorm,0,"2017-05-26","{'british power metal', 'pirate', 'comic metal', 'power metal', 'scottish metal'}",0.573,0.962,1,-3.779,1,0.0000663,0.00000108,0.32,0.862,128.009,190333,4
+204,"4mQHhaQgsJ8fQ9LtS3916H",Hangover (Taio Cruz Cover),Alestorm,0,"2014-08-05","{'british power metal', 'pirate', 'comic metal', 'power metal', 'scottish metal'}",0.634,0.915,6,-4.642,1,0.00413,0.0,0.295,0.751,134.985,221227,4
+206,"0tuE3l1TPJ9tKG4w63kgtf",Don't Be Nice,Watsky,41,"2016-08-19","{'abstract hip hop', 'comic', 'indie pop rap', 'nerdcore'}",0.568,0.764,8,-6.5,1,0.25,0.0171,0.116,0.251,122.752,198067,4
+210,"3I09LQbHS3NSU46Ly3tPpR",Feeling Good,Michael Bublé,68,"2005-02-07","{'jazz pop', 'lounge', 'canadian pop', 'adult standards'}",0.535,0.548,1,-6.51,1,0.533,0.00000148,0.123,0.477,115.144,237333,3
+229,"1GCbc1vpkZA2zhjsSFhmHT",Fuck You,Lily Allen,59,"2009-01-26","{'dance pop', 'electropop'}",0.775,0.904,1,-4.08,0,0.0271,0.000303,0.06,0.84,130.009,219893,4
+235,"2WfaOiMkCvy7F5fcp2zZ8L",Take on Me,a-ha,89,"1985-06-01","{'new wave', 'new romantic', 'permanent wave', 'synthpop', 'new wave pop'}",0.573,0.902,6,-7.638,0,0.018,0.00125,0.0928,0.876,84.412,225280,4
+236,"7GVUmCP00eSsqc4tzj1sDD",Come and Get Your Love - Single Version,Redbone,80,"1973-11-01","{'native american', 'native american contemporary'}",0.731,0.804,11,-7.621,0,0.172,0.00028,0.0685,0.957,107.383,205933,4
+243,"6p6TjiJHc1kJQt5dXzkdrs",I Don't Dance,Disney,62,"2007-01-01","{'movie tunes', ""children's music""}",0.804,0.88,9,-5.061,0,0.00317,0.0,0.226,0.682,104.111,217240,4
+255,"422qOiUJZCd7SaEyoPAEnQ",Rodeo Clowns,Jack Johnson,61,"2003-01-01",{'neo mellow'},0.85,0.834,1,-5.771,0,0.205,0.174,0.0837,0.771,90.974,158413,4
+256,"7jE5hACenHaqB8nTBrB0uL",Cookie Jar,Jack Johnson,46,"2003-01-01",{'neo mellow'},0.712,0.714,1,-6.099,0,0.334,0.195,0.106,0.739,151.393,176773,4
+257,"4c7k0jGOFR1OraHvE3BszV",My Old Man,Mac DeMarco,0,"2017-05-05","{'edmonton indie', 'lo-fi indie', 'pov: indie'}",0.658,0.575,1,-11.493,1,0.677,0.253,0.0985,0.832,149.274,221653,4
+258,"5Hzto0vLxLb8GfkUtu6ZJK",Drink,Alestorm,0,"2014-08-05","{'british power metal', 'pirate', 'comic metal', 'power metal', 'scottish metal'}",0.509,0.855,8,-4.567,1,0.0000372,0.0000587,0.0808,0.804,160.051,202587,4
+263,"1eKD9sJjMuUdJFX3zhj3RC",Idk Don't Ask,The Six Sevens,12,"2017-04-01",set(),0.545,0.781,9,-8.334,1,0.0233,0.00000214,0.186,0.777,110.073,170155,4
+281,"79nGvSoOQr3WHK3Y96Qt0u",Home,Jack Johnson,41,"2013-01-01",{'neo mellow'},0.621,0.621,2,-8.71,1,0.585,0.000078,0.293,0.749,149.996,182000,4
+292,"1CkvWZme3pRgbzaxZnTl5X",Rolling in the Deep,Adele,1,"2011-01-19","{'pop soul', 'uk pop', 'pop', 'british soul'}",0.729,0.756,8,-5.119,1,0.131,0.0,0.0527,0.522,104.945,228293,4
+303,"4f6PUDRYJI51UrZy0jDAxD",Herman’s Habit,Justin Hurwitz,58,"2016-12-09","{'hollywood', 'movie tunes'}",0.588,0.593,8,-9.448,1,0.0634,0.889,0.214,0.668,123.678,111613,4
+304,"4S3DXtdTdgOIezKgu8DR0M",Summer Montage / Madeline,Justin Hurwitz,57,"2016-12-09","{'hollywood', 'movie tunes'}",0.596,0.502,7,-6.783,1,0.113,0.797,0.264,0.653,107.719,124640,4
+308,"0VZEHM4h252BGh5P0N7MS5","Overture - From ""Whiplash""",Justin Hurwitz,0,"2014-10-06","{'hollywood', 'movie tunes'}",0.506,0.718,5,-9.841,0,0.117,0.179,0.121,0.684,136.306,199389,3
+309,"1y5pLcNPeR9xhZxF7GE55J",Whiplash,Hank Levy,0,"2014-10-06",set(),0.591,0.767,5,-4.673,1,0.396,0.586,0.265,0.869,107.577,115289,4
+314,"5HDPtsnyb3maFmPL8LLUTG",New Man,Ed Sheeran,65,"2017-03-03","{'singer-songwriter pop', 'uk pop', 'pop'}",0.78,0.745,7,-3.97,1,0.0559,0.0,0.0595,0.862,94.026,189280,4
+324,"6Ac4NVYYl2U73QiTt11ZKd",Hooked On A Feeling,Björn Skifs,76,"1973-04-01",{'classic swedish pop'},0.547,0.82,8,-6.728,1,0.261,0.0,0.3,0.933,118.208,172867,4
+328,"5lEp8MBQCQXxNQpKjbrM8d",Shipwrecked,Alestorm,0,"2011-06-14","{'british power metal', 'pirate', 'comic metal', 'power metal', 'scottish metal'}",0.574,0.976,5,-4.624,0,0.0000582,0.0000616,0.105,0.618,105.034,210573,4
+343,"4TPDqoA9k7jFtdigCgM2VT",Let's Love,Echosmith,35,"2013-10-04","{'indie poptimism', 'viral pop', 'electropop'}",0.513,0.906,0,-4.151,1,0.000205,0.000049,0.204,0.556,147.967,182787,4
+345,"2vyWFovtrd43gdcirx4anV",Bubble Toes,Jack Johnson,0,"2011-04-12",{'neo mellow'},0.605,0.515,7,-11.353,1,0.67,0.03,0.374,0.689,94.123,239413,4
+347,"7MapZTlRqFfUteNcghsTwf",Keep Your Head Up,Andy Grammer,1,"2011-01-01","{'post-teen pop', 'neo mellow'}",0.666,0.78,7,-5.177,1,0.044,0.0,0.128,0.795,90.004,190480,4
+350,"1J4YoubtTxLuoKBzRIzHvv",Taylor,Jack Johnson,65,"2003-01-01",{'neo mellow'},0.805,0.729,0,-7.94,1,0.147,0.0422,0.104,0.569,174.189,239280,4
+358,"4T6HLdP6OcAtqC6tGnQelG",Everything,Michael Bublé,72,"2007-04-30","{'jazz pop', 'lounge', 'canadian pop', 'adult standards'}",0.686,0.688,6,-4.981,0,0.39,0.00000103,0.0924,0.493,123.125,212373,4
+362,"2LI5vZrnjTHDsxAln9HS1L",Paranoia in B Major,The Avett Brothers,0,"2007-05-15","{'north carolina indie', 'indie folk', 'stomp and holler', 'new americana', 'progressive bluegrass', 'north carolina roots'}",0.54,0.556,10,-6.822,1,0.232,0.00000775,0.143,0.386,123.361,217840,4
+0,"1MtUq6Wp1eQ8PC6BbPCj8P",I Took A Pill In Ibiza - Seeb Remix,Seeb,75,"2016-05-06","{'pop dance', 'dance pop', 'pop rap', 'pop'}",0.664,0.714,7,-6.645,0,0.0353,0.00000842,0.0843,0.71,101.969,197933,4
+3,"5R4HqXCZ6uTjxxnGdLt2S6",Stay Together,Noah Cyrus,53,"2017-04-14","{'alt z', 'pop'}",0.659,0.589,8,-4.004,1,0.174,0.0,0.095,0.339,72.015,192732,4
+5,"4hQ6UGyWQIGJmHSo0J88JW",Back To You - From 13 Reasons Why – Season 2 Soundtrack,Selena Gomez,76,"2018-05-10","{'post-teen pop', 'pop'}",0.601,0.724,6,-4.856,1,0.0945,0.00000168,0.12,0.508,102.061,207905,4
+9,"4ofwffwvvnbSkrMSCKQDaC",Shotgun,George Ezra,80,"2018-03-23","{'folk-pop', 'neo-singer-songwriter'}",0.673,0.735,5,-4.733,1,0.286,0.0,0.242,0.754,115.744,201287,4
+10,"7j639bmHzRH8tWO6q3xsVg",Dear Me - Less is More Mix,Eric Hutchinson,0,"2016-08-26","{'acoustic pop', 'neo mellow'}",0.659,0.538,9,-5.766,1,0.234,0.0,0.101,0.576,89.941,232160,4
+11,"2JVwsN6viHjR9t5pCPQ4Br",Pretty Shining People,George Ezra,64,"2018-03-23","{'folk-pop', 'neo-singer-songwriter'}",0.584,0.726,1,-4.604,1,0.14,0.0,0.0984,0.398,106.979,212447,4
+14,"4MflGTO2ZTcSQ12bWcyRgI","Honey, I'm Good.",Andy Grammer,74,"2014-08-05","{'post-teen pop', 'neo mellow'}",0.752,0.775,9,-7.289,1,0.0324,0.0,0.351,0.595,122.014,199263,4
+19,"5tAa8Uaqr4VvA3693mbIhU",Ruin My Life,Zara Larsson,67,"2018-10-18","{'swedish electropop', 'scandipop', 'swedish pop', 'pop'}",0.665,0.699,11,-5.265,1,0.423,0.0,0.0969,0.585,124.896,190932,4
+20,"4Sib57MmYGJzSvkW84jTwh",ME! (feat. Brendon Urie of Panic! At The Disco),Brendon Urie,0,"2019-04-26",{'pop'},0.614,0.839,0,-4.143,1,0.0291,0.0,0.112,0.657,182.123,193040,4
+21,"01k24g94i1JvkFLQmVEdCd",If You're Over Me,Years & Years,54,"2018-05-10","{'gauze pop', 'uk pop', 'pop'}",0.647,0.853,8,-4.516,1,0.0615,0.0,0.062,0.618,103.846,189000,4
+22,"4gqmi9agXnXX9tfnkaeyop",The Man I Want to Be,Jake Scott,38,"2015-11-02","{'singer-songwriter pop', 'indiecoustica'}",0.682,0.812,6,-4.228,1,0.0305,0.0,0.573,0.68,102.034,201760,4
+23,"7c71baHwrGDOeIFl1gVO14",Paradise,George Ezra,0,"2018-01-19","{'folk-pop', 'neo-singer-songwriter'}",0.642,0.881,11,-3.537,1,0.209,0.0,0.21,0.913,138.03,222045,4
+25,"29fRTIKsJhLUJoldM89GZS",You Need To Calm Down,Taylor Swift,14,"2019-06-14",{'pop'},0.768,0.678,2,-5.604,1,0.00838,0.0,0.0596,0.706,85.025,171387,4
+27,"38YgZVHPWOWsKrsCXz6JyP",Come On Get Higher,Matt Nathanson,71,"2007-01-01","{'acoustic pop', 'neo mellow'}",0.672,0.623,9,-5.699,1,0.241,0.0,0.0848,0.617,92.018,215173,4
+28,"3uM14F9XYRMhx6MgDsS9iq",All Time Low - Recorded at Spotify Studios NYC,Andy Grammer,0,"2017-03-01","{'post-teen pop', 'neo mellow'}",0.718,0.59,6,-5.67,0,0.442,0.0,0.198,0.505,94.031,185980,4
+31,"37f4ITSlgPX81ad2EvmVQr",Fight Song,Rachel Platten,79,"2016-01-01","{'post-teen pop', 'viral pop'}",0.564,0.714,7,-4.987,1,0.0549,0.0,0.155,0.33,175.924,204013,4
+34,"3HVWdVOQ0ZA45FuZGSfvns",I Don't Care (with Justin Bieber),Justin Bieber,79,"2019-05-10","{'canadian pop', 'pop'}",0.798,0.675,6,-5.041,1,0.0912,0.0,0.0894,0.842,101.956,219947,4
+36,"7fa9MBXhVfQ8P8Df9OEbD8",Girls Like You (feat. Cardi B) - Cardi B Version,Cardi B,75,"2018-06-15","{'rap', 'pop'}",0.851,0.541,0,-6.825,1,0.568,0.0,0.13,0.448,124.959,235545,4
+37,"70eFcWOvlMObDhURTqT4Fv",Beautiful People (feat. Khalid),Khalid,77,"2019-07-12","{'singer-songwriter pop', 'pop r&b', 'uk pop', 'pop'}",0.64,0.647,5,-8.114,0,0.124,0.0,0.0801,0.546,92.979,197867,4
+38,"0ibG3XCJ32Qq9maUY4AViR",How Can I Forget,MKTO,62,"2018-09-07","{'post-teen pop', 'pop'}",0.796,0.53,8,-5.967,1,0.69,0.0,0.0646,0.754,105.031,177141,4
+40,"3EPXxR3ImUwfayaurPi3cm",Be Alright,Dean Lewis,80,"2018-06-29","{'pop', 'australian pop'}",0.553,0.586,11,-6.319,1,0.697,0.0,0.0813,0.443,126.684,196373,4
+41,"4Y0TtDriFlN3XZoQx6PYsu","Don't Give Up On Me - (From ""Five Feet Apart"")",Andy Grammer,0,"2019-02-13","{'post-teen pop', 'neo mellow'}",0.641,0.537,0,-5.452,0,0.0875,0.00000905,0.115,0.0681,112.864,196188,4
+42,"65cv0OI9HmwR4EmN6CWucM",On My Way,Sheppard,57,"2019-02-01","{'folk-pop', 'australian indie'}",0.569,0.873,4,-5.239,1,0.246,0.0,0.104,0.53,138.061,203100,4
+44,"6pooRNiLyYpxZeIA5kJ5EX",Good Things Fall Apart (with Jon Bellion),Jon Bellion,63,"2019-05-13","{'pop dance', 'edm', 'indie pop rap', 'melodic dubstep'}",0.643,0.594,2,-5.453,1,0.0128,0.0,0.118,0.442,144.033,216668,4
+51,"78nplE9X2ZGvQh3TKgvldE",Rewrite The Stars (with James Arthur & Anne-Marie),Anne-Marie,68,"2018-11-16","{'talent show', 'uk pop', 'pop'}",0.67,0.743,10,-4.993,1,0.237,0.0,0.465,0.571,125.944,218293,4
+53,"4cPsqRptFXDRSIypaRoVOS",Gonna Be Alright,Andrew Simple,1,"2012-04-01",{'indiecoustica'},0.675,0.573,1,-11.931,1,0.0138,0.0,0.205,0.68,110.015,159609,4
+57,"7vGuf3Y35N4wmASOKLUVVU",Silence,Khalid,82,"2017-08-11","{'edm', 'progressive electro house', 'brostep', 'pop', 'pop r&b'}",0.52,0.761,4,-3.093,1,0.256,0.00000496,0.17,0.286,141.971,180823,4
+58,"5RK8kePPbYkBqMu1e23zuv","2 Heads",Coleman Hell,37,"2015-10-23","{'indie poptimism', 'canadian pop'}",0.732,0.564,0,-8.49,1,0.0611,0.000251,0.106,0.358,120.008,212427,4
+61,"5KONnBIQ9LqCxyeSPin26k",Trumpets,Jason Derulo,65,"2013-09-10","{'dance pop', 'pop'}",0.635,0.691,0,-4.862,1,0.555,0.0,0.097,0.638,82.142,217419,4
+65,"55qBw1900pZKfXJ6Q9A2Lc",Teenage Dream,Katy Perry,67,"2012-03-12",{'pop'},0.719,0.804,10,-4.581,1,0.0132,0.00000302,0.139,0.605,119.999,227760,4
+69,"5a7QothipiAULQ4YMj2hBJ",Giants,The Ready Set,18,"2010-06-14","{'neon pop punk', 'pop punk', 'pixie', 'pop emo'}",0.643,0.824,11,-6.44,1,0.0104,0.0,0.359,0.73,123.994,235133,4
+70,"6SznMYPQJHzr3IwsAHLId2",Bibia Be Ye Ye,Ed Sheeran,63,"2017-03-03","{'singer-songwriter pop', 'uk pop', 'pop'}",0.738,0.677,7,-5.121,1,0.52,0.0,0.133,0.882,127.067,176747,4
+71,"3f3omU8n47Mqyab5nCaGyT",Because of You,Kelly Clarkson,71,"2004-01-17","{'dance pop', 'talent show', 'pop'}",0.583,0.584,5,-5.362,0,0.254,0.0,0.123,0.136,140.039,219493,4
+72,"7gY3cyGcB2wnk2xDXiA0pe",Head Above Water,Avril Lavigne,66,"2019-02-15","{'candy pop', 'canadian pop', 'pop'}",0.578,0.694,5,-5.351,1,0.0112,0.0,0.102,0.268,129.921,220850,4
+73,"0prNGof3XqfTvNDxHonvdK",Scars To Your Beautiful,Alessia Cara,2,"2015-11-13","{'canadian contemporary r&b', 'canadian pop', 'pop'}",0.573,0.739,0,-5.74,1,0.0285,0.0,0.111,0.451,97.085,230227,4
+74,"0afhq8XCExXpqazXczTSve",Galway Girl,Ed Sheeran,81,"2017-03-03","{'singer-songwriter pop', 'uk pop', 'pop'}",0.624,0.876,9,-3.374,1,0.0735,0.0,0.327,0.781,99.943,170827,4
+75,"3Lfiu5sZ4M4B6JaKMBc0FU",Barcelona,Ed Sheeran,66,"2017-03-03","{'singer-songwriter pop', 'uk pop', 'pop'}",0.747,0.76,1,-4.294,1,0.448,0.0,0.153,0.682,99.975,191147,4
+79,"6wmAHw1szh5RCKSRjiXhPe",How Long,Charlie Puth,77,"2018-05-11","{'viral pop', 'pop'}",0.845,0.561,1,-5.253,0,0.211,0.00000349,0.0383,0.811,109.974,200853,4
+80,"12GEpg2XOPyqk03JZEZnJs",It Ain’t Me (with Selena Gomez),Selena Gomez,69,"2017-02-17","{'post-teen pop', 'tropical house', 'edm', 'pop dance', 'pop'}",0.64,0.533,0,-6.596,1,0.119,0.0,0.0864,0.515,99.968,220781,4
+83,"1bQhZOoXYqjXs7u7rFXo0h",You & Me,James TW,69,"2019-04-26",{'british singer-songwriter'},0.714,0.686,11,-6.333,1,0.203,0.00000776,0.102,0.828,127.015,231653,4
+85,"07HeFSqsEGq4eWyerDrW1a",Back Home,Andy Grammer,61,"2014-08-05","{'post-teen pop', 'neo mellow'}",0.621,0.827,11,-7.309,1,0.0409,0.0,0.0815,0.65,99.979,199113,4
+88,"3E7dfMvvCLUddWissuqMwr",Party In The U.S.A.,Miley Cyrus,84,"2009-01-01",{'pop'},0.652,0.698,10,-4.667,0,0.00112,0.000115,0.0886,0.47,96.021,202067,4
+95,"3afkJSKX0EAMsJXTZnDXXJ",Strawberries & Cigarettes,Troye Sivan,81,"2018-03-16","{'viral pop', 'pop', 'australian pop'}",0.578,0.537,9,-8.676,1,0.162,0.0,0.076,0.25,83.909,201539,4
+102,"1vrd6UOGamcKNGnSHJQlSt",Love Story,Taylor Swift,72,"2008-11-11",{'pop'},0.618,0.741,2,-3.95,1,0.17,0.0,0.0822,0.296,118.984,235267,4
+103,"3GCL1PydwsLodcpv0Ll1ch",You Belong With Me,Taylor Swift,73,"2008-11-11",{'pop'},0.687,0.783,6,-4.44,1,0.162,0.0000135,0.114,0.443,129.964,231133,4
+104,"2ULNeSomDxVNmdDy8VxEBU","22",Taylor Swift,56,"2012-10-22",{'pop'},0.658,0.729,7,-6.561,1,0.00215,0.0013,0.0752,0.668,104.007,230133,4
+108,"4NmE2ytXI8S2svTRSmEdpO",Small Talk,Katy Perry,56,"2019-08-09",{'pop'},0.846,0.631,5,-5.547,1,0.203,0.0,0.455,0.602,115.999,161963,4
+110,"3mJq2ZlI3ZN8hvmRSdzRy9",Fallin' For You,Colbie Caillat,60,"2009-01-01","{'dance pop', 'neo mellow', 'pop'}",0.645,0.825,4,-6.473,1,0.161,0.0,0.114,0.641,117.037,215320,4
+111,"4ftPj2fBTJ5pytddHwCPH0",Fresh Eyes,Andy Grammer,0,"2016-07-29","{'post-teen pop', 'neo mellow'}",0.828,0.56,0,-6.685,1,0.548,0.0000366,0.15,0.872,122.054,198001,4
+112,"6M8mODDhC5Ehq9X45PsVFm",Glad You Came,The Wanted,0,"2012-01-01","{'boy band', 'dance pop', 'post-teen pop', 'pop'}",0.672,0.826,7,-4.859,0,0.0373,0.0,0.106,0.538,126.874,197147,4
+114,"25sgk305KZfyuqVBQIahim",Sweet but Psycho,Ava Max,3,"2018-08-17",{'pop'},0.719,0.704,1,-4.724,1,0.0691,0.0,0.166,0.628,133.002,187436,4
+115,"4y3OI86AEP6PQoDE6olYhO",Sucker,Jonas Brothers,6,"2019-03-01","{'boy band', 'pop'}",0.842,0.734,1,-5.065,0,0.0427,0.0,0.106,0.952,137.958,181040,4
+116,"15DeqWWQB4dcEWzJg15VrN",Our Song,Taylor Swift,78,"2006-10-24",{'pop'},0.668,0.672,2,-4.931,1,0.111,0.0,0.329,0.539,89.011,201107,4
+117,"5yEPktRqvIhko5QFF3aBhQ",Mean,Taylor Swift,68,"2010-10-25",{'pop'},0.568,0.761,4,-3.987,1,0.452,0.0,0.217,0.789,163.974,237733,4
+121,"1wjzFQodRWrPcQ0AnYnvQ9",I Like Me Better,Lauv,1,"2017-05-19",{'pop'},0.752,0.505,9,-7.621,1,0.535,0.00000255,0.104,0.419,91.97,197437,4
+122,"4Y6IdA3e4wwLrbKHDjufaC",Love Myself,Hailee Steinfeld,0,"2015-11-13",{'pop'},0.616,0.765,0,-6.75,0,0.0029,0.0,0.149,0.343,122.916,218773,4
+123,"5QPachkZsP2xHp52FIoX0d",Just My Soul Responding,Amber Run,45,"2015-04-20","{'indie anthem-folk', 'neo-singer-songwriter'}",0.523,0.794,9,-6.818,0,0.0134,0.0000262,0.141,0.39,138.025,238560,4
+124,"4dsEZkHGlmL9yLPayqJG7m",White Noise,Coasts,0,"2017-08-18","{'shimmer pop', 'indie surf', 'indie poptimism', 'hopebeat', 'indie anthem-folk'}",0.585,0.64,2,-6.54,1,0.0511,0.0,0.074,0.367,100.029,215480,4
+128,"2SPqhlmGmYCM4oU4HGCnsx",She'd Say (with Ladysmith Black Mambazo),Ladysmith Black Mambazo,47,"2019-07-26","{'south african choral', 'post-teen pop', 'afropop', 'neo mellow', 'world'}",0.673,0.503,0,-6.67,1,0.411,0.0,0.319,0.328,91.011,206509,4
+130,"4y5bvROuBDPr5fuwXbIBZR",Paper Rings,Taylor Swift,87,"2019-08-23",{'pop'},0.811,0.719,9,-6.553,1,0.0129,0.0000136,0.0742,0.865,103.979,222400,4
+131,"3RauEVgRgj1IuWdJ9fDs70",The Man,Taylor Swift,87,"2019-08-23",{'pop'},0.777,0.658,0,-5.191,1,0.0767,0.0,0.0901,0.633,110.048,190360,4
+132,"7COXchtUOMd6uIT6HvmRaI",i'm so tired...,Troye Sivan,2,"2019-01-24","{'australian pop', 'viral pop', 'pop'}",0.599,0.733,11,-7.058,1,0.176,0.0,0.242,0.534,102.211,162583,4
+135,"1rqqCSm0Qe4I9rUvWncaom",High Hopes,Panic! At The Disco,83,"2018-06-22",{'pop'},0.579,0.904,5,-2.729,1,0.193,0.0,0.064,0.681,82.014,190947,4
+136,"7xT0GApaXGNVMUdRx2taZv",Hide Away,Daya,0,"2015-11-27",{'pop'},0.884,0.826,11,-3.672,0,0.222,0.00000229,0.0719,0.466,94.997,192381,4
+137,"0SuLAslEMFZAXf0SwY7syi",All Time Low,Jon Bellion,68,"2016-06-10",{'indie pop rap'},0.617,0.567,0,-4.188,1,0.0584,0.0,0.0933,0.505,90.246,217603,4
+138,"4JWQC6gyYoPRnxRxk0ta2M",Peer Pressure (feat. Julia Michaels),Julia Michaels,0,"2019-02-22","{'uk pop', 'neo mellow', 'pop'}",0.631,0.715,1,-6.083,0,0.0299,0.0,0.121,0.42,135.826,176880,4
+140,"5FieiCIIiHA3Njs2Vy9j8J",RAIN,Ben Platt,44,"2019-08-23","{'show tunes', 'broadway'}",0.771,0.863,2,-4.831,1,0.167,0.0,0.113,0.533,120.03,213868,4
+142,"5CLGzJsGqhCEECcpnFQA8x","These Days (feat. Jess Glynne, Macklemore & Dan Caplen)",Dan Caplen,75,"2018-01-19","{'pop rap', 'uk funky', 'uk dance', 'pop dance', 'seattle hip hop', 'uk contemporary r&b', 'uk pop', 'pop', 'neo soul'}",0.653,0.809,0,-4.057,1,0.194,0.0,0.165,0.55,92.213,210773,4
+144,"6uAm7pG66O1XesXS9bpHSF",Good As Hell,Lizzo,0,"2016-03-11","{'minnesota hip hop', 'escape room', 'trap queen', 'pop'}",0.684,0.905,0,-3.187,0,0.285,0.0,0.525,0.492,95.985,159011,4
+145,"7hzlzoOwCZ4D3Ow5YZK4kj",Insomnia,Daya,64,"2019-03-08",{'pop'},0.754,0.653,7,-5.095,1,0.0944,0.0,0.383,0.379,123.084,179746,4
+148,"48GBbQiTSlXX5i0cn3iIiJ",In The Arms Of A Stranger - Grey Remix,Grey,45,"2017-02-17","{'pop dance', 'dance pop', 'pop rap', 'pop'}",0.763,0.839,0,-3.437,1,0.429,0.0,0.109,0.655,104.977,212627,4
+156,"7jaDLcrbilPxoH4mIcYyB3",I Found You,Andy Grammer,0,"2019-07-12","{'post-teen pop', 'neo mellow'}",0.728,0.701,1,-6.58,1,0.0945,0.0000208,0.181,0.413,137.97,151734,4
+159,"2QZ7WLBE8h2y1Y5Fb8RYbH",In My Blood,Shawn Mendes,75,"2018-05-25","{'viral pop', 'canadian pop', 'pop'}",0.622,0.712,5,-7.321,1,0.0573,0.0,0.13,0.487,140.025,211360,4
+160,"1lOe9qE0vR9zwWQAOk6CoO",Ransom,Lil Tecca,82,"2019-08-30","{'melodic rap', 'rap', 'pluggnb'}",0.745,0.642,7,-6.257,0,0.0204,0.0,0.0658,0.226,179.974,131240,4
+165,"2Pavqy0vPxGilGe0IIetdP",Geronimo,Sheppard,0,"2014-01-01","{'folk-pop', 'australian indie'}",0.707,0.771,7,-6.275,1,0.434,0.0013,0.115,0.437,142.016,218228,4
+170,"1HfxPaJggVwFsvOtHbVzMz",Live Like We're Dying,Kris Allen,54,"2009-11-16","{'acoustic pop', 'viral pop', 'idol', 'neo mellow'}",0.589,0.893,0,-2.948,1,0.0273,0.0,0.343,0.94,92.011,212507,4
+178,"72FNf7DAlWLmuHiLTBcNHY",Hold Back The River,James Bay,68,"2015-03-23","{'uk pop', 'neo mellow', 'pop'}",0.715,0.715,5,-7.364,1,0.0526,0.0,0.0936,0.506,134.923,238747,4
+181,"6SL7KzIA96f0HiKjuv7tED",U & Us,Quinn XCII,55,"2019-02-15",{'indie pop rap'},0.598,0.73,4,-7.871,1,0.087,0.00268,0.186,0.264,130.039,226000,4
+183,"5r0SIoi8bnhHybW3ykNHts",Simple Things (feat. Christina Perri),Christina Perri,43,"2019-06-26","{'indiecoustica', 'pop'}",0.653,0.731,0,-6.156,1,0.227,0.0,0.461,0.458,111.973,187508,4
+187,"1HimGOB6BjOaCQYMIF1xtU",What Am I,Why Don't We,66,"2019-08-23","{'boy band', 'pop'}",0.614,0.647,0,-4.681,0,0.0687,0.0,0.104,0.368,163.862,184665,4
+188,"39IsH7B5byx8NRlEKlZVg9",Pretty Girl - Cheat Codes X CADE Remix,Cheat Codes,60,"2017-03-03","{'dark pop', 'edm', 'pop dance', 'pop edm', 'alt z', 'pop'}",0.703,0.868,7,-4.661,0,0.15,0.132,0.104,0.733,121.03,193613,4
+189,"2zJZwWF7BTGIIvrAlgzJEx",Whatcha Say,Jason Derulo,61,"2010-03-01","{'dance pop', 'pop'}",0.615,0.711,11,-5.507,1,0.0444,0.0,0.145,0.711,144.036,221253,4
+190,"3zSCNTXI7Ed0PiidZVmzIe",Ignition - Remix,R. Kelly,65,"2014-05-19",set(),0.778,0.549,1,-6.144,1,0.0549,0.0,0.0724,0.802,133.041,186040,4
+192,"2qfEcCkEo5NscA9GL7ER72",Nobody,James Arthur,61,"2019-03-01","{'danish electronic', 'edm', 'pop dance', 'talent show', 'uk pop', 'pop'}",0.673,0.687,6,-5.295,0,0.269,0.0,0.181,0.524,96.964,211040,4
+194,"0dbp9YwlGEzXmxavRMgZ4T",LA On A Saturday Night,Hearts & Colors,53,"2018-10-19",set(),0.592,0.588,10,-4.889,1,0.118,0.0,0.138,0.336,81.997,195075,4
+198,"2qxmye6gAegTMjLKEBoR3d",Let Me Down Slowly,Alec Benjamin,88,"2018-11-16","{'pov: indie', 'alt z', 'pop'}",0.652,0.557,1,-5.714,0,0.74,0.0,0.124,0.483,150.073,169354,4
+199,"7pT6WSg4PCt4mr5ZFyUfsF",If We Have Each Other,Alec Benjamin,80,"2018-11-16","{'pov: indie', 'alt z', 'pop'}",0.656,0.577,10,-5.566,0,0.698,0.0,0.296,0.861,173.094,181522,4
+200,"7eXT7U3FKrOM88xr1DsNwc",Trust My Lonely,Alessia Cara,49,"2018-11-30","{'canadian contemporary r&b', 'canadian pop', 'pop'}",0.613,0.668,0,-6.134,1,0.00421,0.00000206,0.324,0.622,150.171,199747,4
+203,"1PsMieVYFXrSeXMxuE2SbG",Must Have Been The Wind,Alec Benjamin,0,"2019-06-13","{'pov: indie', 'alt z', 'pop'}",0.653,0.644,7,-6.204,1,0.784,0.000205,0.166,0.363,88.976,179300,4
+205,"0AtP8EkGPn6SwxKDaUuXec",Remember The Name (feat. Eminem & 50 Cent),"50 Cent",68,"2019-07-12","{'singer-songwriter pop', 'queens hip hop', 'hip hop', 'east coast hip hop', 'rap', 'uk pop', 'pop'}",0.852,0.666,11,-6.923,0,0.135,0.0,0.798,0.726,91.046,207760,4
+206,"4vUmTMuQqjdnvlZmAH61Qk",South of the Border (feat. Camila Cabello & Cardi B),Cardi B,77,"2019-07-12","{'singer-songwriter pop', 'dance pop', 'rap', 'uk pop', 'pop'}",0.857,0.621,9,-6.376,0,0.148,0.0,0.0865,0.668,97.989,204467,4
+207,"75ylrnob5O80WTKi9ugZ1Z",Problems,A R I Z O N A,56,"2019-10-11","{'indie poptimism', 'electropop'}",0.72,0.658,2,-7.414,1,0.0329,0.0302,0.123,0.134,98.001,171898,4
+209,"09Hjv8GEDhzPxqiJCw8dSB",Shadow (feat. IRO) - From Songland,iRO,55,"2019-08-14","{'seattle hip hop', 'pop rap'}",0.785,0.559,1,-8.435,1,0.18,0.0,0.303,0.416,128.021,177966,4
+211,"2BkyYZmU4JuWW2sYi9EzpC","7 Minutes",Dean Lewis,59,"2019-01-18","{'pop', 'australian pop'}",0.613,0.739,10,-6.478,1,0.526,0.0,0.149,0.712,104.966,211453,4
+212,"322tcqPhma7F6hfCeLisx0","fuck, i'm lonely",Anne-Marie,1,"2019-08-02",{'pop'},0.806,0.558,9,-6.46,1,0.482,0.0,0.0618,0.678,95.016,198973,4
+216,"7apizLyhMRutg3ccXvr2qv",Hurt Somebody,Julia Michaels,51,"2018-01-12","{'singer-songwriter pop', 'pov: indie', 'pop'}",0.633,0.559,6,-5.135,1,0.336,0.0,0.262,0.473,114.987,168640,4
+219,"3eng6TJxpqjvDkxRpnfnhB",Big Plans,Why Don't We,64,"2019-01-17","{'boy band', 'pop'}",0.693,0.604,11,-5.279,1,0.0668,0.0,0.114,0.651,75.014,179930,4
+223,"1LHfEkVMR0Yj20C8lWdgpA",Unbelievable,Why Don't We,59,"2019-05-16","{'boy band', 'pop'}",0.532,0.66,7,-7.138,1,0.105,0.000222,0.0996,0.676,130.013,189385,4
+224,"2BWWsCwuHAZFE1scLyP6Qe",Somebody To You,Demi Lovato,66,"2014-11-04","{'boy band', 'post-teen pop', 'pop'}",0.559,0.849,3,-4.676,1,0.0854,0.0,0.328,0.759,86.978,182827,4
+225,"2slqvGLwzZZYsT4K4Y1GBC",Only The Young - Featured in Miss Americana,Taylor Swift,69,"2020-01-31",{'pop'},0.56,0.78,5,-4.895,0,0.00244,0.0,0.0714,0.602,93.516,157507,4
+226,"1gZFRYcPz3wKevEaNYRwfW",Time - Edit,NF,59,"2019-07-26","{'hip hop', 'pop rap'}",0.665,0.703,8,-3.885,1,0.128,0.0,0.115,0.257,97.968,230611,4
+228,"5i2JGF65pHKSfMEjSMrBC3",Jesus In LA,Alec Benjamin,0,"2019-07-16","{'pov: indie', 'alt z', 'pop'}",0.767,0.627,0,-4.096,1,0.537,0.0,0.359,0.689,94.028,172606,4
+232,"7pWK1kMgHy5lNNiIfuRbkP",Used To Love (with Dean Lewis),Dean Lewis,63,"2019-10-31","{'dutch edm', 'edm', 'pop dance', 'australian pop', 'progressive house', 'pop'}",0.651,0.693,4,-4.722,1,0.458,0.0,0.335,0.392,118.97,236765,4
+233,"4wNIkl5XGiAACjFBlDWuSd",What A Man Gotta Do,Jonas Brothers,75,"2020-01-17","{'boy band', 'pop'}",0.852,0.698,9,-7.206,1,0.00839,0.00000103,0.0773,0.324,113.039,180645,4
+234,"3Cn324qhZyTLKGgPeYPccP",Some Girl,Andy Grammer,48,"2019-07-26","{'post-teen pop', 'neo mellow'}",0.501,0.537,1,-7.405,0,0.0691,0.0,0.125,0.151,135.944,175643,4
+236,"1koJk8rrMBlhDZ8MNiLzH9",Always Remember Us This Way,Lady Gaga,58,"2018-10-05","{'dance pop', 'art pop', 'pop'}",0.553,0.506,0,-5.967,1,0.317,0.0,0.763,0.306,130.027,210200,4
+240,"1e9oZCCiX42nJl0AcqriVo",Watermelon Sugar,Harry Styles,3,"2019-11-17",{'pop'},0.548,0.816,0,-4.209,1,0.122,0.0,0.335,0.557,95.39,174000,4
+251,"5M9jOReAKGZ2AttVefFjTY",Don't Look Down (feat. Usher),Usher,66,"2015-03-17","{'dance pop', 'south carolina hip hop', 'dutch edm', 'edm', 'pop dance', 'r&b', 'rap', 'pop', 'contemporary r&b'}",0.575,0.831,0,-5.972,1,0.00406,0.000449,0.111,0.377,127.991,223140,4
+253,"0WTN7om3lHG3yYMigwzBxl",There's No Way (feat. Julia Michaels),Julia Michaels,2,"2018-09-27",{'pop'},0.755,0.625,2,-7.114,1,0.49,0.0,0.157,0.374,147.02,174861,4
+254,"57zF9nlPH4rud6f6zuKSQi",Thursday,Jess Glynne,61,"2018-10-12","{'uk pop', 'pop'}",0.603,0.554,2,-4.381,1,0.452,0.0,0.0545,0.354,111.989,216239,4
+259,"3XXGqZX50zbGqSOup74UH2",Tough,Lewis Capaldi,61,"2018-06-08","{'uk pop', 'pop'}",0.627,0.715,1,-5.019,1,0.127,0.0,0.0768,0.481,115.005,229283,4
+270,"4yCNpbhTPxcYn5lejWzZaf",Die A Little Bit,Ms Banks,0,"2019-10-24","{'dance pop', 'post-teen pop', 'alternative r&b', 'r&b', 'uk hip hop', 'urban contemporary', 'metropopolis'}",0.922,0.563,1,-6.863,1,0.205,0.00000305,0.363,0.25,116.096,165411,4
+271,"56khZQKfmdTikYbbZLgxAY",Something's Got To Give,Labrinth,0,"2019-09-20","{'indie poptimism', 'pop'}",0.511,0.747,0,-5.904,1,0.0393,0.00000663,0.028,0.564,109.022,229285,4
+272,"4QnC1bIaMSfDQvF4XDhV5M",Boyfriend,Selena Gomez,56,"2020-04-09","{'post-teen pop', 'pop'}",0.811,0.512,2,-6.381,1,0.218,0.0262,0.0768,0.346,92.046,161188,4
+278,"5HYHGYx3Yl0B344J6eAdgF","At Least It Was Here (""Community"" Main Title)",The 88,51,"2010-09-21",{'la indie'},0.543,0.756,9,-8.655,1,0.000979,0.000338,0.0864,0.332,145.098,169960,4
+283,"2U12JbtnFSYa5Av5wEcEDX",Oh My God,Alec Benjamin,0,"2020-02-13","{'pov: indie', 'alt z', 'pop'}",0.696,0.565,5,-7.237,0,0.652,0.00000202,0.121,0.599,156.11,187728,4
+286,"2MnzNhe3pPExotEbZpeXnh",the last great american dynasty,Taylor Swift,47,"2020-07-24",{'pop'},0.684,0.661,7,-8.507,1,0.473,0.00215,0.109,0.713,147.909,230999,4
+288,"4LEK9rD7TWIG4FCL1s27XC",cardigan,Taylor Swift,54,"2020-07-24",{'pop'},0.613,0.581,0,-8.588,0,0.537,0.000345,0.25,0.551,130.033,239560,4
+299,"0vVMlbdYx2080Oa9FndPZr",long story short,Taylor Swift,65,"2020-12-10",{'pop'},0.546,0.732,0,-7.715,1,0.674,0.184,0.0972,0.571,157.893,215920,4
+301,"6NriykdkRrjQMZo1sfVYUo","no body, no crime (feat. HAIM)",HAIM,64,"2020-12-10","{'indietronica', 'metropopolis', 'pop'}",0.547,0.613,7,-7.577,0,0.431,0.0,0.102,0.528,79.011,215627,4
+302,"1OjmlSFuzYflWjSMTCyTJv",Like It's Christmas,Jonas Brothers,50,"2019-11-08","{'boy band', 'pop'}",0.725,0.571,1,-6.007,1,0.0183,0.0,0.0519,0.61,146.035,200880,4
+303,"1Y9cAYTmyWJCcmfqdG2I29",Broken & Beautiful,Kelly Clarkson,66,"2019-03-27","{'dance pop', 'talent show', 'pop'}",0.73,0.732,8,-2.556,1,0.0823,0.0,0.0757,0.546,112.058,218948,4
+306,"1p6rk9R8SCum97WnvGNt6O",I Love You Always Forever,Betty Who,59,"2016-06-03","{'dance pop', 'australian dance', 'electropop', 'metropopolis'}",0.532,0.613,0,-7.64,1,0.326,0.0,0.292,0.493,106.081,222957,4
+307,"5X8Yo3zaMKunLmCb7qQL7Z",Oh My My,Blue October,49,"2020-10-23",{'san marcos tx indie'},0.673,0.738,0,-4.808,1,0.019,0.0,0.214,0.713,124.987,190640,4
+310,"7fovCglnkftOlJmrIidq8r",No Hopeless Soul,Stephen Stanley,49,"2020-12-15",set(),0.577,0.769,0,-5.673,1,0.0528,0.0,0.0947,0.515,91.989,183240,4
+313,"4RVtBlHFKj51Ipvpfv5ER4",Drown (feat. Clinton Kane),Clinton Kane,68,"2020-02-27","{'gen z singer-songwriter', 'dutch edm', 'edm', 'pop dance', 'alt z', 'progressive house', 'pop'}",0.573,0.739,9,-5.455,1,0.212,0.0,0.175,0.363,120.077,174062,4
+315,"1tuXOJYN6CkgubpifHEm96",I'll Wait,Sasha Alex Sloan,61,"2020-05-29","{'tropical house', 'edm', 'pop dance', 'alt z', 'pop'}",0.611,0.649,1,-6.968,1,0.15,0.0000153,0.105,0.353,123.002,215361,4
+334,"3Ri6VyKJACmFm68wQHrsvv",Pleasure,WARPs UP,47,"2021-04-23",{'chinese idol pop'},0.593,0.622,1,-6.241,1,0.154,0.0,0.077,0.382,172.02,186208,4
+337,"6PERP62TejQjgHu81OHxgM",good 4 u,Olivia Rodrigo,24,"2021-05-14",{'pop'},0.556,0.661,6,-5.052,0,0.3,0.0,0.101,0.668,168.56,178148,4
+339,"28Fqo5nrtgYj7czjeyHg04",Roses,The Band CAMINO,0,"2020-12-11","{'hopebeat', 'pov: indie'}",0.703,0.768,1,-5.069,1,0.0339,0.0000013,0.0328,0.786,95.983,181674,4
+340,"0awuNCj9gwJEM0seER22DW",CHICKEN TENDIES,Clinton Kane,66,"2021-02-19","{'gen z singer-songwriter', 'alt z'}",0.57,0.689,7,-6.242,1,0.358,0.0,0.0819,0.568,100.087,196844,4
+345,"6PQ88X9TkUIAUIZJHW2upE",Bad Habits,Ed Sheeran,24,"2021-06-25","{'singer-songwriter pop', 'uk pop', 'pop'}",0.808,0.897,11,-3.712,0,0.0469,0.0000314,0.364,0.591,126.026,231041,4
+346,"4ufkuONjQMNR2fyXu1bO9w",Lease On Life,Andy Grammer,66,"2021-06-28","{'post-teen pop', 'neo mellow'}",0.704,0.701,2,-5.442,1,0.058,0.0,0.127,0.592,88.024,168163,4
+350,"2f0pn9DkEJwAzXApnFh5cr",Someone To You,BANNERS,77,"2019-10-04",{'indie poptimism'},0.52,0.903,2,-5.497,1,0.00517,0.0,0.254,0.652,74.988,219801,4
+351,"1e6McS5TlhjM3NRJMLfYPr",Crying My Eyes Out,Stephen Puth,49,"2019-11-22",set(),0.746,0.529,8,-6.378,1,0.201,0.00000965,0.127,0.719,104.023,176539,4
+355,"3NVnNH7lZW5Jg3fjiheS67",Let Go,Dean Lewis,57,"2017-05-12","{'pop', 'australian pop'}",0.567,0.519,10,-7.97,1,0.291,0.0,0.142,0.406,103.145,174429,4
+356,"42bbDWZ8WmXTH7PkYAlGLu",Hold My Girl,George Ezra,75,"2018-03-23","{'folk-pop', 'neo-singer-songwriter'}",0.614,0.527,10,-6.374,1,0.597,0.0,0.11,0.354,121.941,211764,4
+359,"7HcaM7gc9YB2JAwxq1sfjT",Call My Name,JP Cooper,33,"2021-08-13",{'uk pop'},0.628,0.755,2,-6.442,1,0.0867,0.0,0.302,0.383,98.978,221748,4
+366,"28GUjBGqZVcAV4PHSYzkj2",So Good,B.o.B,66,"2012-04-27","{'dance pop', 'southern hip hop', 'pop rap', 'rap', 'atl hip hop'}",0.66,0.9,7,-5.02,1,0.0403,0.0,0.219,0.591,85.51,213253,4
+368,"4QCwJfuL70aUSXzlEP4FRT",Bubble Toes,Jack Johnson,26,"2001",{'neo mellow'},0.606,0.517,7,-11.507,1,0.666,0.0209,0.377,0.685,93.88,238603,4
+371,"2P4OICZRVAQcYAV2JReRfj",Waiting For Love,Avicii,84,"2015-10-02","{'pop dance', 'edm', 'pop'}",0.579,0.736,6,-3.863,0,0.31,0.0,0.198,0.613,127.999,230613,4
+374,"2m3ObD945KvpE5y9A1eUWm",Jump Then Fall (Taylor’s Version),Taylor Swift,70,"2021-04-09",{'pop'},0.572,0.69,2,-6.201,1,0.0474,0.0,0.0897,0.624,160.111,237580,4
+375,"6aIAuKNU8JlVaTmoCYYN6U",Glad He's Gone,Tove Lo,51,"2019-05-31","{'swedish electropop', 'swedish pop', 'pop', 'swedish synthpop', 'metropopolis'}",0.795,0.595,1,-8.073,1,0.0823,0.0,0.128,0.502,91.025,196348,4
+376,"3DamFFqW32WihKkTVlwTYQ",Fireflies,Owl City,80,"2009-01-01","{'indietronica', 'pop'}",0.512,0.662,3,-6.797,1,0.0275,0.0,0.118,0.472,180.114,228347,4
+380,"0PLhwCmQ7cC3ThRGPn3HxF",Mess It Up,Gracie Abrams,72,"2021-05-07",{'alt z'},0.765,0.582,0,-4.528,1,0.245,0.0000821,0.154,0.36,132.992,171280,4
+383,"5S09u7HLG7mNfkchjnc5uz",Playground (from the series Arcane League of Legends),Bea Miller,0,"2021-11-06","{'talent show', 'alt z', 'pop'}",0.514,0.703,8,-6.859,1,0.0107,0.0000762,0.13,0.356,157.399,230526,4
+385,"6PdCbJwSOeovMX7kfwiAxb",Message In A Bottle (Taylor's Version) (From The Vault),Taylor Swift,47,"2021-11-12",{'pop'},0.622,0.791,7,-6.106,1,0.00188,0.00000372,0.083,0.494,115.915,225960,4
+393,"6ie2Bw3xLj2JcGowOlcMhb",Green Light,Lorde,75,"2017-06-16","{'nz pop', 'art pop', 'metropopolis', 'pop'}",0.594,0.721,2,-7.812,1,0.0209,0.00000855,0.0879,0.253,128.942,234653,4
+397,"1Pf8HqG2oRr05iDuEdFrIE",Christmas Cookies,Emmi Elliott,0,"2020-12-04",set(),0.847,0.638,10,-7.146,1,0.443,0.0,0.113,0.781,105.014,146327,4
+400,"1MFD6gdVDjFFMM8ItH9ZhI",White Walls (feat. ScHoolboy Q & Hollis),ScHoolboy Q,64,"2012-10-09","{'southern hip hop', 'pop rap', 'hip hop', 'seattle hip hop', 'trap', 'rap', 'gangster rap'}",0.768,0.782,7,-5.545,1,0.0545,0.0,0.338,0.842,116.492,220319,4
+404,"4NxUuupOGPquDhy1yFIZK3",The Lotto,AJR,60,"2016-09-30","{'pov: indie', 'neo mellow', 'ectofolk', 'lilith', 'acoustic pop'}",0.687,0.748,3,-4.54,1,0.24,0.0,0.373,0.872,88.944,193695,4
+407,"6y6xhAgZjvxy5kR5rigpY3",Chasing Stars (feat. James Bay),James Bay,66,"2021-08-20","{'dance pop', 'neo mellow', 'edm', 'pop dance', 'progressive electro house', 'brostep', 'uk pop', 'pop'}",0.594,0.64,10,-6.865,1,0.0169,0.0,0.135,0.492,92.871,170457,4
+408,"2zZuQRgs9xNBXwdZUFEGE6",Gonna Be Okay,Brent Morgan,1,"2021-04-30",{'gen z singer-songwriter'},0.609,0.506,11,-8.902,1,0.0204,0.0,0.102,0.364,77.427,210165,4
+410,"4o4MwnE4OK3JNG4lCYFnwm",Love Myself,Andy Grammer,51,"2021-12-10","{'post-teen pop', 'neo mellow'}",0.651,0.794,1,-4.229,0,0.128,0.0,0.0755,0.265,100.005,187004,4
+412,"0EGuSSpuu9wmHCtvb4PdLO","Sit Still, Look Pretty",Daya,3,"2016-10-07",{'pop'},0.655,0.74,2,-4.081,1,0.14,0.0,0.106,0.543,182.105,202221,4
+413,"6FE2iI43OZnszFLuLtvvmg",Classic,MKTO,83,"2012","{'post-teen pop', 'pop'}",0.72,0.791,1,-4.689,1,0.0384,0.0,0.157,0.756,102.071,175427,4
+417,"6J56LY7Gbht6At3hv8HA5E",You Are the Music in Me,Disney,52,"2007-01-01","{'movie tunes', ""children's music""}",0.604,0.757,5,-4.516,1,0.373,0.0,0.0989,0.539,101.967,208653,4
+423,"4LRPiXqCikLlN15c3yImP7",As It Was,Harry Styles,91,"2022-03-31",{'pop'},0.52,0.731,6,-5.338,0,0.342,0.00101,0.311,0.662,173.93,167303,4
+425,"6ATM1zRLGYYP72J9xwnL1L",Saved My Life (with R3HAB),R3HAB,64,"2022-05-06","{'post-teen pop', 'neo mellow', 'edm', 'pop dance', 'electro house', 'progressive electro house', 'dutch house'}",0.71,0.648,8,-5.955,1,0.296,0.0,0.117,0.468,102.111,174843,4
+427,"0b7qBgsDlYz5koxoIdTZTe",Tomorrow,Fly By Midnight,64,"2021-11-19",{'singer-songwriter pop'},0.568,0.669,2,-5.698,1,0.112,0.0,0.115,0.405,149.969,185475,4
+430,"4KGTM5EQEWR1QMDvo8dzaZ",dose,Teddy Swims,0,"2022-04-15",set(),0.75,0.581,4,-5.011,1,0.302,0.0,0.153,0.612,119.995,180807,4
+431,"23HSq3CeULIkmgITs8s2z8",Does Somebody Love You,Hardcastle,30,"2019-07-17","{'nashville indie', 'hopebeat'}",0.687,0.839,9,-4.84,1,0.317,0.000679,0.131,0.17,128.002,197173,4
+433,"3xrn9i8zhNZsTtcoWgQEAd",Since U Been Gone,Kelly Clarkson,75,"2004-01-17","{'dance pop', 'talent show', 'pop'}",0.662,0.741,0,-5.406,1,0.00165,0.0303,0.114,0.404,131.0,188960,4
+439,"2iuZJX9X9P0GKaE93xcPjk",Sugar,Maroon 5,83,"2014-09-02",{'pop'},0.748,0.788,1,-7.055,1,0.0591,0.0,0.0863,0.884,120.076,235493,4
+441,"6ilHf9NUx0OTQvnwgyU2ot",End Of The World,Gavin James,23,"2022-07-22",{'irish pop'},0.646,0.719,11,-5.203,1,0.0115,0.0,0.0938,0.521,119.943,218389,4
+443,"28tJhpy4NDPiZk28sEGSsh",Novocaine,Gavin James,39,"2022-07-22",{'irish pop'},0.834,0.587,4,-6.771,1,0.213,0.000139,0.332,0.658,117.95,198879,4
+451,"1qEmFfgcLObUfQm0j1W2CK",Late Night Talking,Harry Styles,88,"2022-05-20",{'pop'},0.714,0.728,10,-4.595,1,0.298,0.0,0.106,0.901,114.996,177955,4
+454,"1GglmI9q5ABCHSBoZrMHSu",All The Things She Said,Jasmine Clarke,55,"2020-09-25",set(),0.575,0.556,9,-10.64,0,0.17,0.0476,0.0956,0.303,180.153,131343,4
+459,"2Ro9FLIVhPwIQopSr48oJT",Wildfire,Seafret,57,"2016-01-29",{'folk-pop'},0.587,0.58,6,-7.867,1,0.252,0.00243,0.105,0.193,131.953,224800,4
+460,"4wuCQX7JvAZLlrcmH4AeZF",Cross Me (feat. Chance the Rapper & PnB Rock),PnB Rock,63,"2019-07-12","{'melodic rap', 'pop rap', 'chicago rap', 'hip hop', 'trap', 'rap', 'conscious hip hop', 'uk pop', 'pop'}",0.746,0.787,4,-6.373,1,0.212,0.0,0.0669,0.607,95.005,206187,4
+461,"1AI7UPw3fgwAFkvAlZWhE0",Take Me Back to London (feat. Stormzy),Stormzy,67,"2019-07-12","{'singer-songwriter pop', 'uk hip hop', 'grime', 'uk pop', 'pop'}",0.885,0.762,8,-5.513,0,0.219,0.0,0.162,0.605,138.058,189733,4
+463,"5jzKL4BDMClWqRguW5qZvh",Teenage Dream,Katy Perry,76,"2010-01-01",{'pop'},0.719,0.798,10,-4.582,1,0.0162,0.00000234,0.134,0.591,120.011,227741,4
+464,"1y4eb6hmAvsqlDOl3fx9kk",Hot N Cold,Katy Perry,73,"2008-06-17",{'pop'},0.706,0.841,7,-3.956,1,0.0000795,0.0,0.0688,0.861,132.032,220227,4
+473,"6WC5fhc9XMaCrUNKNjm9xE",Thumbs,Sabrina Carpenter,72,"2016-10-14",{'pop'},0.73,0.718,8,-3.496,1,0.0284,0.0,0.0892,0.127,135.045,216467,4
+481,"64Jyg9AzWl3AHdnkKPmY4T","2AM.",Sage The Gemini,60,"2014-01-01","{'southern hip hop', 'pop rap', 'trap', 'hyphy', 'pop r&b'}",0.849,0.534,4,-6.365,1,0.0472,0.0,0.25,0.599,102.014,237653,4
+482,"60nXduun3ybrHhtDOUmGmV","Nails, Hair, Hips, Heels",Todrick Hall,6,"2019-05-23",{'strut'},0.934,0.611,1,-8.688,1,0.339,0.00000657,0.0853,0.782,126.012,236190,4
+484,"5CalS8Gn69OOrR9aiw0ZO9",Honeybee,The Head And The Heart,68,"2019-05-17","{'folk-pop', 'stomp and holler', 'seattle indie'}",0.642,0.52,9,-7.886,1,0.118,0.000509,0.552,0.488,136.014,196055,4
+491,"3dNjUFt6EFU4Gq6Q5vfJqf",Girls Like Girls,Hayley Kiyoko,63,"2015-02-03","{'alt z', 'indie poptimism', 'pop'}",0.611,0.701,6,-5.235,1,0.0109,0.00000983,0.0994,0.604,142.027,229656,4
+495,"0WT7M7AznSiyrcEJGhJJ3h",Bumblebee,Rachel Brown,3,"2011-02-22",set(),0.511,0.529,4,-8.341,1,0.658,0.0,0.0986,0.494,77.488,226905,4
+496,"20ORwCJusz4KS2PbTPVNKo",Leavin',Jesse McCartney,64,"2008","{'dance pop', 'post-teen pop', 'pop'}",0.687,0.71,9,-5.84,1,0.0283,0.00000371,0.0689,0.886,79.235,216880,4
+500,"1HwpWwa6bnqqRhK8agG4RS",Beautiful Soul,Jesse McCartney,72,"2004-01-01","{'dance pop', 'post-teen pop', 'pop'}",0.66,0.666,9,-4.342,1,0.0759,0.0,0.0268,0.933,89.975,214227,4
+501,"3tJ4y2Zqx6gM9xOAuFfsSF",Cool Girl,Tove Lo,66,"2016-10-28","{'swedish electropop', 'swedish pop', 'pop', 'swedish synthpop', 'metropopolis'}",0.674,0.694,9,-7.076,0,0.313,0.00000717,0.0752,0.203,101.993,199179,4
+503,"4zrKN5Sv8JS5mqnbVcsul7",Celestial,Ed Sheeran,79,"2022-09-29","{'singer-songwriter pop', 'uk pop', 'pop'}",0.574,0.852,2,-1.248,1,0.0529,0.0,0.161,0.501,123.038,209027,4
+506,"3L08akAE8Fweu2Hnw8ZMJ4",Forgot to Laugh,Bridgit Mendler,42,"2012-01-01","{'post-teen pop', 'pop'}",0.572,0.803,5,-4.088,1,0.0126,0.000123,0.168,0.747,181.972,189920,4
+507,"6T5eAjtjBQJEWVGtndJ9XA",Who Knows,BEGINNERS,38,"2014-02-13",{'bossbeat'},0.583,0.82,5,-4.144,1,0.0443,0.61,0.0791,0.575,128.011,192502,4
+508,"0lQyu3gXsyuDj1MvZiVzXc","22 Make",Oh Wonder,41,"2022-10-07","{'indie poptimism', 'pov: indie', 'electropop'}",0.619,0.677,10,-9.087,1,0.515,0.0109,0.248,0.674,100.011,212275,4
+509,"0vrGg6n72wLwgv32jeewgi",Move Me,half•alive,47,"2022-02-11","{'alt z', 'pov: indie'}",0.637,0.606,3,-5.697,1,0.0744,0.0777,0.176,0.466,155.005,216533,1
+511,"55cwGtYrExG7slEAor5jeR",rocket science,vaultboy,73,"2021-11-09",{'singer-songwriter pop'},0.741,0.622,10,-8.006,1,0.137,0.0,0.106,0.47,136.014,152987,4
+517,"65Bynqyt59f3fojjs1Uo41",Stay With Me (feat. Jeremy Zucker),Jeremy Zucker,55,"2018-08-31","{'alt z', 'electropop', 'indie electropop', 'pop'}",0.694,0.695,2,-6.612,1,0.489,0.000159,0.131,0.468,100.035,189787,4
+522,"7712gjoih4QoDbXpljEk21",Paris,Taylor Swift,75,"2022-10-22",{'pop'},0.7,0.509,7,-10.547,1,0.112,0.0000327,0.137,0.345,110.947,196259,4
+523,"5kiZGSxgqPdv6rbqL9THdd",High Infidelity,Taylor Swift,74,"2022-10-22",{'pop'},0.646,0.529,10,-10.179,1,0.723,0.0,0.0885,0.755,87.862,231475,4
+528,"69XWcpV2x4YZWaCvstSRlK",Honey Hold Me,Morningsiders,66,"2019-03-29",{'folk-pop'},0.606,0.567,0,-6.841,1,0.367,0.00325,0.19,0.521,82.012,181455,4
+530,"4Dy2WsitD8WSy1zyh5pKBf",Fever Dream,Hurtwave,8,"2021-04-30",{'modern alternative pop'},0.541,0.719,10,-7.017,1,0.31,0.0,0.0871,0.102,130.053,229154,4
+534,"22eqegdVyWgAQAwLkm7L9b",September,James Arthur,51,"2021-06-10","{'talent show', 'uk pop', 'pop'}",0.641,0.551,9,-6.165,1,0.147,0.0,0.12,0.417,102.912,220891,4
+535,"4mGRwVmJgYfM6buErDPI5U",Castles,World's First Cinema,0,"2022-07-29","{'uk dance', 'pop dance'}",0.646,0.886,4,-4.177,1,0.014,0.0,0.097,0.434,124.953,215528,4
+537,"2gRKq9rIC5i1zuxp06zJWH",What's Left of You,Chord Overstreet,64,"2021-06-04",{'acoustic pop'},0.731,0.507,0,-6.477,1,0.572,0.0,0.0912,0.265,117.969,178600,4
+538,"7mI47ohbaXHF8Kgt1wAgbc",Nobody Else,Cole Norton,50,"2020-07-10",set(),0.596,0.513,2,-9.846,1,0.293,0.0,0.112,0.23,123.01,212729,4
+542,"583Fc6qU9thMdXu64j1Wus",Nights Like This,St. Lundi,71,"2021-09-03",{'uk pop'},0.664,0.669,1,-5.83,1,0.0487,0.0,0.207,0.555,115.91,190326,4
+548,"7xapw9Oy21WpfEcib2ErSA",Mistletoe,Justin Bieber,63,"2011-01-01","{'canadian pop', 'pop'}",0.657,0.56,6,-9.049,0,0.498,0.0,0.0794,0.854,161.993,182947,4
+552,"64ch5GFGb2lq9NbjPdjkaM",Summerland,half•alive,53,"2022-02-11","{'alt z', 'pov: indie'}",0.709,0.799,2,-4.985,1,0.272,0.0,0.452,0.699,103.879,229653,4
+553,"1utCtRS9AKwl9Kj2jVD1Cr",Hot Tea,half•alive,52,"2022-02-11","{'alt z', 'pov: indie'}",0.538,0.676,10,-4.73,0,0.0855,0.0,0.202,0.378,126.035,174400,4
+554,"5norEDC5hzjxQIPlyKteMk",Back Around,half•alive,41,"2022-02-11","{'alt z', 'pov: indie'}",0.682,0.833,10,-4.675,1,0.162,0.00000274,0.609,0.579,120.03,224920,4
+555,"3CftudKRHDfd1NuB2bYTFj",High Up,half•alive,44,"2022-12-02","{'alt z', 'pov: indie'}",0.644,0.738,5,-6.367,1,0.191,0.00167,0.117,0.532,145.998,209160,4
+556,"7Gk8IPlFTLUcoIH3mtASI0",Record Player,AJR,59,"2022-10-27","{'pov: indie', 'brooklyn indie'}",0.665,0.686,11,-7.049,0,0.247,0.0,0.062,0.927,73.987,149538,4
+565,"3KM1RuZ2aZlfnX5tuaPafx",Mindreader,Ella Vos,0,"2023-01-13","{'indie electropop', 'indie poptimism', 'alt z', 'electropop', 'la pop'}",0.647,0.724,8,-7.165,0,0.217,0.0781,0.126,0.702,106.985,190396,4
+598,"3Qm34CS0ZOhQeUgr0O6St6",think about u,Syence,11,"2021-10-15",{'stutter house'},0.601,0.761,10,-3.621,0,0.264,0.0,0.136,0.405,151.799,170526,4
+603,"4DZghpw50ZnO3ckfDuNkft",New Religion,The Heydaze,57,"2017-04-14",{'hopebeat'},0.537,0.863,7,-4.46,1,0.00201,0.0,0.201,0.484,97.02,203587,4
+604,"5LbYbAkAQl6fEzc3T8QT6K",All I've Built,Holden Miller,12,"2022-06-24",{'singer-songwriter pop'},0.658,0.69,5,-8.304,1,0.0768,0.00989,0.667,0.489,144.915,188267,4
+607,"5uMoppTUGhP4l1Unv4OaMX",Lost,Blake Rose,66,"2020-11-06","{'australian electropop', 'singer-songwriter pop'}",0.597,0.687,4,-6.536,1,0.216,0.0,0.107,0.502,94.749,234623,4
+608,"56U84FLjFgsEY6NZvuxa3U",Something to Someone,Dermot Kennedy,50,"2022-11-18","{'folk-pop', 'irish pop', 'uk pop'}",0.521,0.869,0,-6.278,1,0.247,0.00000155,0.0765,0.418,146.931,198107,4
+609,"0cgFnx6yIVv3RrqXlZTiGZ",I Wanna Dance With Somebody - Who Loves Me,Smith & Thell,56,"2022-05-20",{'swedish pop'},0.593,0.787,2,-6.429,1,0.038,0.0,0.194,0.507,125.957,203538,4
+610,"3q9PVufz68TRvOao25IMNk",MOTTO,NF,67,"2023-03-09","{'hip hop', 'pop rap'}",0.685,0.882,0,-4.103,0,0.082,0.0,0.286,0.715,80.283,217272,4
+613,"0yLdNVWF3Srea0uzk55zFn",Flowers,Miley Cyrus,92,"2023-01-13",{'pop'},0.707,0.681,0,-4.325,1,0.0632,0.00000515,0.0322,0.646,117.999,200455,4
+617,"6p9vTtbwiVHMahR5UwNI7k",Ungrateful Eyes,Jon Bellion,46,"2013-12-10",{'indie pop rap'},0.786,0.75,5,-5.137,1,0.213,0.00000562,0.0869,0.656,119.967,204760,4
+630,"5vlEg2fT4cFWAqU5QptIpQ",Replay,Iyaz,74,"2009-08-11","{'dance pop', 'post-teen pop', 'pop rap'}",0.706,0.751,9,-6.323,1,0.173,0.0,0.168,0.195,91.031,182307,4
+632,"1z3IMCIkXgToOI9idKDSrU",Get Me out of Here,Milva,47,"2020-07-03",set(),0.68,0.64,11,-6.957,1,0.0231,0.00000502,0.0893,0.61,103.094,186250,4
+634,"40EJ13BOHJ4e7HAJ0GzKIC",Leap Of Faith,Christopher,49,"2021-03-26",{'danish pop'},0.677,0.631,11,-6.729,0,0.101,0.0,0.132,0.368,126.88,217714,4
+636,"0p4K6vPDV2bnwCK1hihpt7",Good In Me,Andy Grammer,52,"2022-11-11","{'post-teen pop', 'neo mellow'}",0.571,0.588,2,-7.84,1,0.155,0.0000121,0.197,0.325,96.886,181270,3
+647,"3vBTFVEcGhmH13Y0Lj9UTN",BULLET,NF,67,"2023-04-07","{'hip hop', 'pop rap'}",0.668,0.883,6,-4.031,0,0.287,0.0,0.48,0.144,82.874,222511,4
+656,"1squCbXxHkHAO0VYRjTl2S",Worth It,Colbie Caillat,65,"2023-04-21","{'dance pop', 'neo mellow', 'pop'}",0.515,0.661,1,-6.776,1,0.0957,0.0,0.0985,0.376,155.928,183107,4
+658,"4u4A4lPpiw54evLxTaLeRJ",Dusty,Ed Sheeran,67,"2023-05-05","{'singer-songwriter pop', 'uk pop', 'pop'}",0.711,0.55,2,-9.682,1,0.226,0.00928,0.12,0.616,146.928,223033,4
+660,"2ISSQPb9LHHiV6ng2NXosL",Beautiful Now,Jon Bellion,71,"2015-05-18","{'complextro', 'edm', 'indie pop rap', 'pop dance', 'pop', 'german techno'}",0.628,0.833,11,-4.126,0,0.0079,0.0000148,0.074,0.56,128.003,218293,4
+666,"4Sk74gcXTe9dnE1HU5Pn1y",The Bottom,Gracie Abrams,62,"2021-11-12",{'alt z'},0.722,0.596,5,-5.072,1,0.414,0.0000092,0.133,0.903,94.512,180489,3
+668,"0n56JNrFkvV9PobjydZiSa",Adventure Is Out There,AJR,50,"2021-03-26",{'pov: indie'},0.566,0.534,8,-8.833,1,0.0774,0.00000952,0.156,0.594,161.872,211103,4
+669,"6N22Yl2nHPnksP1hu3mxJE",I Don't Belong In This Club,Macklemore,52,"2019-03-20","{'boy band', 'seattle hip hop', 'pop rap', 'pop'}",0.797,0.543,11,-5.744,1,0.0202,0.0,0.0726,0.164,115.036,222621,4
+670,"5C8ySsx3AT121g24uYR823",NO BAD DAYS (feat. Collett),Collett,73,"2023-03-03","{'seattle hip hop', 'pop rap'}",0.769,0.858,8,-6.01,1,0.117,0.0186,0.157,0.86,160.049,173453,4
+673,"0k5xkItU0tExRQwVtamps7",End of the Road,Nick Luebke,33,"2013-03-05",set(),0.715,0.768,0,-6.693,1,0.34,0.0,0.383,0.526,93.034,193871,4
+674,"5meVa5klVlJalupZTvv5XX","21",Gracie Abrams,72,"2020-07-14",{'alt z'},0.759,0.665,2,-6.338,1,0.494,0.0,0.109,0.391,125.056,185173,4
+678,"6nH085xLjZhrZpqlgs46M4",Indigo,Adelaide James,25,"2023-05-10",{'nyc pop'},0.782,0.661,1,-6.06,1,0.198,0.000244,0.114,0.559,170.053,157815,4
+683,"2y0zJlae50VyzO7NCrQe06",Heartworks,Wingtip,65,"2019-10-02",{'nyc pop'},0.777,0.527,5,-7.195,1,0.126,0.0000119,0.09,0.753,105.017,159755,4
+685,"4djIFfof5TpbSGRZUpsTXq",Talk Too Much,COIN,73,"2017-04-21",{'pov: indie'},0.598,0.888,4,-5.119,1,0.00947,0.0,0.347,0.482,103.966,187133,4
+686,"06ncaphlb6ccM7tdUgGhW4",MANIAC (feat. Windser),Windser,56,"2023-03-03","{'seattle hip hop', 'pop rap'}",0.708,0.674,11,-7.434,1,0.137,0.0,0.258,0.736,152.051,180902,4
+688,"6fKpX8Zm3BR8SaZ4p20TA6",Smoke and Mirrors,DOUBLECAMP,59,"2020-07-08",{'modern indie pop'},0.745,0.681,4,-5.733,1,0.051,0.00000126,0.314,0.91,149.962,191348,4
+689,"6uc6et9rL6dHhdnLc5LsFP",Did I Make You Up?,half•alive,56,"2022-12-02","{'alt z', 'pov: indie'}",0.714,0.623,9,-5.636,1,0.452,0.0000756,0.0789,0.285,95.048,149773,4
+690,"6ygnNi801EHjdr9uU3YuZE",Only Human,Ryan Mack,70,"2022-02-15","{'singer-songwriter pop', 'irish pop'}",0.702,0.509,7,-7.088,0,0.176,0.0,0.049,0.673,179.917,135560,4
+692,"7DbdUf8aHSYoliSjO6LZv6","Sex, Drugs, Etc.",Beach Weather,83,"2016-11-04",set(),0.572,0.839,4,-5.083,0,0.013,0.00976,0.522,0.465,143.969,196784,4
+695,"72RzbSNBYwD9KupDKRwWZ0",Passion Fashion,Jon Bellion,46,"2019-08-07","{'folk-pop', 'banjo', 'indie pop rap', 'stomp and holler'}",0.651,0.839,5,-4.644,1,0.0114,0.0000272,0.371,0.767,84.954,203239,4
+706,"3k79jB4aGmMDUQzEwa46Rz",vampire,Olivia Rodrigo,98,"2023-06-30",{'pop'},0.511,0.532,5,-5.745,1,0.169,0.0,0.311,0.322,137.827,219724,4
+707,"6nzXkCBOhb2mxctNihOqbb",Bad Girls,M.I.A.,76,"2013-01-01","{'new rave', 'escape room', 'indietronica'}",0.639,0.912,1,-2.621,1,0.00107,0.0,0.097,0.343,143.448,227520,4
+708,"2etHQJxIbV0soyPhelVs9Y",Best Friend (feat. Doja Cat),Doja Cat,74,"2021-01-07","{'dance pop', 'trap queen', 'cali rap', 'pop'}",0.84,0.766,4,-4.12,1,0.00302,0.00000361,0.0684,0.402,94.018,155884,4
+710,"3DarAbFujv6eYNliUTyqtz",Kiss Me More (feat. SZA),SZA,83,"2021-06-25","{'r&b', 'dance pop', 'rap', 'pop'}",0.764,0.705,8,-3.463,1,0.259,0.0000892,0.12,0.781,110.97,208667,4
+24,"6ReTCbOAUbnKKVBY0ckJMS",Manhattan,Blossom Dearie,50,"1958-01-01",{'vocal jazz'},0.413,0.0342,8,-26.111,1,0.952,0.000314,0.127,0.177,102.662,259707,4
+28,"0OGo0CHKYXBzb9A9KdtQLz",Tout Doucement,Blossom Dearie,53,"1957-04-01",{'vocal jazz'},0.488,0.156,8,-17.617,1,0.89,0.0,0.14,0.379,96.576,143760,4
+61,"4fIWvT19w9PR0VVBuPYpWA",Haven't Met You Yet,Michael Bublé,72,"2009-10-06","{'jazz pop', 'lounge', 'canadian pop', 'adult standards'}",0.615,0.733,8,-4.808,1,0.152,0.0,0.109,0.796,122.58,244587,4
+67,"5r8cnleYmzVjuLzVRQXqbW",Put Your Head on My Shoulder,Michael Bublé,44,"2003","{'jazz pop', 'lounge', 'canadian pop', 'adult standards'}",0.25,0.253,2,-13.568,1,0.78,0.000849,0.14,0.103,119.399,266867,4
+103,"2oFgZSzpbXscqwZQyoFIzW",The Peacocks,Tony Reedus,29,"2004-09-21",{'jazz trio'},0.386,0.148,0,-18.921,0,0.949,0.792,0.0665,0.128,94.88,567920,4
+105,"3KT0SEsaO5RuzQv1pIKDEx",Plus Je T'embrasse,Blossom Dearie,47,"1958-01-01",{'vocal jazz'},0.621,0.108,0,-17.413,0,0.917,0.0,0.106,0.448,136.947,151533,4
+153,"3Mc9PmuAGNevSiKMZsGKtA",You've Got A Friend In Me,Joshua Redman,34,"2011-01-01","{'straight-ahead jazz', 'jazz', 'contemporary jazz', 'jazz saxophone', 'contemporary post-bop'}",0.702,0.192,0,-11.689,0,0.822,0.702,0.142,0.368,129.06,235333,4
+156,"5phLXp2XdLBwLuftxbGe2T",On an Evening in Roma (Sott'er Celo de Roma),Michael Bublé,0,"2016-09-23","{'jazz pop', 'lounge', 'canadian pop', 'adult standards'}",0.431,0.334,6,-7.645,1,0.684,0.00000289,0.119,0.658,137.021,162520,4
+177,"1emJEaD89zDqqY2QdgWiqW",Don’t Stop,Jon Batiste,34,"2018-09-28",{'new orleans jazz'},0.382,0.172,6,-12.637,0,0.95,0.000137,0.117,0.155,77.734,229880,4
+180,"4ILOGFnSMDzbtn0zXMCFwW",Try Your Wings,Blossom Dearie,39,"1997-01-01",{'vocal jazz'},0.555,0.0287,5,-22.592,1,0.984,0.000146,0.18,0.294,120.47,203733,4
+181,"0PH9BOy0zeIuxiDuaUYl4P",How Little We Know,Susannah McCorkle,0,"1996-01-01","{'vocal jazz', 'contemporary vocal jazz'}",0.597,0.224,1,-12.736,1,0.872,0.0,0.0918,0.406,122.084,220560,4
+184,"5qRJZGqWHMpKRxk8rmAVto",Gloomy Sunday,Branford Marsalis,35,"2004-01-01","{'jazz saxophone', 'new orleans jazz', 'jazz', 'contemporary post-bop'}",0.421,0.0967,7,-16.441,0,0.91,0.415,0.218,0.183,77.401,763467,4
+185,"6ybViy2qrO9sIi41EgRJgx",Don't Know Why,Norah Jones,5,"2002-02-26","{'jazz pop', 'vocal jazz', 'contemporary vocal jazz'}",0.732,0.198,5,-11.775,1,0.883,0.000011,0.0659,0.618,88.174,186147,4
+195,"6crfO56bDm0RjpctUuGs5X",I'm In The Mood For Love,Julie London,61,"1955-12-01","{'torch song', 'vocal jazz'}",0.58,0.0545,9,-14.594,0,0.963,0.000265,0.0967,0.177,123.341,149827,4
+211,"5b7OgznPJJr1vHNYGyvxau",Fly Me To The Moon (In Other Words),Count Basie,74,"1962-12-10","{'swing', 'adult standards', 'vocal jazz', 'harlem renaissance', 'jazz', 'easy listening', 'lounge', 'jazz piano', 'big band'}",0.668,0.26,7,-14.256,1,0.453,0.0,0.0621,0.368,119.416,147000,4
+212,"2EIaO5knwUA3F2qnf9LV3S",Beyond the Sea,Bobby Darin,57,"2004-11-23","{'vocal jazz', 'adult standards', 'easy listening', 'rock-and-roll', 'lounge'}",0.521,0.516,2,-7.456,0,0.723,0.0,0.257,0.569,136.483,172480,4
+246,"7azKk54xoNtNRv2g7KjGYD",La mer - Beyond the Sea,Stéphane Grappelli,24,"2005-10-17","{'swing', 'jazz guitar', 'gypsy jazz', 'french jazz', 'jazz', 'jazz violin'}",0.42,0.339,5,-10.402,1,0.968,0.459,0.0992,0.403,93.959,257680,4
+268,"6YNMblb8KCYybR74rBvULv",The Next Step,Kamasi Washington,0,"2015-05-05","{'indie soul', 'jazz', 'contemporary jazz', 'jazz saxophone', 'afrofuturism'}",0.35,0.352,10,-11.428,1,0.415,0.783,0.0773,0.113,113.982,888851,4
+269,"0HRxKhMUnbUkNlthfy638e",Isabelle,Kamasi Washington,0,"2015-05-05","{'indie soul', 'jazz', 'contemporary jazz', 'jazz saxophone', 'afrofuturism'}",0.326,0.426,9,-12.941,0,0.716,0.889,0.113,0.163,133.461,732539,4
+270,"2oMpRIXgSHpmdOMPLGn4c9",Askim,Kamasi Washington,0,"2015-05-05","{'indie soul', 'jazz', 'contemporary jazz', 'jazz saxophone', 'afrofuturism'}",0.347,0.576,5,-10.094,0,0.0508,0.786,0.112,0.387,107.196,754641,3
+271,"23cs3f5e8dQ3UUOFHHv4D5",Change of the Guard,Kamasi Washington,0,"2015-05-05","{'indie soul', 'jazz', 'contemporary jazz', 'jazz saxophone', 'afrofuturism'}",0.29,0.765,9,-8.988,0,0.0828,0.863,0.105,0.366,117.986,735808,4
+272,"2m9qCOrGUqNfi5ssNXktKp",Knowledge,Kamasi Washington,0,"2017-09-29","{'indie soul', 'jazz', 'contemporary jazz', 'jazz saxophone', 'afrofuturism'}",0.217,0.865,3,-6.719,1,0.643,0.761,0.107,0.365,77.548,231941,4
+273,"7KkpZSHhQXcecsB0Hgu4Wd",Desire,Kamasi Washington,0,"2017-09-29","{'indie soul', 'jazz', 'contemporary jazz', 'jazz saxophone', 'afrofuturism'}",0.306,0.65,0,-10.073,1,0.553,0.776,0.136,0.374,88.088,276910,4
+274,"5k46C7aYLCMI0YnoQdohZf",Integrity,Kamasi Washington,0,"2017-09-29","{'indie soul', 'jazz', 'contemporary jazz', 'jazz saxophone', 'afrofuturism'}",0.344,0.921,2,-7.421,1,0.546,0.919,0.236,0.408,103.262,227493,4
+275,"41AtPa0RB4WZxbMag1S5Ym",Truth,Kamasi Washington,0,"2017-09-29","{'indie soul', 'jazz', 'contemporary jazz', 'jazz saxophone', 'afrofuturism'}",0.309,0.838,2,-8.134,1,0.0851,0.63,0.143,0.391,115.26,810322,4
+276,"6BOru56RwBcQli1OWeMb68",Humility,Kamasi Washington,0,"2017-09-29","{'indie soul', 'jazz', 'contemporary jazz', 'jazz saxophone', 'afrofuturism'}",0.416,0.913,9,-5.239,1,0.0814,0.851,0.275,0.385,112.766,166165,4
+284,"13JiZ2CbI93mkc4C9dYmDS","My, My, My",Gerald Albright,0,"1990-10-30","{'smooth jazz', 'jazz saxophone', 'smooth saxophone'}",0.608,0.721,0,-7.28,1,0.276,0.704,0.0768,0.716,152.442,307600,4
+315,"6VtN9E9WbYtjLnJwZO3MER",Play That Funky Music,David Sanborn,18,"2006-06-13","{'jazz funk', 'smooth jazz', 'modern big band', 'smooth saxophone', 'jazz orchestra', 'jazz saxophone', 'big band'}",0.76,0.905,0,-4.446,1,0.122,0.8,0.046,0.652,110.977,373280,4
+316,"6O1Wq633TG4EGDPbVZW7YU",Hunting Wabbits,Gordon Goodwin's Big Phat Band,28,"2003-09-23","{'jazz orchestra', 'big band', 'modern big band'}",0.664,0.537,0,-4.087,0,0.719,0.846,0.0581,0.449,158.207,380867,4
+317,"3MmtFohpZUmEzwUQgJvg0I",The Jazz Police,Gordon Goodwin's Big Phat Band,36,"2003-09-23","{'jazz orchestra', 'big band', 'modern big band'}",0.551,0.918,5,-0.837,1,0.121,0.578,0.0723,0.557,169.819,319173,4
+318,"5BRipbXVxysFmKUdu8tLZK",Count Bubba,Gordon Goodwin's Big Phat Band,32,"2001-01-23","{'jazz orchestra', 'big band', 'modern big band'}",0.667,0.528,5,-5.725,0,0.472,0.656,0.138,0.554,91.316,453333,4
+323,"0hHTTR3J3396GyeWFvFBfh",The Next Level,Gerald Albright,12,"2002-01-01","{'smooth jazz', 'jazz saxophone', 'smooth saxophone'}",0.724,0.878,5,-5.683,1,0.308,0.87,0.316,0.903,100.005,283173,4
+326,"4zPDjRgceGrR0Sm54YDTTf",Autumn Nocturne,Lou Donaldson,57,"1958","{'hard bop', 'soul jazz', 'bebop', 'jazz saxophone'}",0.539,0.0678,0,-18.039,1,0.967,0.168,0.114,0.263,124.105,294667,4
+330,"7KJ3nYbH2T7nJ0Viwl67bx",September,Gordon Goodwin's Big Phat Band,17,"2008-09-30","{'jazz orchestra', 'big band', 'modern big band'}",0.815,0.61,2,-4.902,0,0.407,0.00000449,0.0377,0.933,128.0,270640,4
+332,"5smXYECnd8cqQrCaEKyvc3",I Stand Accused,Gerald Albright,7,"2008-01-01","{'smooth jazz', 'jazz saxophone', 'smooth saxophone'}",0.629,0.516,5,-5.891,1,0.58,0.696,0.122,0.326,125.897,310307,3
+333,"7fAsAJyr2vrgEugz9el8d6",Act Your Age,Gordon Goodwin's Big Phat Band,23,"2008-09-30","{'jazz orchestra', 'big band', 'modern big band'}",0.837,0.711,0,-5.246,0,0.252,0.607,0.0808,0.883,125.99,348907,4
+335,"2LqV2d9yAVyCMRO7EQWvmi",You've Got A Friend In Me,Tom Scott,0,"1999-01-01","{'smooth jazz', 'jazz funk'}",0.565,0.5,9,-8.6,1,0.28,0.743,0.127,0.693,133.107,177693,4
+340,"6rK27cC9hX0e1Chrnxo9Vn",My Romance - Rudy Van Gelder Remaster,Gene Ammons,54,"2006-01-01","{'jazz saxophone', 'soul jazz'}",0.519,0.0422,1,-10.778,1,0.966,0.929,0.124,0.397,130.436,252947,3
+341,"7Kc85wFZ9UBoGEBCtGrQnK",Minsoldat (My Soldier),Kristian Leth,0,"2013-06-25","{'danish indie', 'swedish jazz', 'danish jazz', 'german jazz', 'jazz saxophone'}",0.461,0.192,5,-12.535,0,0.945,0.844,0.12,0.34,67.011,506320,4
+342,"6f6OQJv9qjqyJq9NHin45n",Blue Ballad,Space Jazz Trio,41,"2011-09-19","{'jazz saxophone', 'contemporary post-bop'}",0.47,0.156,2,-17.036,1,0.623,0.187,0.104,0.059,118.176,394920,4
+349,"6JXGqMLXr0WhiJ6rtI8S4W",Hammerhead,Jeff Beck,37,"2010-03-10","{'jazz fusion', 'symphonic rock', 'album rock', 'british blues', 'classic rock', 'blues rock', 'instrumental rock', 'hard rock', 'electric blues', 'art rock', 'blues', 'progressive rock'}",0.299,0.715,7,-4.575,1,0.00629,0.483,0.233,0.348,112.608,255320,4
+352,"1gcuhZPKmTYvn5VT5EZLR6",Cheek To Cheek,Louis Armstrong,0,"1956-01-01","{'swing', 'jazz blues', 'dixieland', 'adult standards', 'vocal jazz', 'new orleans jazz', 'jazz', 'harlem renaissance', 'soul', 'jazz trumpet'}",0.654,0.311,0,-13.314,1,0.595,0.0,0.125,0.677,122.167,353267,4
+354,"4hImrvUZbnx5kUl8MouTnd",Winelight,Gerald Albright,35,"2006-07-18","{'smooth jazz', 'jazz saxophone', 'smooth saxophone'}",0.776,0.786,5,-6.976,0,0.208,0.839,0.11,0.669,98.998,352573,4
+356,"1NHxzKEcrEJWjcYSS771MD",Ain't No Stoppin',Gerald Albright,22,"2002-01-01","{'smooth jazz', 'jazz saxophone', 'smooth saxophone'}",0.826,0.778,0,-5.408,1,0.153,0.873,0.0589,0.908,104.027,259760,4
+357,"1ZxZ0Ggj3vBk5MyY6HmYIe",Walker's Theme,Gerald Albright,19,"2004-01-01","{'smooth jazz', 'jazz saxophone', 'smooth saxophone'}",0.859,0.66,8,-5.752,1,0.0331,0.862,0.0659,0.863,107.023,241227,4
+359,"69COhVyyVQ1zqgx7PG1J4X",Pythodd,"Pat LaBarbera, Clay Jenkins",0,"2005-01-01",{'jazz orchestra'},0.477,0.395,0,-10.719,1,0.602,0.0428,0.13,0.418,149.74,521587,4
+12,"54KFQB6N4pn926IUUYZGzK",To Build A Home,Patrick Watson,76,"2007-05-07","{'downtempo', 'compositional ambient', 'indie quebecois', 'indie folk', 'nu jazz'}",0.264,0.122,9,-15.399,1,0.885,0.349,0.094,0.0735,148.658,371320,4
+171,"4fIWvT19w9PR0VVBuPYpWA",Haven't Met You Yet,Michael Bublé,72,"2009-10-06","{'jazz pop', 'lounge', 'canadian pop', 'adult standards'}",0.615,0.733,8,-4.808,1,0.152,0.0,0.109,0.796,122.58,244587,4
+235,"0fVUKrJpQM7jMTgOABVkyi",This Bitter Earth / On The Nature Of Daylight,Chris Worsey,45,"2018-05-11","{'jazz blues', 'compositional ambient', 'modern cello', 'british soundtrack', 'post-minimalism', 'neo-classical', 'soul'}",0.0913,0.302,10,-13.254,0,0.184,0.781,0.107,0.0363,79.317,372747,5
+698,"6q4c1vPRZREh7nw3wG7Ixz",That Home,The Cinematic Orchestra,70,"2007-05-07","{'nu jazz', 'downtempo', 'compositional ambient'}",0.412,0.159,9,-14.214,1,0.991,0.772,0.083,0.0389,85.462,103920,4
+2,"5XCjqm9GXkQtn2wia6O4c6",Bioshock Infinite - After You've Gone - Main Theme - Clean Sound,Geek Music,34,"2019-04-05",{'theme'},0.533,0.153,3,-13.275,1,0.953,0.0000295,0.0949,0.387,84.118,175363,4
+17,"0JOD85cRNVI7qbLz8NBaQP",Labyrinth of Eden,Joe Hisaishi,39,"2002-03-06","{'japanese classical', 'orchestral soundtrack', 'anime', 'japanese soundtrack', 'anime score'}",0.458,0.0875,0,-23.444,1,0.995,0.884,0.112,0.111,122.274,213773,3
+149,"4JtvyWkWQTPVcroZf8JJkp",Heart of Courage,Two Steps from Hell,68,"2010-05-03","{'orchestral soundtrack', 'epicore'}",0.403,0.591,1,-8.126,1,0.511,0.896,0.108,0.192,135.047,117395,4
+283,"02JIdsrod3BYucThfUFDUX",Le Festin,Michael Giacchino,66,"2007-01-01","{'orchestral soundtrack', 'soundtrack', 'nouvelle chanson francaise', 'chanson'}",0.439,0.303,3,-10.839,1,0.839,0.0,0.071,0.268,139.475,170787,3
