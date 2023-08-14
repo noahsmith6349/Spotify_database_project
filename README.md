@@ -19,6 +19,8 @@ Noah's:
 Secondary requirements:
 - prefer songs less than 4 minutes
 
+As time goes on, I plan to add to this project by making an algorithm that reccomends songs to add to our shared playlist. But for now, the scripts are as follows:
+
 SQL_Python_projject_final.py
 - This script gathers the spotify data from two set playlists.
 - It takes my Spotify api client credientials (stored in the .env file) and collects all the meta data from the songs in the playlist.
