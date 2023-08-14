@@ -3,7 +3,7 @@
 
 ## About this project:
 
-My friend Zsoli and I have very different tastes in music. We wanted to create a spotify playlist that combines
+### My friend Zsoli and I have very different tastes in music. We wanted to create a spotify playlist that combines
 some of our music based on the following criteia:
 
 Primary requirements:
