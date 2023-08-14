@@ -4,20 +4,20 @@
 ## About this project:
 
 ### My friend Zsoli and I have very different tastes in music. We wanted to create a spotify playlist that combines
-some of our music based on the following criteia:
+### some of our music based on the following criteia:
 
-Primary requirements:
-Zsoli's:
-- no rock
-- maximize energy and danceability from spotify's metadata
+### Primary requirements:
+### Zsoli's:
+### - no rock
+### - maximize energy and danceability from spotify's metadata
 
-Noah's: 
-- keep all jazz
-- no country
-- keep all indie music
+### Noah's: 
+### - keep all jazz
+### - no country
+### - keep all indie music
 
-Secondary requirements:
-- prefer songs less than 4 minutes
+### Secondary requirements:
+### - prefer songs less than 4 minutes
 
 As time goes on, I plan to add to this project by making an algorithm that reccomends songs to add to our shared playlist. But for now, the scripts are as follows:
 
